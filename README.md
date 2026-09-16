@@ -24,7 +24,7 @@ python -m http.server 4173
 
 `.github/workflows/fetch-repositories.yml` 每 6 小时运行一次，也可以在 Actions 页面手动触发。它会：
 
-1. 使用 GitHub Search API 搜索 retro、retrogaming、pixel-art、emulator 等信号。
+1. 使用 GitHub Search API 搜索 retro、retrogaming、pixel-art、emulator 等关键词。
 2. 结合热度、主题标签、更新活跃度和人工精选项目，筛选 10 个公开仓库。
 3. 将结果写入 `data/repositories.json`。
 4. 如果数据发生变化，由 `github-actions[bot]` 自动提交回仓库。

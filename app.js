@@ -28,8 +28,6 @@ const elements = {
   itemCount: document.querySelector("#itemCount"),
   categoryCount: document.querySelector("#categoryCount"),
   lastSync: document.querySelector("#lastSync"),
-  syncTime: document.querySelector("#syncTime"),
-  terminalMessage: document.querySelector("#terminalMessage"),
   searchInput: document.querySelector("#searchInput"),
   sortSelect: document.querySelector("#sortSelect"),
 };
@@ -76,7 +74,7 @@ function formatSync(value) {
 }
 
 function normalizeItem(item, index) {
-  const fullName = item.full_name || item.id || item.name || "unknown/relic";
+  const fullName = item.full_name || item.id || item.name || "unknown/project";
   const pieces = fullName.split("/");
   return {
     ...item,
@@ -136,11 +134,11 @@ function cardTemplate(item, index) {
           <span class="cover-fallback__label">${escapeHtml(item.full_name)}</span>
         </div>
         <img class="card-cover-image" src="${cover}" alt="" loading="lazy" />
-        <span class="cover-fallback__badge">RELIC ${String(index + 1).padStart(2, "0")}</span>
+        <span class="cover-fallback__badge">PROJECT ${String(index + 1).padStart(2, "0")}</span>
         <span class="card-cover-shade" aria-hidden="true"></span>
         <span class="card-cover-meta">
-          <span class="card-index">SIGNAL_${String(index + 1).padStart(2, "0")}</span>
-          <span class="card-signal">OPEN SOURCE</span>
+          <span class="card-index">#${String(index + 1).padStart(2, "0")}</span>
+          <span class="card-signal">GITHUB</span>
         </span>
       </a>
       <div class="card-body">
@@ -173,9 +171,9 @@ function renderCards() {
   if (state.items.length === 0) {
     elements.resultSummary.textContent = "暂时没有收到数据";
   } else if (items.length === state.items.length && !state.query && state.filter === "all") {
-    elements.resultSummary.textContent = `${items.length} 个信号已接入 · 本轮完整推荐`;
+    elements.resultSummary.textContent = `${items.length} 个项目`;
   } else {
-    elements.resultSummary.textContent = `当前显示 ${items.length} / ${state.items.length} 个信号`;
+    elements.resultSummary.textContent = `当前显示 ${items.length} / ${state.items.length} 个项目`;
   }
 
   elements.feedGrid.querySelectorAll(".card-cover-image").forEach((image) => {
@@ -270,11 +268,8 @@ async function init() {
     state.items = (payload.items || []).map(normalizeItem);
     updateCategoryCount();
     elements.lastSync.textContent = formatSync(payload.updated_at);
-    elements.syncTime.textContent = formatSync(payload.updated_at);
-    elements.terminalMessage.textContent = `SIGNAL LOCKED / ${state.items.length} RELICS RECEIVED`;
     renderCards();
   } catch (error) {
-    elements.terminalMessage.textContent = "SIGNAL LOST / RETRY LATER";
     elements.resultSummary.textContent = "数据暂时无法接入，请稍后刷新";
     elements.emptyState.hidden = false;
     console.error(error);
