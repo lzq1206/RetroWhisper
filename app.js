@@ -132,7 +132,6 @@ function cardTemplate(item, index) {
           <span class="cover-fallback__label">${escapeHtml(item.full_name)}</span>
         </div>
         <img class="card-cover-image" src="${cover}" alt="" loading="lazy" />
-        <span class="cover-fallback__badge">PROJECT ${String(index + 1).padStart(2, "0")}</span>
         <span class="card-cover-shade" aria-hidden="true"></span>
         <span class="card-cover-meta">
           <span class="card-index">#${String(index + 1).padStart(2, "0")}</span>

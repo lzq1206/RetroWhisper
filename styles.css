@@ -1106,20 +1106,6 @@ button {
 .visual-terminal { --cover-bg: #1b684f; }
 .visual-terminal .cover-fallback__glyph { color: #a9ff75; }
 
-.cover-fallback__badge {
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  z-index: 3;
-  padding: 5px 7px;
-  border: 1px solid rgba(255, 255, 255, 0.38);
-  background: rgba(8, 12, 30, 0.55);
-  color: var(--ink);
-  font-size: 8px;
-  font-weight: 800;
-  letter-spacing: 0.1em;
-}
-
 .card-cover-shade {
   position: absolute;
   inset: 0;
@@ -1619,12 +1605,6 @@ body[data-style="pixel"] .cover-fallback__grid {
   transform: none;
   background: var(--accent);
   box-shadow: 0 10px 0 var(--accent), 0 20px 0 rgba(214, 255, 88, 0.46);
-}
-
-body[data-style="pixel"] .cover-fallback__badge {
-  border: 3px solid var(--accent);
-  border-radius: 0;
-  background: var(--bg-deep);
 }
 
 body[data-style="pixel"] .card-cover-shade {
