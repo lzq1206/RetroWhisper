@@ -25,8 +25,6 @@ const elements = {
   feedGrid: document.querySelector("#feedGrid"),
   emptyState: document.querySelector("#emptyState"),
   resultSummary: document.querySelector("#resultSummary"),
-  itemCount: document.querySelector("#itemCount"),
-  categoryCount: document.querySelector("#categoryCount"),
   lastSync: document.querySelector("#lastSync"),
   searchInput: document.querySelector("#searchInput"),
   sortSelect: document.querySelector("#sortSelect"),
@@ -205,9 +203,7 @@ function updateFilterButtons() {
   });
 }
 
-function updateCategoryCount() {
-  elements.categoryCount.textContent = String(new Set(state.items.map((item) => item.category)).size).padStart(2, "0");
-  elements.itemCount.textContent = String(state.items.length).padStart(2, "0");
+function updateAllCount() {
   const allTab = document.querySelector('[data-filter="all"] span');
   if (allTab) allTab.textContent = state.items.length;
 }
@@ -243,15 +239,6 @@ function attachInteractions() {
     renderCards();
   });
 
-  document.querySelector("#randomPickButton").addEventListener("click", () => {
-    const items = getFilteredItems();
-    if (!items.length) return;
-    const picked = items[Math.floor(Math.random() * items.length)];
-    const card = document.querySelector(`[data-repo-id="${CSS.escape(picked.full_name)}"]`);
-    card?.scrollIntoView({ behavior: "smooth", block: "center" });
-    card?.classList.add("is-picked");
-    window.setTimeout(() => card?.classList.remove("is-picked"), 1200);
-  });
 }
 
 async function loadData() {
@@ -266,7 +253,7 @@ async function init() {
   try {
     const payload = await loadData();
     state.items = (payload.items || []).map(normalizeItem);
-    updateCategoryCount();
+    updateAllCount();
     elements.lastSync.textContent = formatSync(payload.updated_at);
     renderCards();
   } catch (error) {
