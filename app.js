@@ -3,7 +3,7 @@ const state = {
   filter: "all",
   query: "",
   sort: "curated",
-  style: localStorage.getItem("retro-whisper-style") || "pixel",
+  style: localStorage.getItem("retro-whisper-style") || "win98",
 };
 
 const visualGlyphs = {
@@ -186,7 +186,7 @@ function renderCards() {
 }
 
 function setStyle(style) {
-  const nextStyle = ["pixel", "win98", "vista"].includes(style) ? style : "pixel";
+  const nextStyle = ["pixel", "win98", "vista"].includes(style) ? style : "win98";
   state.style = nextStyle;
   document.documentElement.dataset.style = nextStyle;
   elements.body.dataset.style = nextStyle;
@@ -196,7 +196,7 @@ function setStyle(style) {
     button.classList.toggle("is-selected", isSelected);
     button.setAttribute("aria-pressed", String(isSelected));
   });
-  document.querySelector('meta[name="theme-color"]')?.setAttribute("content", nextStyle === "win98" ? "#008080" : nextStyle === "vista" ? "#14213c" : "#111329");
+  document.querySelector('meta[name="theme-color"]')?.setAttribute("content", nextStyle === "win98" ? "#008080" : nextStyle === "vista" ? "#bdeeff" : "#13152f");
 }
 
 function updateFilterButtons() {

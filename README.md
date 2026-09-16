@@ -1,10 +1,14 @@
 # RetroWhisper
 
-RetroWhisper 是一个复古开源推荐墙：从 GitHub 发现游戏、模拟器、像素编辑器和复古工具，并用瀑布流呈现。页面支持三套完整的时代化 UI：
+RetroWhisper 是一个复古开源推荐墙：从 GitHub 发现游戏、模拟器、像素编辑器和复古工具，并用瀑布流呈现。默认进入 Win 98 风格，也可以切换到 Pixel 或 Vista Aero：
 
-- 像素终端：深色 CRT、扫描线、霓虹色和等宽字形。
+- 像素终端：8-bit 点块、硬边框、跳色、像素网格和等宽字形，不使用连续照片封面。
 - Win 98：青绿色桌面、灰色凸起面板、蓝色标题栏和经典按钮边框。
-- Vista 玻璃：Aero 半透明面板、渐变光晕、圆角和玻璃高光。
+- Vista 玻璃：Aero 半透明玻璃、天空/草地渐变、拟物按钮、多层阴影和玻璃高光。
+
+## 设计参考
+
+三套风格的实现参考了 [98.css](https://github.com/jdan/98.css/) 的 Windows 98 凸起/凹陷控件语言、[Pixel-art-8-bit](https://github.com/Team-Parashuram/Pixel-art-8-bit) 的硬边框与像素网格，以及 [Frutiger Aero design guide](https://github.com/lumusitech/AI/blob/main/skills/design-it/frutiger-aero/SKILL.md) 的玻璃、天空/草地渐变和顶部高光。页面保留 RetroWhisper 自己的信息架构，没有直接复制第三方页面模板。
 
 ## 本地预览
 
