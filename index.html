@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="zh-CN" data-style="pixel">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#111329" />
+    <meta
+      name="description"
+      content="RetroWhisper：从 GitHub 发现值得保存的复古游戏、模拟器与像素工具。"
+    />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <title>RetroWhisper — 复古开源推荐墙</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-style="pixel">
+    <a class="skip-link" href="#discoveries">跳到推荐内容</a>
+    <div class="page-noise" aria-hidden="true"></div>
+
+    <div class="site-shell">
+      <header class="site-header" aria-label="主导航">
+        <a class="brand" href="#top" aria-label="RetroWhisper 首页">
+          <span class="brand-mark" aria-hidden="true">RW</span>
+          <span class="brand-copy">
+            <strong>RETRO<span>/</span>WHISPER</strong>
+            <small>OPEN SOURCE RELICS</small>
+          </span>
+        </a>
+        <nav class="main-nav">
+          <a class="nav-link is-active" href="#discoveries">推荐墙</a>
+          <a class="nav-link" href="#about">收集说明</a>
+          <a
+            class="nav-link nav-github"
+            href="https://github.com/lzq1206/RetroWhisper"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <span aria-hidden="true">↗</span> GitHub
+          </a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero" id="top">
+          <div class="hero-copy">
+            <p class="eyebrow"><span class="signal-dot"></span> OPEN SOURCE / RELIC INDEX 04</p>
+            <h1>复古开源，<br /><em>仍在发声。</em></h1>
+            <p class="hero-description">
+              从 GitHub 捞出值得保存的游戏、模拟器和像素工具。
+              每 6 小时更新一轮，十个项目，像一盒刚拆封的旧软盘。
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="#discoveries">开始寻宝 <span aria-hidden="true">↓</span></a>
+              <button class="button button-quiet" type="button" id="randomPickButton">随便挑一个 <span aria-hidden="true">✦</span></button>
+            </div>
+            <div class="terminal-line" aria-label="数据同步状态">
+              <span class="terminal-prompt">&gt;_</span>
+              <span id="terminalMessage">SCANNING FOR GOOD SIGNAL...</span>
+              <span class="terminal-cursor" aria-hidden="true"></span>
+            </div>
+          </div>
+
+          <div class="hero-visual" aria-label="实时扫描面板">
+            <div class="signal-card surface">
+              <div class="signal-card-header">
+                <span><i class="window-light window-light-red"></i><i class="window-light window-light-yellow"></i><i class="window-light window-light-green"></i></span>
+                <span class="signal-card-id">CHANNEL_04</span>
+                <span class="live-badge"><span class="signal-dot"></span> LIVE</span>
+              </div>
+              <div class="signal-screen">
+                <div class="screen-grid" aria-hidden="true"></div>
+                <div class="screen-sun" aria-hidden="true"></div>
+                <div class="screen-mountain screen-mountain-back" aria-hidden="true"></div>
+                <div class="screen-mountain screen-mountain-front" aria-hidden="true"></div>
+                <div class="screen-star star-one" aria-hidden="true">✦</div>
+                <div class="screen-star star-two" aria-hidden="true">✧</div>
+                <div class="screen-label">NOW<br /><strong>SCANNING</strong></div>
+                <div class="screen-wave" aria-hidden="true"></div>
+              </div>
+              <div class="signal-card-footer">
+                <span>FREQ 006.00H</span>
+                <span id="syncTime">SYNCING...</span>
+              </div>
+            </div>
+            <div class="hero-stamp" aria-hidden="true">
+              <span>RW</span>
+              <small>CURATED<br />WITH CARE</small>
+            </div>
+          </div>
+        </section>
+
+        <section class="stats-row" aria-label="推荐统计">
+          <div class="stat-item">
+            <strong id="itemCount">10</strong>
+            <span>本轮发现</span>
+          </div>
+          <div class="stat-item">
+            <strong id="categoryCount">04</strong>
+            <span>种复古信号</span>
+          </div>
+          <div class="stat-item">
+            <strong>06H</strong>
+            <span>自动抓取频率</span>
+          </div>
+          <div class="stat-note">
+            <span class="mini-line"></span>
+            <p>让旧时代的好东西<br />再次被看见。</p>
+          </div>
+        </section>
+
+        <section class="discoveries-section" id="discoveries">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">CURATED BY SIGNAL</p>
+              <h2>本轮推荐<span class="heading-mark">/</span></h2>
+            </div>
+            <div class="sync-readout">
+              <span class="sync-readout-label">LAST SYNC</span>
+              <strong id="lastSync">—</strong>
+              <span class="sync-status"><span class="signal-dot"></span> AUTO</span>
+            </div>
+          </div>
+
+          <div class="style-switcher surface" role="group" aria-label="切换界面风格">
+            <span class="style-switcher-title">切换时代</span>
+            <div class="style-options">
+              <button class="style-option is-selected" type="button" data-style-option="pixel" aria-pressed="true">
+                <span class="style-swatch swatch-pixel" aria-hidden="true"></span>
+                <span><strong>像素终端</strong><small>1980s / ARCADE</small></span>
+              </button>
+              <button class="style-option" type="button" data-style-option="win98" aria-pressed="false">
+                <span class="style-swatch swatch-win98" aria-hidden="true"></span>
+                <span><strong>Win 98</strong><small>1990s / DESKTOP</small></span>
+              </button>
+              <button class="style-option" type="button" data-style-option="vista" aria-pressed="false">
+                <span class="style-swatch swatch-vista" aria-hidden="true"></span>
+                <span><strong>Vista 玻璃</strong><small>2000s / AERO</small></span>
+              </button>
+            </div>
+          </div>
+
+          <div class="feed-toolbar">
+            <div class="filter-tabs" role="tablist" aria-label="项目类型">
+              <button class="filter-tab is-active" type="button" data-filter="all" role="tab" aria-selected="true">全部 <span>10</span></button>
+              <button class="filter-tab" type="button" data-filter="游戏" role="tab" aria-selected="false">游戏</button>
+              <button class="filter-tab" type="button" data-filter="模拟器" role="tab" aria-selected="false">模拟器</button>
+              <button class="filter-tab" type="button" data-filter="工具" role="tab" aria-selected="false">工具</button>
+              <button class="filter-tab" type="button" data-filter="编辑器" role="tab" aria-selected="false">编辑器</button>
+            </div>
+            <div class="feed-controls">
+              <label class="search-box" for="searchInput">
+                <span aria-hidden="true">⌕</span>
+                <input id="searchInput" type="search" placeholder="搜索项目、语言或标签" autocomplete="off" />
+              </label>
+              <label class="sort-control">
+                <span>排序</span>
+                <select id="sortSelect" aria-label="推荐排序">
+                  <option value="curated">精选顺序</option>
+                  <option value="stars">Star 热度</option>
+                  <option value="updated">最近更新</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <div class="feed-summary" aria-live="polite">
+            <span id="resultSummary">正在接收信号...</span>
+            <span class="summary-rule" aria-hidden="true"></span>
+            <span class="summary-tip">点击卡片，回到项目现场 ↗</span>
+          </div>
+
+          <div class="masonry-grid" id="feedGrid" aria-live="polite"></div>
+          <div class="empty-state surface" id="emptyState" hidden>
+            <span class="empty-icon" aria-hidden="true">∅</span>
+            <h3>这条频段暂时安静</h3>
+            <p>换个关键词，或把筛选器拨回「全部」。</p>
+            <button class="button button-primary" type="button" id="resetFilters">清空筛选</button>
+          </div>
+        </section>
+
+        <section class="about-section" id="about">
+          <div class="about-copy">
+            <p class="eyebrow">WHY THIS FEED</p>
+            <h2>不是怀旧，<br /><em>是重新连接。</em></h2>
+          </div>
+          <div class="about-details">
+            <p>
+              RetroWhisper 通过 GitHub Search API 识别带有 retro、pixel-art、emulator、dos 等信号的公开仓库，按热度、更新活跃度和主题相关性整理成一面轻量的推荐墙。
+            </p>
+            <div class="about-metadata">
+              <span><i></i> SOURCE: GITHUB</span>
+              <span><i></i> BATCH: 10 ITEMS</span>
+              <span><i></i> REFRESH: EVERY 6 HOURS</span>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <span>RETRO/WHISPER © 2026</span>
+        <span class="footer-center">MADE FOR THE CURIOUS</span>
+        <a href="#top">回到顶部 ↑</a>
+      </footer>
+    </div>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
