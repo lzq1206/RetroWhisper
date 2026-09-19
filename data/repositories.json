@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T14:56:50Z",
+  "updated_at": "2026-09-19T19:42:08Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "items": [
@@ -52,7 +52,7 @@
       "stars": 1784,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-09-19T09:29:08Z",
+      "updated_at": "2026-09-19T15:05:37Z",
       "category": "模拟器",
       "tags": [
         "MS-DOS",
@@ -88,10 +88,10 @@
       "cover": "https://opengraph.githubassets.com/1/Orama-Interactive/Pixelorama",
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "editor_note": "像素画、精灵、瓦片和动画，一把把旧游戏的视觉零件重新拼起来。",
-      "stars": 10336,
+      "stars": 10337,
       "language": "GDScript",
       "license": "MIT",
-      "updated_at": "2026-09-19T12:22:40Z",
+      "updated_at": "2026-09-19T17:42:06Z",
       "category": "编辑器",
       "tags": [
         "像素绘画",
@@ -132,10 +132,10 @@
       "cover": "https://opengraph.githubassets.com/1/Swordfish90/cool-retro-term",
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "editor_note": "把终端变成一台会发光的老电视：扫描线、磷光和 CRT 噪点都可以调到你喜欢的程度。",
-      "stars": 26407,
+      "stars": 26408,
       "language": "QML",
       "license": "NOASSERTION",
-      "updated_at": "2026-09-19T14:39:31Z",
+      "updated_at": "2026-09-19T18:10:22Z",
       "category": "工具",
       "tags": [
         "CRT",
@@ -190,10 +190,10 @@
       "cover": "https://opengraph.githubassets.com/1/LibreSprite/LibreSprite",
       "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
       "editor_note": "一款坚持像素边缘的精灵编辑器，适合给下一款小小的 2D 游戏准备主角。",
-      "stars": 8419,
+      "stars": 8420,
       "language": "C++",
       "license": "GPL-2.0",
-      "updated_at": "2026-09-19T12:37:10Z",
+      "updated_at": "2026-09-19T16:24:02Z",
       "category": "编辑器",
       "tags": [
         "Sprite",
@@ -225,7 +225,7 @@
       "stars": 4805,
       "language": "C",
       "license": "GPL-2.0",
-      "updated_at": "2026-09-19T03:07:46Z",
+      "updated_at": "2026-09-19T18:32:36Z",
       "category": "模拟器",
       "tags": [
         "x86",
@@ -254,7 +254,7 @@
       "stars": 16238,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-19T10:53:30Z",
+      "updated_at": "2026-09-19T15:27:01Z",
       "category": "游戏",
       "tags": [
         "模拟经营",
@@ -293,10 +293,10 @@
       "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
-      "stars": 14051,
+      "stars": 14052,
       "language": "C",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-19T14:45:54Z",
+      "updated_at": "2026-09-19T19:41:08Z",
       "category": "模拟器",
       "tags": [
         "多平台",
@@ -320,10 +320,10 @@
       "cover": "https://opengraph.githubassets.com/1/OpenTTD/OpenTTD",
       "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
       "editor_note": "铁路、公路、港口和那种一开局就停不下来的运输帝国。复古等距视角依旧很有魔力。",
-      "stars": 8278,
+      "stars": 8279,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-09-19T12:54:55Z",
+      "updated_at": "2026-09-19T16:11:17Z",
       "category": "游戏",
       "tags": [
         "运输模拟",
