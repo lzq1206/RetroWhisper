@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T17:17:55Z",
+  "updated_at": "2026-09-21T21:18:45Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "items": [
@@ -132,10 +132,10 @@
       "cover": "https://opengraph.githubassets.com/1/Swordfish90/cool-retro-term",
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "editor_note": "把终端变成一台会发光的老电视：扫描线、磷光和 CRT 噪点都可以调到你喜欢的程度。",
-      "stars": 26420,
+      "stars": 26423,
       "language": "QML",
       "license": "NOASSERTION",
-      "updated_at": "2026-09-21T16:39:49Z",
+      "updated_at": "2026-09-21T19:52:28Z",
       "category": "工具",
       "tags": [
         "CRT",
@@ -190,10 +190,10 @@
       "cover": "https://opengraph.githubassets.com/1/LibreSprite/LibreSprite",
       "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
       "editor_note": "一款坚持像素边缘的精灵编辑器，适合给下一款小小的 2D 游戏准备主角。",
-      "stars": 8424,
+      "stars": 8426,
       "language": "C++",
       "license": "GPL-2.0",
-      "updated_at": "2026-09-21T16:40:05Z",
+      "updated_at": "2026-09-21T19:23:25Z",
       "category": "编辑器",
       "tags": [
         "Sprite",
@@ -222,10 +222,10 @@
       "cover": "https://opengraph.githubassets.com/1/86Box/86Box",
       "description": "Emulator of x86-based machines.",
       "editor_note": "精确模拟旧 x86 机器，把 BIOS 哔声、软盘和显卡兼容性一起保存下来。",
-      "stars": 4813,
+      "stars": 4815,
       "language": "C",
       "license": "GPL-2.0",
-      "updated_at": "2026-09-21T17:03:36Z",
+      "updated_at": "2026-09-21T21:18:08Z",
       "category": "模拟器",
       "tags": [
         "x86",
@@ -254,7 +254,7 @@
       "stars": 16243,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-21T15:15:42Z",
+      "updated_at": "2026-09-21T21:08:27Z",
       "category": "游戏",
       "tags": [
         "模拟经营",
@@ -296,7 +296,7 @@
       "stars": 14076,
       "language": "C",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-21T17:13:39Z",
+      "updated_at": "2026-09-21T21:15:29Z",
       "category": "模拟器",
       "tags": [
         "多平台",
@@ -320,10 +320,10 @@
       "cover": "https://opengraph.githubassets.com/1/OpenTTD/OpenTTD",
       "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
       "editor_note": "铁路、公路、港口和那种一开局就停不下来的运输帝国。复古等距视角依旧很有魔力。",
-      "stars": 8287,
+      "stars": 8288,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-09-21T15:15:43Z",
+      "updated_at": "2026-09-21T20:26:49Z",
       "category": "游戏",
       "tags": [
         "运输模拟",
