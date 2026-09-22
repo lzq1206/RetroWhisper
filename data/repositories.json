@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T21:18:45Z",
+  "updated_at": "2026-09-22T02:08:21Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "items": [
@@ -222,10 +222,10 @@
       "cover": "https://opengraph.githubassets.com/1/86Box/86Box",
       "description": "Emulator of x86-based machines.",
       "editor_note": "精确模拟旧 x86 机器，把 BIOS 哔声、软盘和显卡兼容性一起保存下来。",
-      "stars": 4815,
+      "stars": 4814,
       "language": "C",
       "license": "GPL-2.0",
-      "updated_at": "2026-09-21T21:18:08Z",
+      "updated_at": "2026-09-22T01:49:34Z",
       "category": "模拟器",
       "tags": [
         "x86",
@@ -251,10 +251,10 @@
       "cover": "https://opengraph.githubassets.com/1/OpenRCT2/OpenRCT2",
       "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
       "editor_note": "把主题公园经营搬回 CRT 屏幕：过山车、像素游客和一整套不肯退休的模拟经营系统。",
-      "stars": 16243,
+      "stars": 16244,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-21T21:08:27Z",
+      "updated_at": "2026-09-21T23:22:28Z",
       "category": "游戏",
       "tags": [
         "模拟经营",
@@ -293,10 +293,10 @@
       "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
-      "stars": 14076,
+      "stars": 14079,
       "language": "C",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-21T21:15:29Z",
+      "updated_at": "2026-09-22T02:07:02Z",
       "category": "模拟器",
       "tags": [
         "多平台",
