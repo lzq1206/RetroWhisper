@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T15:54:28Z",
+  "updated_at": "2026-09-27T20:32:13Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "items": [
@@ -88,10 +88,10 @@
       "cover": "https://opengraph.githubassets.com/1/Orama-Interactive/Pixelorama",
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "editor_note": "像素画、精灵、瓦片和动画，一把把旧游戏的视觉零件重新拼起来。",
-      "stars": 10400,
+      "stars": 10401,
       "language": "GDScript",
       "license": "MIT",
-      "updated_at": "2026-09-27T15:45:14Z",
+      "updated_at": "2026-09-27T19:42:25Z",
       "category": "编辑器",
       "tags": [
         "像素绘画",
@@ -162,10 +162,10 @@
       "cover": "https://opengraph.githubassets.com/1/copy/v86",
       "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
       "editor_note": "直接在浏览器里启动一台 x86 电脑。像把整台旧 PC 折成一张网页，再塞进书签。",
-      "stars": 23535,
+      "stars": 23536,
       "language": "JavaScript",
       "license": "BSD-2-Clause",
-      "updated_at": "2026-09-27T13:02:18Z",
+      "updated_at": "2026-09-27T17:04:08Z",
       "category": "模拟器",
       "tags": [
         "浏览器",
@@ -225,7 +225,7 @@
       "stars": 4839,
       "language": "C",
       "license": "GPL-2.0",
-      "updated_at": "2026-09-27T12:00:48Z",
+      "updated_at": "2026-09-27T20:18:32Z",
       "category": "模拟器",
       "tags": [
         "x86",
@@ -254,7 +254,7 @@
       "stars": 16266,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-27T07:01:23Z",
+      "updated_at": "2026-09-27T20:21:24Z",
       "category": "游戏",
       "tags": [
         "模拟经营",
@@ -293,10 +293,10 @@
       "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
-      "stars": 14135,
+      "stars": 14139,
       "language": "C",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-27T15:41:09Z",
+      "updated_at": "2026-09-27T20:14:52Z",
       "category": "模拟器",
       "tags": [
         "多平台",
