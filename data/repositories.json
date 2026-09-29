@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:42:41Z",
+  "updated_at": "2026-09-29T17:09:14Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "items": [
@@ -91,7 +91,7 @@
       "stars": 10422,
       "language": "GDScript",
       "license": "MIT",
-      "updated_at": "2026-09-29T10:28:10Z",
+      "updated_at": "2026-09-29T14:15:55Z",
       "category": "编辑器",
       "tags": [
         "像素绘画",
@@ -135,7 +135,7 @@
       "stars": 26463,
       "language": "QML",
       "license": "NOASSERTION",
-      "updated_at": "2026-09-29T11:38:56Z",
+      "updated_at": "2026-09-29T16:09:14Z",
       "category": "工具",
       "tags": [
         "CRT",
@@ -162,10 +162,10 @@
       "cover": "https://opengraph.githubassets.com/1/copy/v86",
       "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
       "editor_note": "直接在浏览器里启动一台 x86 电脑。像把整台旧 PC 折成一张网页，再塞进书签。",
-      "stars": 23540,
+      "stars": 23539,
       "language": "JavaScript",
       "license": "BSD-2-Clause",
-      "updated_at": "2026-09-29T04:03:00Z",
+      "updated_at": "2026-09-29T16:09:14Z",
       "category": "模拟器",
       "tags": [
         "浏览器",
@@ -225,7 +225,7 @@
       "stars": 4851,
       "language": "C",
       "license": "GPL-2.0",
-      "updated_at": "2026-09-29T11:16:07Z",
+      "updated_at": "2026-09-29T15:05:54Z",
       "category": "模拟器",
       "tags": [
         "x86",
@@ -254,7 +254,7 @@
       "stars": 16267,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-29T11:02:36Z",
+      "updated_at": "2026-09-29T14:43:22Z",
       "category": "游戏",
       "tags": [
         "模拟经营",
@@ -293,10 +293,10 @@
       "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
-      "stars": 14165,
+      "stars": 14171,
       "language": "C",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-29T10:22:34Z",
+      "updated_at": "2026-09-29T17:04:51Z",
       "category": "模拟器",
       "tags": [
         "多平台",
@@ -323,7 +323,7 @@
       "stars": 8310,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-09-29T08:33:07Z",
+      "updated_at": "2026-09-29T15:03:50Z",
       "category": "游戏",
       "tags": [
         "运输模拟",
