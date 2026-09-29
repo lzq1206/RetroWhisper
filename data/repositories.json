@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T22:42:01Z",
+  "updated_at": "2026-09-29T03:01:14Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "items": [
@@ -52,7 +52,7 @@
       "stars": 1794,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-09-28T17:55:13Z",
+      "updated_at": "2026-09-29T00:05:34Z",
       "category": "模拟器",
       "tags": [
         "MS-DOS",
@@ -88,10 +88,10 @@
       "cover": "https://opengraph.githubassets.com/1/Orama-Interactive/Pixelorama",
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "editor_note": "像素画、精灵、瓦片和动画，一把把旧游戏的视觉零件重新拼起来。",
-      "stars": 10411,
+      "stars": 10412,
       "language": "GDScript",
       "license": "MIT",
-      "updated_at": "2026-09-28T20:28:28Z",
+      "updated_at": "2026-09-28T23:44:52Z",
       "category": "编辑器",
       "tags": [
         "像素绘画",
@@ -190,10 +190,10 @@
       "cover": "https://opengraph.githubassets.com/1/LibreSprite/LibreSprite",
       "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
       "editor_note": "一款坚持像素边缘的精灵编辑器，适合给下一款小小的 2D 游戏准备主角。",
-      "stars": 8460,
+      "stars": 8463,
       "language": "C++",
       "license": "GPL-2.0",
-      "updated_at": "2026-09-28T19:10:15Z",
+      "updated_at": "2026-09-29T01:22:51Z",
       "category": "编辑器",
       "tags": [
         "Sprite",
@@ -222,10 +222,10 @@
       "cover": "https://opengraph.githubassets.com/1/86Box/86Box",
       "description": "Emulator of x86-based machines.",
       "editor_note": "精确模拟旧 x86 机器，把 BIOS 哔声、软盘和显卡兼容性一起保存下来。",
-      "stars": 4849,
+      "stars": 4850,
       "language": "C",
       "license": "GPL-2.0",
-      "updated_at": "2026-09-28T18:41:56Z",
+      "updated_at": "2026-09-29T02:29:04Z",
       "category": "模拟器",
       "tags": [
         "x86",
@@ -254,7 +254,7 @@
       "stars": 16266,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-27T20:21:24Z",
+      "updated_at": "2026-09-29T02:45:25Z",
       "category": "游戏",
       "tags": [
         "模拟经营",
@@ -293,10 +293,10 @@
       "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
-      "stars": 14154,
+      "stars": 14158,
       "language": "C",
       "license": "GPL-3.0",
-      "updated_at": "2026-09-28T22:37:41Z",
+      "updated_at": "2026-09-29T02:32:07Z",
       "category": "模拟器",
       "tags": [
         "多平台",
