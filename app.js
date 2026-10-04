@@ -2,7 +2,7 @@ const state = {
   items: [],
   filter: "all",
   query: "",
-  sort: "curated",
+  sort: "collected",
   style: localStorage.getItem("retro-whisper-style") || "win98",
 };
 
@@ -105,7 +105,8 @@ function getFilteredItems() {
   return filtered.sort((a, b) => {
     if (state.sort === "stars") return (b.stars || 0) - (a.stars || 0);
     if (state.sort === "updated") return new Date(b.updated_at || 0) - new Date(a.updated_at || 0);
-    return (a.curated_index ?? 0) - (b.curated_index ?? 0);
+    const collected = (Date.parse(b.first_seen_at) || 0) - (Date.parse(a.first_seen_at) || 0);
+    return collected || (Date.parse(b.updated_at) || 0) - (Date.parse(a.updated_at) || 0) || b.full_name.localeCompare(a.full_name);
   });
 }
 

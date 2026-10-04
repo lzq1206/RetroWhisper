@@ -101,8 +101,8 @@ def fetch_repo(full_name: str) -> dict | None:
         return None
 
 
-def search_repositories(query: str) -> list[dict]:
-    params = urlencode({"q": f"{query} is:public archived:false", "sort": "stars", "order": "desc", "per_page": 30})
+def search_repositories(query: str, page: int = 1) -> list[dict]:
+    params = urlencode({"q": f"{query} is:public archived:false fork:false", "sort": "updated", "order": "desc", "per_page": 100, "page": page})
     try:
         return request_json(f"/search/repositories?{params}").get("items", [])
     except (HTTPError, URLError, TimeoutError, json.JSONDecodeError) as error:
@@ -186,44 +186,59 @@ def select_repositories(candidates: dict[str, dict]) -> list[dict]:
 def load_existing() -> dict:
     try:
         return json.loads(DATA_FILE.read_text(encoding="utf-8"))
-    except (FileNotFoundError, json.JSONDecodeError):
+    except FileNotFoundError:
         return {"items": []}
 
 
+def merge_repositories(existing: dict, candidates: dict[str, dict], timestamp: str) -> dict:
+    # Collection time is independent of repository activity. Refreshes must not
+    # move an old entry back to the top or discard previously collected projects.
+    history = {}
+    for item in existing.get("items", []):
+        key = item["full_name"].casefold()
+        history.setdefault(key, {**item, "first_seen_at": item.get("first_seen_at") or existing.get("updated_at") or "1970-01-01T00:00:00Z"})
+    fresh = {repo["full_name"].casefold(): repo for repo in candidates.values()}
+    for key in history.keys() & fresh.keys():
+        old = history[key]
+        history[key] = {**old, **normalise(fresh[key], old.get("curated_index", 0)), "first_seen_at": old["first_seen_at"]}
+    additions = select_repositories({key: repo for key, repo in fresh.items() if key not in history})
+    for item in additions:
+        history[item["full_name"].casefold()] = {**item, "first_seen_at": timestamp}
+    items = sorted(history.values(), key=lambda item: (item["first_seen_at"], item.get("updated_at", ""), item["full_name"].casefold()), reverse=True)
+    return {
+        "updated_at": timestamp,
+        "source": "GitHub Search API",
+        "refresh_hours": 24,
+        "last_batch_count": len(additions),
+        "search_page": existing.get("search_page", 1) % 10 + 1,
+        "items": items,
+    }
+
+
 def main() -> int:
+    existing = load_existing()
     candidates: dict[str, dict] = {}
     for full_name in CURATED_REPOSITORIES:
         repo = fetch_repo(full_name)
         if repo and not repo.get("archived"):
             candidates[repo["full_name"]] = repo
     for query in SEARCH_QUERIES:
-        for repo in search_repositories(query):
+        # Rotate through GitHub's first 1,000 results rather than repeatedly
+        # selecting the same popular repositories from page one.
+        for repo in search_repositories(query, existing.get("search_page", 1)):
             if repo.get("full_name") and not repo.get("archived"):
                 candidates[repo["full_name"]] = repo
 
-    items = select_repositories(candidates)
-    if len(items) < BATCH_SIZE:
-        existing_items = load_existing().get("items", [])
-        selected_names = {entry.get("full_name") for entry in items}
-        for item in existing_items:
-            if item.get("full_name") not in selected_names:
-                items.append(item)
-                selected_names.add(item.get("full_name"))
-            if len(items) == BATCH_SIZE:
-                break
-    if not items:
-        print("[error] no repositories were fetched and no previous data exists", file=sys.stderr)
+    if not candidates:
+        print("[error] fetch failed; existing data and sync time left untouched", file=sys.stderr)
         return 1
 
-    payload = {
-        "updated_at": now_iso(),
-        "source": "GitHub Search API",
-        "refresh_hours": 6,
-        "items": items[:BATCH_SIZE],
-    }
+    payload = merge_repositories(existing, candidates, now_iso())
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
-    DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"[ok] wrote {len(payload['items'])} recommendations to {DATA_FILE}")
+    temporary = DATA_FILE.with_suffix(".json.tmp")
+    temporary.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temporary.replace(DATA_FILE)
+    print(f"[ok] added {payload['last_batch_count']} projects; total {len(payload['items'])}")
     return 0
 
 

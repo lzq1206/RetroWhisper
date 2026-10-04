@@ -2,7 +2,8 @@ name: Refresh retro recommendations
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Daily at 09:17 Asia/Shanghai (GitHub schedules can be delayed).
+    - cron: "17 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,7 +25,10 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Pull ten retro projects from GitHub
+      - name: Test incremental feed updates
+        run: python -m unittest discover -s tests -v
+
+      - name: Collect up to ten new retro projects and retain history
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_repositories.py
@@ -35,4 +39,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/repositories.json
           git diff --cached --quiet || git commit -m "chore(data): refresh retro recommendations"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main

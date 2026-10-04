@@ -22,14 +22,16 @@ python -m http.server 4173
 
 ## 自动抓取
 
-`.github/workflows/fetch-repositories.yml` 每 6 小时运行一次，也可以在 Actions 页面手动触发。它会：
+`.github/workflows/fetch-repositories.yml` 每天北京时间 09:17 运行一次（GitHub 调度可能延迟），也可以在 Actions 页面手动触发。它会：
 
 1. 使用 GitHub Search API 搜索 retro、retrogaming、pixel-art、emulator 等关键词。
-2. 结合热度、主题标签、更新活跃度和人工精选项目，筛选 10 个公开仓库。
-3. 将结果写入 `data/repositories.json`。
+2. 按近期活动搜索并轮换结果页，排除已经收录的仓库，每次新增最多 10 个项目；候选不足时按实际数量收录。
+3. 将结果追加到 `data/repositories.json`，保留历史项目、去重并记录首次收录时间。页面默认按收录时间倒序，同批项目按仓库更新时间倒序；仍可切换 Star 热度或最近更新排序。
 4. 如果数据发生变化，由 `github-actions[bot]` 自动提交回仓库。
 
-GitHub Pages 的部署由 `.github/workflows/deploy-pages.yml` 负责。首次使用时，请在仓库的 **Settings → Pages** 中将构建来源设为 **GitHub Actions**。
+GitHub Pages 的部署由 `.github/workflows/deploy-pages.yml` 负责，抓取任务成功后通过 `workflow_run` 自动部署最新数据。全部 API 请求失败时任务报错，保留原数据和同步时间。旧数据的首次收录时间使用迁移前的同步时间，不声称是原始收录日期。首次使用时，请在仓库的 **Settings → Pages** 中将构建来源设为 **GitHub Actions**。
+
+回归测试：`python -m unittest discover -s tests -v`。
 
 ## 目录
 
@@ -37,7 +39,7 @@ GitHub Pages 的部署由 `.github/workflows/deploy-pages.yml` 负责。首次�
 index.html                     页面结构
 styles.css                     三套风格和响应式布局
 app.js                         瀑布流、筛选、搜索和风格切换
-data/repositories.json         当前十条推荐
+data/repositories.json         历次收录的全部推荐
 scripts/fetch_repositories.py  GitHub API 抓取器
 .github/workflows/              定时抓取与 Pages 部署
 ```
