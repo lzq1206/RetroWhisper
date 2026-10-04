@@ -36,7 +36,7 @@ class FeedTests(unittest.TestCase):
         result = feed.merge_repositories({"search_page": 10}, {"a": repository("retro/a")}, "2026-10-04T00:00:00Z")
         self.assertEqual(result["last_batch_count"], 1)
         self.assertEqual(result["search_page"], 1)
-        self.assertEqual(result["refresh_hours"], 24)
+        self.assertEqual(result["refresh_hours"], 6)
 
     def test_failed_fetch_leaves_file_byte_identical(self):
         with tempfile.TemporaryDirectory() as directory:

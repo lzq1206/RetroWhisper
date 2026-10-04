@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-10-04T02:52:28Z",
   "source": "GitHub Search API",
-  "refresh_hours": 24,
+  "refresh_hours": 6,
   "last_batch_count": 10,
   "search_page": 3,
   "items": [

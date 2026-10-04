@@ -2,8 +2,8 @@ name: Refresh retro recommendations
 
 on:
   schedule:
-    # Daily at 09:17 Asia/Shanghai (GitHub schedules can be delayed).
-    - cron: "17 1 * * *"
+    # 03:17, 09:17, 15:17, 21:17 Asia/Shanghai (schedules can be delayed).
+    - cron: "17 1,7,13,19 * * *"
   workflow_dispatch:
 
 permissions:

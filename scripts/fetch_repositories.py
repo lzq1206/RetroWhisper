@@ -208,7 +208,7 @@ def merge_repositories(existing: dict, candidates: dict[str, dict], timestamp: s
     return {
         "updated_at": timestamp,
         "source": "GitHub Search API",
-        "refresh_hours": 24,
+        "refresh_hours": 6,
         "last_batch_count": len(additions),
         "search_page": existing.get("search_page", 1) % 10 + 1,
         "items": items,

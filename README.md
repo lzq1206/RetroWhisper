@@ -22,7 +22,7 @@ python -m http.server 4173
 
 ## 自动抓取
 
-`.github/workflows/fetch-repositories.yml` 每天北京时间 09:17 运行一次（GitHub 调度可能延迟），也可以在 Actions 页面手动触发。它会：
+`.github/workflows/fetch-repositories.yml` 每天运行四次，北京时间 03:17、09:17、15:17、21:17 各一次，即每 6 小时更新（GitHub 调度可能延迟），也可以在 Actions 页面手动触发。它会：
 
 1. 使用 GitHub Search API 搜索 retro、retrogaming、pixel-art、emulator 等关键词。
 2. 按近期活动搜索并轮换结果页，排除已经收录的仓库，每次新增最多 10 个项目；候选不足时按实际数量收录。
