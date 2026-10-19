@@ -80,7 +80,7 @@ function normalizeItem(item, index) {
     full_name: fullName,
     name: item.name || pieces.at(-1),
     owner: item.owner || pieces[0] || "unknown",
-    description: item.description || item.editor_note || "一个值得被重新发现的开源项目。",
+    description: item.description || "",
     category: item.category || "工具",
     tags: Array.isArray(item.tags) ? item.tags : [],
     visual: item.visual || "default",
@@ -113,7 +113,7 @@ function getFilteredItems() {
 function cardTemplate(item, index) {
   const safeName = escapeHtml(item.name);
   const safeOwner = escapeHtml(item.owner);
-  const safeDescription = escapeHtml(item.editor_note || item.description);
+  const safeDescription = escapeHtml(item.description || "该仓库暂未填写简介。");
   const safeCategory = escapeHtml(item.category);
   const visualName = String(item.visual || "default").replace(/[^a-z0-9_-]/gi, "") || "default";
   const visual = escapeHtml(visualName);
