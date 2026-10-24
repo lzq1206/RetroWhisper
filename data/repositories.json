@@ -1,10 +1,338 @@
 {
-  "updated_at": "2026-10-23T22:07:25Z",
+  "updated_at": "2026-10-24T05:48:44Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "last_batch_count": 10,
-  "search_page": 10,
+  "search_page": 1,
   "items": [
+    {
+      "id": "thehack904/RetroIPTVGuide",
+      "full_name": "thehack904/RetroIPTVGuide",
+      "owner": "thehack904",
+      "name": "RetroIPTVGuide",
+      "html_url": "https://github.com/thehack904/RetroIPTVGuide",
+      "cover": "https://opengraph.githubassets.com/1/thehack904/RetroIPTVGuide",
+      "description": "RetroIPTVGuide is a Flask-based, self-hosted TV guide interface inspired by the classic cable guides of the 90s and early 2000s. It presents channel lineups and program schedules in a nostalgic grid layout, recreating the familiar browsing experience with a modern backend.",
+      "editor_note": "",
+      "stars": 35,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-22T17:07:18Z",
+      "category": "工具",
+      "tags": [
+        "docker",
+        "flask",
+        "hls"
+      ],
+      "topics": [
+        "docker",
+        "flask",
+        "hls",
+        "iptv",
+        "iptv-m3u",
+        "linux",
+        "m3u",
+        "python",
+        "retro",
+        "rpi",
+        "self-hosted",
+        "shell",
+        "streaming",
+        "streaming-video",
+        "tv",
+        "tv-guide",
+        "webapp",
+        "webui",
+        "windows",
+        "xmltv"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
+    {
+      "id": "zdiemer/vxp",
+      "full_name": "zdiemer/vxp",
+      "owner": "zdiemer",
+      "name": "vxp",
+      "html_url": "https://github.com/zdiemer/vxp",
+      "cover": "https://opengraph.githubassets.com/1/zdiemer/vxp",
+      "description": "A VideoNow XP emulator: decodes and plays Hasbro/Tiger VideoNow discs, with interactive branching",
+      "editor_note": "",
+      "stars": 14,
+      "language": "C#",
+      "license": "MIT",
+      "updated_at": "2026-09-30T07:48:49Z",
+      "category": "模拟器",
+      "tags": [
+        "cd audio",
+        "csharp",
+        "dotnet"
+      ],
+      "topics": [
+        "cd-audio",
+        "csharp",
+        "dotnet",
+        "emulator",
+        "handheld",
+        "hasbro",
+        "retro",
+        "reverse-engineering",
+        "sdl2",
+        "tiger-electronics",
+        "videonow"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
+    {
+      "id": "TandyRum1024/gms-bjortfx-filter",
+      "full_name": "TandyRum1024/gms-bjortfx-filter",
+      "owner": "TandyRum1024",
+      "name": "gms-bjortfx-filter",
+      "html_url": "https://github.com/TandyRum1024/gms-bjortfx-filter",
+      "cover": "https://opengraph.githubassets.com/1/TandyRum1024/gms-bjortfx-filter",
+      "description": "A GameMaker demo project of shader-based postprocessing effect that emulates CRT-like retro screen.... or not, I guess.",
+      "editor_note": "",
+      "stars": 63,
+      "language": "Game Maker Language",
+      "license": "MIT",
+      "updated_at": "2026-09-27T09:19:05Z",
+      "category": "游戏",
+      "tags": [
+        "filter",
+        "gamemaker studio"
+      ],
+      "topics": [
+        "filter",
+        "gamemaker-studio"
+      ],
+      "visual": "default",
+      "curated_index": 0,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
+    {
+      "id": "chicago-desktop/shell",
+      "full_name": "chicago-desktop/shell",
+      "owner": "chicago-desktop",
+      "name": "shell",
+      "html_url": "https://github.com/chicago-desktop/shell",
+      "cover": "https://opengraph.githubassets.com/1/chicago-desktop/shell",
+      "description": "The Chicago desktop shell in the look of the mid-nineties desktops: pixel chrome over Kitty/Sixel, the Start menu, the logon, a declarative window SDK, Notepad, My Computer, Display Properties and desktop widgets.",
+      "editor_note": "",
+      "stars": 3,
+      "language": "Lua",
+      "license": "NOASSERTION",
+      "updated_at": "2026-09-18T14:32:11Z",
+      "category": "工具",
+      "tags": [
+        "chicago",
+        "kitty graphics",
+        "lua"
+      ],
+      "topics": [
+        "chicago",
+        "kitty-graphics",
+        "lua",
+        "retro",
+        "sixel",
+        "ssh",
+        "terminal",
+        "tui",
+        "wippy"
+      ],
+      "visual": "default",
+      "curated_index": 8,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
+    {
+      "id": "bni/freesynd",
+      "full_name": "bni/freesynd",
+      "owner": "bni",
+      "name": "freesynd",
+      "html_url": "https://github.com/bni/freesynd",
+      "cover": "https://opengraph.githubassets.com/1/bni/freesynd",
+      "description": "FreeSynd fork with some Quality of Life improvements",
+      "editor_note": "",
+      "stars": 15,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-09-16T23:11:19Z",
+      "category": "工具",
+      "tags": [
+        "1993",
+        "freesynd",
+        "retro"
+      ],
+      "topics": [
+        "1993",
+        "freesynd",
+        "retro",
+        "retrogaming",
+        "sdl2",
+        "sdl2-image",
+        "sdl2-mixer",
+        "syndicate"
+      ],
+      "visual": "default",
+      "curated_index": 4,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
+    {
+      "id": "claudebuiltadosemulatorinc/some-shitty-dos-emulator",
+      "full_name": "claudebuiltadosemulatorinc/some-shitty-dos-emulator",
+      "owner": "claudebuiltadosemulatorinc",
+      "name": "some-shitty-dos-emulator",
+      "html_url": "https://github.com/claudebuiltadosemulatorinc/some-shitty-dos-emulator",
+      "cover": "https://opengraph.githubassets.com/1/claudebuiltadosemulatorinc/some-shitty-dos-emulator",
+      "description": "Some shitty DOS emulator Claude made so I could find out what was on some 16-bit self-extracting archive from the 90s that I found on an old ass floppy disk labeled \"FIles for game\" because I couldn't be bothered to download DOSBox and apparently neither could Claude, so this is what it did. This probably cost me a bunch of money.",
+      "editor_note": "",
+      "stars": 5,
+      "language": "C",
+      "license": "NOASSERTION",
+      "updated_at": "2026-09-15T17:00:27Z",
+      "category": "模拟器",
+      "tags": [
+        "retro",
+        "wasting money"
+      ],
+      "topics": [
+        "retro",
+        "wasting-money"
+      ],
+      "visual": "default",
+      "curated_index": 5,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
+    {
+      "id": "urdwyrd/endless-outrun",
+      "full_name": "urdwyrd/endless-outrun",
+      "owner": "urdwyrd",
+      "name": "endless-outrun",
+      "html_url": "https://github.com/urdwyrd/endless-outrun",
+      "cover": "https://opengraph.githubassets.com/1/urdwyrd/endless-outrun",
+      "description": "Endless pseudo-3D arcade racer in the OutRun lineage. Four lanes, no build step, no dependencies, runs from file:// - every generated road is audited against a human reaction model.",
+      "editor_note": "",
+      "stars": 0,
+      "language": "JavaScript",
+      "license": "NOASSERTION",
+      "updated_at": "2026-09-14T20:05:27Z",
+      "category": "编辑器",
+      "tags": [
+        "arcade",
+        "browser game",
+        "canvas"
+      ],
+      "topics": [
+        "arcade",
+        "browser-game",
+        "canvas",
+        "endless-runner",
+        "game",
+        "javascript",
+        "outrun",
+        "pixel-art",
+        "pseudo-3d",
+        "retro"
+      ],
+      "visual": "default",
+      "curated_index": 2,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
+    {
+      "id": "rodneyknaap/atx-286at-v1-mainboard",
+      "full_name": "rodneyknaap/atx-286at-v1-mainboard",
+      "owner": "rodneyknaap",
+      "name": "atx-286at-v1-mainboard",
+      "html_url": "https://github.com/rodneyknaap/atx-286at-v1-mainboard",
+      "cover": "https://opengraph.githubassets.com/1/rodneyknaap/atx-286at-v1-mainboard",
+      "description": "This project features a design for a 80286 ATX mainboard based on the IBM 5170 AT PC",
+      "editor_note": "",
+      "stars": 111,
+      "language": "多语言",
+      "license": "GPL-3.0",
+      "updated_at": "2026-09-13T00:18:59Z",
+      "category": "工具",
+      "tags": [
+        "80286",
+        "educational",
+        "historic"
+      ],
+      "topics": [
+        "80286",
+        "educational",
+        "historic",
+        "ibm",
+        "pc",
+        "recreation",
+        "retro",
+        "students-project"
+      ],
+      "visual": "default",
+      "curated_index": 7,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
+    {
+      "id": "dfgordon/Realm",
+      "full_name": "dfgordon/Realm",
+      "owner": "dfgordon",
+      "name": "Realm",
+      "html_url": "https://github.com/dfgordon/Realm",
+      "cover": "https://opengraph.githubassets.com/1/dfgordon/Realm",
+      "description": "Adventure Game",
+      "editor_note": "",
+      "stars": 11,
+      "language": "BASIC",
+      "license": "GPL-3.0",
+      "updated_at": "2026-08-21T23:26:01Z",
+      "category": "游戏",
+      "tags": [
+        "apple2",
+        "retrogaming",
+        "roleplay"
+      ],
+      "topics": [
+        "apple2",
+        "retrogaming",
+        "roleplay"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
+    {
+      "id": "6XGate/bridgecmdr",
+      "full_name": "6XGate/bridgecmdr",
+      "owner": "6XGate",
+      "name": "bridgecmdr",
+      "html_url": "https://github.com/6XGate/bridgecmdr",
+      "cover": "https://opengraph.githubassets.com/1/6XGate/bridgecmdr",
+      "description": "Raspberry Pi professional A/V switch and monitor controller for retro gaming",
+      "editor_note": "",
+      "stars": 16,
+      "language": "TypeScript",
+      "license": "GPL-3.0",
+      "updated_at": "2026-04-14T23:22:50Z",
+      "category": "工具",
+      "tags": [
+        "audio video",
+        "extron",
+        "linux"
+      ],
+      "topics": [
+        "audio-video",
+        "extron",
+        "linux",
+        "raspberry-pi",
+        "retrogaming",
+        "sony-bvm",
+        "sony-pvm"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-24T05:48:44Z"
+    },
     {
       "id": "emmachase/Riko4",
       "full_name": "emmachase/Riko4",
@@ -21338,6 +21666,38 @@
       "first_seen_at": "2026-10-06T07:32:30Z"
     },
     {
+      "id": "ppeccin/WebMSX",
+      "full_name": "ppeccin/WebMSX",
+      "owner": "ppeccin",
+      "name": "WebMSX",
+      "html_url": "https://github.com/ppeccin/WebMSX",
+      "cover": "https://opengraph.githubassets.com/1/ppeccin/WebMSX",
+      "description": "WebMSX - Online MSX Emulator",
+      "editor_note": "",
+      "stars": 484,
+      "language": "HTML",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-22T06:40:49Z",
+      "category": "模拟器",
+      "tags": [
+        "emulator",
+        "javascript",
+        "msx"
+      ],
+      "topics": [
+        "emulator",
+        "javascript",
+        "msx",
+        "retro",
+        "retrocomputing",
+        "retrogaming",
+        "webmsx"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-06T07:32:30Z"
+    },
+    {
       "id": "morgan3d/quadplay",
       "full_name": "morgan3d/quadplay",
       "owner": "morgan3d",
@@ -21380,38 +21740,6 @@
       ],
       "visual": "default",
       "curated_index": 2,
-      "first_seen_at": "2026-10-06T07:32:30Z"
-    },
-    {
-      "id": "ppeccin/WebMSX",
-      "full_name": "ppeccin/WebMSX",
-      "owner": "ppeccin",
-      "name": "WebMSX",
-      "html_url": "https://github.com/ppeccin/WebMSX",
-      "cover": "https://opengraph.githubassets.com/1/ppeccin/WebMSX",
-      "description": "WebMSX - Online MSX Emulator",
-      "editor_note": "",
-      "stars": 483,
-      "language": "HTML",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-21T12:20:09Z",
-      "category": "模拟器",
-      "tags": [
-        "emulator",
-        "javascript",
-        "msx"
-      ],
-      "topics": [
-        "emulator",
-        "javascript",
-        "msx",
-        "retro",
-        "retrocomputing",
-        "retrogaming",
-        "webmsx"
-      ],
-      "visual": "default",
-      "curated_index": 1,
       "first_seen_at": "2026-10-06T07:32:30Z"
     },
     {
@@ -22423,10 +22751,10 @@
       "cover": "https://opengraph.githubassets.com/1/rektdeckard/departure-mono",
       "description": "A monospaced pixel font with a lo-fi, techy vibe",
       "editor_note": "",
-      "stars": 3593,
+      "stars": 3603,
       "language": "TypeScript",
       "license": "MIT",
-      "updated_at": "2026-10-21T12:22:00Z",
+      "updated_at": "2026-10-24T00:48:52Z",
       "category": "工具",
       "tags": [
         "font",
@@ -22442,6 +22770,38 @@
       ],
       "visual": "default",
       "curated_index": 3,
+      "first_seen_at": "2026-10-05T07:00:45Z"
+    },
+    {
+      "id": "pushingpandas/cool-retro-term-windows",
+      "full_name": "pushingpandas/cool-retro-term-windows",
+      "owner": "pushingpandas",
+      "name": "cool-retro-term-windows",
+      "html_url": "https://github.com/pushingpandas/cool-retro-term-windows",
+      "cover": "https://opengraph.githubassets.com/1/pushingpandas/cool-retro-term-windows",
+      "description": "Windows 11 port of cool-retro-term - retro CRT terminal emulator with ConPTY",
+      "editor_note": "",
+      "stars": 31,
+      "language": "QML",
+      "license": "GPL-3.0",
+      "updated_at": "2026-10-22T13:09:00Z",
+      "category": "模拟器",
+      "tags": [
+        "conpty",
+        "cool retro term",
+        "crt effect"
+      ],
+      "topics": [
+        "conpty",
+        "cool-retro-term",
+        "crt-effect",
+        "qt6",
+        "retro",
+        "terminal-emulator",
+        "windows"
+      ],
+      "visual": "default",
+      "curated_index": 4,
       "first_seen_at": "2026-10-05T07:00:45Z"
     },
     {
@@ -22514,38 +22874,6 @@
       ],
       "visual": "default",
       "curated_index": 9,
-      "first_seen_at": "2026-10-05T07:00:45Z"
-    },
-    {
-      "id": "pushingpandas/cool-retro-term-windows",
-      "full_name": "pushingpandas/cool-retro-term-windows",
-      "owner": "pushingpandas",
-      "name": "cool-retro-term-windows",
-      "html_url": "https://github.com/pushingpandas/cool-retro-term-windows",
-      "cover": "https://opengraph.githubassets.com/1/pushingpandas/cool-retro-term-windows",
-      "description": "Windows 11 port of cool-retro-term - retro CRT terminal emulator with ConPTY",
-      "editor_note": "",
-      "stars": 30,
-      "language": "QML",
-      "license": "GPL-3.0",
-      "updated_at": "2026-10-11T20:23:53Z",
-      "category": "模拟器",
-      "tags": [
-        "conpty",
-        "cool retro term",
-        "crt effect"
-      ],
-      "topics": [
-        "conpty",
-        "cool-retro-term",
-        "crt-effect",
-        "qt6",
-        "retro",
-        "terminal-emulator",
-        "windows"
-      ],
-      "visual": "default",
-      "curated_index": 4,
       "first_seen_at": "2026-10-05T07:00:45Z"
     },
     {
@@ -23185,6 +23513,40 @@
       "first_seen_at": "2026-10-04T22:19:43Z"
     },
     {
+      "id": "robhagemans/hoard-of-bitfonts",
+      "full_name": "robhagemans/hoard-of-bitfonts",
+      "owner": "robhagemans",
+      "name": "hoard-of-bitfonts",
+      "html_url": "https://github.com/robhagemans/hoard-of-bitfonts",
+      "cover": "https://opengraph.githubassets.com/1/robhagemans/hoard-of-bitfonts",
+      "description": "turns out I like bitmap fonts",
+      "editor_note": "",
+      "stars": 1492,
+      "language": "Pascal",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-24T00:49:10Z",
+      "category": "工具",
+      "tags": [
+        "8bit",
+        "ascii art",
+        "bitmap font"
+      ],
+      "topics": [
+        "8bit",
+        "ascii-art",
+        "bitmap-font",
+        "bitmap-fonts",
+        "font",
+        "fonts",
+        "retro",
+        "retrocomputing",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-04T17:34:37Z"
+    },
+    {
       "id": "aduros/wasm4",
       "full_name": "aduros/wasm4",
       "owner": "aduros",
@@ -23496,40 +23858,6 @@
       ],
       "visual": "default",
       "curated_index": 0,
-      "first_seen_at": "2026-10-04T17:34:37Z"
-    },
-    {
-      "id": "robhagemans/hoard-of-bitfonts",
-      "full_name": "robhagemans/hoard-of-bitfonts",
-      "owner": "robhagemans",
-      "name": "hoard-of-bitfonts",
-      "html_url": "https://github.com/robhagemans/hoard-of-bitfonts",
-      "cover": "https://opengraph.githubassets.com/1/robhagemans/hoard-of-bitfonts",
-      "description": "turns out I like bitmap fonts",
-      "editor_note": "",
-      "stars": 1490,
-      "language": "Pascal",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-12T04:54:31Z",
-      "category": "工具",
-      "tags": [
-        "8bit",
-        "ascii art",
-        "bitmap font"
-      ],
-      "topics": [
-        "8bit",
-        "ascii-art",
-        "bitmap-font",
-        "bitmap-fonts",
-        "font",
-        "fonts",
-        "retro",
-        "retrocomputing",
-        "retrogaming"
-      ],
-      "visual": "default",
-      "curated_index": 3,
       "first_seen_at": "2026-10-04T17:34:37Z"
     },
     {
@@ -24342,7 +24670,7 @@
       "stars": 2865,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-10-23T22:02:32Z",
+      "updated_at": "2026-10-24T05:02:19Z",
       "category": "模拟器",
       "tags": [
         "冒险游戏",
@@ -24360,38 +24688,6 @@
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
-      "id": "OpenMW/openmw",
-      "full_name": "OpenMW/openmw",
-      "owner": "OpenMW",
-      "name": "openmw",
-      "html_url": "https://github.com/OpenMW/openmw",
-      "cover": "https://opengraph.githubassets.com/1/OpenMW/openmw",
-      "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/",
-      "editor_note": "让一块经典 RPG 开放世界在现代硬件上继续生长，保留探索感与手工地图的尺度。",
-      "stars": 6671,
-      "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-10-23T20:53:25Z",
-      "category": "游戏",
-      "tags": [
-        "RPG",
-        "开放世界",
-        "引擎重制"
-      ],
-      "topics": [
-        "c-plus-plus",
-        "foss",
-        "morrowind",
-        "open-source",
-        "openmw",
-        "rpg-engine",
-        "tes"
-      ],
-      "visual": "rpg",
-      "curated_index": 0,
-      "first_seen_at": "2026-10-04T02:50:58Z"
-    },
-    {
       "id": "mapeditor/tiled",
       "full_name": "mapeditor/tiled",
       "owner": "mapeditor",
@@ -24400,10 +24696,10 @@
       "cover": "https://opengraph.githubassets.com/1/mapeditor/tiled",
       "description": "Flexible level editor",
       "editor_note": "把地图、碰撞和关卡逻辑铺在一张熟悉的瓦片纸上，适合认真做一款 2D 游戏。",
-      "stars": 12991,
+      "stars": 12992,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-10-23T18:37:36Z",
+      "updated_at": "2026-10-24T01:31:05Z",
       "category": "编辑器",
       "tags": [
         "地图编辑",
@@ -24428,6 +24724,38 @@
       ],
       "visual": "transport",
       "curated_index": 2,
+      "first_seen_at": "2026-10-04T02:50:58Z"
+    },
+    {
+      "id": "OpenMW/openmw",
+      "full_name": "OpenMW/openmw",
+      "owner": "OpenMW",
+      "name": "openmw",
+      "html_url": "https://github.com/OpenMW/openmw",
+      "cover": "https://opengraph.githubassets.com/1/OpenMW/openmw",
+      "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/",
+      "editor_note": "让一块经典 RPG 开放世界在现代硬件上继续生长，保留探索感与手工地图的尺度。",
+      "stars": 6672,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-10-23T22:50:48Z",
+      "category": "游戏",
+      "tags": [
+        "RPG",
+        "开放世界",
+        "引擎重制"
+      ],
+      "topics": [
+        "c-plus-plus",
+        "foss",
+        "morrowind",
+        "open-source",
+        "openmw",
+        "rpg-engine",
+        "tes"
+      ],
+      "visual": "rpg",
+      "curated_index": 0,
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
@@ -24690,49 +25018,6 @@
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
-      "id": "OpenRCT2/OpenRCT2",
-      "full_name": "OpenRCT2/OpenRCT2",
-      "owner": "OpenRCT2",
-      "name": "OpenRCT2",
-      "html_url": "https://github.com/OpenRCT2/OpenRCT2",
-      "cover": "https://opengraph.githubassets.com/1/OpenRCT2/OpenRCT2",
-      "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
-      "editor_note": "把主题公园经营搬回 CRT 屏幕：过山车、像素游客和一整套不肯退休的模拟经营系统。",
-      "stars": 16490,
-      "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-10-23T22:06:02Z",
-      "category": "游戏",
-      "tags": [
-        "模拟经营",
-        "多人",
-        "开放世界"
-      ],
-      "topics": [
-        "c-plus-plus",
-        "cmake",
-        "cpp",
-        "discord",
-        "game",
-        "hacktoberfest",
-        "linux",
-        "msbuild",
-        "multiplayer",
-        "opengl",
-        "openrct2",
-        "roller-coaster",
-        "roller-coaster-tycoon",
-        "sdl2",
-        "server",
-        "simulation",
-        "visual-studio",
-        "windows"
-      ],
-      "visual": "rct",
-      "curated_index": 7,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
       "id": "libretro/RetroArch",
       "full_name": "libretro/RetroArch",
       "owner": "libretro",
@@ -24741,10 +25026,10 @@
       "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
-      "stars": 14406,
+      "stars": 14409,
       "language": "C",
       "license": "GPL-3.0",
-      "updated_at": "2026-10-23T21:58:10Z",
+      "updated_at": "2026-10-24T05:38:14Z",
       "category": "模拟器",
       "tags": [
         "多平台",
@@ -24769,10 +25054,10 @@
       "cover": "https://opengraph.githubassets.com/1/Orama-Interactive/Pixelorama",
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "editor_note": "像素画、精灵、瓦片和动画，一把把旧游戏的视觉零件重新拼起来。",
-      "stars": 10802,
+      "stars": 10806,
       "language": "GDScript",
       "license": "MIT",
-      "updated_at": "2026-10-23T21:51:31Z",
+      "updated_at": "2026-10-24T04:56:21Z",
       "category": "编辑器",
       "tags": [
         "像素绘画",
@@ -24806,6 +25091,79 @@
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
+      "id": "OpenRCT2/OpenRCT2",
+      "full_name": "OpenRCT2/OpenRCT2",
+      "owner": "OpenRCT2",
+      "name": "OpenRCT2",
+      "html_url": "https://github.com/OpenRCT2/OpenRCT2",
+      "cover": "https://opengraph.githubassets.com/1/OpenRCT2/OpenRCT2",
+      "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+      "editor_note": "把主题公园经营搬回 CRT 屏幕：过山车、像素游客和一整套不肯退休的模拟经营系统。",
+      "stars": 16491,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-10-24T04:08:08Z",
+      "category": "游戏",
+      "tags": [
+        "模拟经营",
+        "多人",
+        "开放世界"
+      ],
+      "topics": [
+        "c-plus-plus",
+        "cmake",
+        "cpp",
+        "discord",
+        "game",
+        "hacktoberfest",
+        "linux",
+        "msbuild",
+        "multiplayer",
+        "opengl",
+        "openrct2",
+        "roller-coaster",
+        "roller-coaster-tycoon",
+        "sdl2",
+        "server",
+        "simulation",
+        "visual-studio",
+        "windows"
+      ],
+      "visual": "rct",
+      "curated_index": 7,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "86Box/86Box",
+      "full_name": "86Box/86Box",
+      "owner": "86Box",
+      "name": "86Box",
+      "html_url": "https://github.com/86Box/86Box",
+      "cover": "https://opengraph.githubassets.com/1/86Box/86Box",
+      "description": "Emulator of x86-based machines.",
+      "editor_note": "精确模拟旧 x86 机器，把 BIOS 哔声、软盘和显卡兼容性一起保存下来。",
+      "stars": 4947,
+      "language": "C",
+      "license": "GPL-2.0",
+      "updated_at": "2026-10-24T03:54:15Z",
+      "category": "模拟器",
+      "tags": [
+        "x86",
+        "PC 模拟",
+        "硬件考古"
+      ],
+      "topics": [
+        "emulation",
+        "emulator",
+        "ibm",
+        "pc-emulator",
+        "x86"
+      ],
+      "visual": "pc",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
       "id": "LibreSprite/LibreSprite",
       "full_name": "LibreSprite/LibreSprite",
       "owner": "LibreSprite",
@@ -24814,10 +25172,10 @@
       "cover": "https://opengraph.githubassets.com/1/LibreSprite/LibreSprite",
       "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
       "editor_note": "一款坚持像素边缘的精灵编辑器，适合给下一款小小的 2D 游戏准备主角。",
-      "stars": 8635,
+      "stars": 8638,
       "language": "C++",
       "license": "GPL-2.0",
-      "updated_at": "2026-10-23T20:53:37Z",
+      "updated_at": "2026-10-24T02:32:16Z",
       "category": "编辑器",
       "tags": [
         "Sprite",
@@ -24839,134 +25197,6 @@
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
-      "id": "86Box/86Box",
-      "full_name": "86Box/86Box",
-      "owner": "86Box",
-      "name": "86Box",
-      "html_url": "https://github.com/86Box/86Box",
-      "cover": "https://opengraph.githubassets.com/1/86Box/86Box",
-      "description": "Emulator of x86-based machines.",
-      "editor_note": "精确模拟旧 x86 机器，把 BIOS 哔声、软盘和显卡兼容性一起保存下来。",
-      "stars": 4946,
-      "language": "C",
-      "license": "GPL-2.0",
-      "updated_at": "2026-10-23T20:40:30Z",
-      "category": "模拟器",
-      "tags": [
-        "x86",
-        "PC 模拟",
-        "硬件考古"
-      ],
-      "topics": [
-        "emulation",
-        "emulator",
-        "ibm",
-        "pc-emulator",
-        "x86"
-      ],
-      "visual": "pc",
-      "curated_index": 6,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "Swordfish90/cool-retro-term",
-      "full_name": "Swordfish90/cool-retro-term",
-      "owner": "Swordfish90",
-      "name": "cool-retro-term",
-      "html_url": "https://github.com/Swordfish90/cool-retro-term",
-      "cover": "https://opengraph.githubassets.com/1/Swordfish90/cool-retro-term",
-      "description": "A good looking terminal emulator which mimics the old cathode display...",
-      "editor_note": "把终端变成一台会发光的老电视：扫描线、磷光和 CRT 噪点都可以调到你喜欢的程度。",
-      "stars": 26526,
-      "language": "QML",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-23T16:35:53Z",
-      "category": "工具",
-      "tags": [
-        "CRT",
-        "终端",
-        "复古计算"
-      ],
-      "topics": [
-        "linux",
-        "macos",
-        "qml",
-        "qt",
-        "retro",
-        "terminal"
-      ],
-      "visual": "terminal",
-      "curated_index": 3,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "copy/v86",
-      "full_name": "copy/v86",
-      "owner": "copy",
-      "name": "v86",
-      "html_url": "https://github.com/copy/v86",
-      "cover": "https://opengraph.githubassets.com/1/copy/v86",
-      "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
-      "editor_note": "直接在浏览器里启动一台 x86 电脑。像把整台旧 PC 折成一张网页，再塞进书签。",
-      "stars": 23621,
-      "language": "JavaScript",
-      "license": "BSD-2-Clause",
-      "updated_at": "2026-10-23T16:14:00Z",
-      "category": "模拟器",
-      "tags": [
-        "浏览器",
-        "x86",
-        "WebAssembly"
-      ],
-      "topics": [
-        "emulator",
-        "virtualization",
-        "wasm",
-        "x86"
-      ],
-      "visual": "pc",
-      "curated_index": 4,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "chocolate-doom/chocolate-doom",
-      "full_name": "chocolate-doom/chocolate-doom",
-      "owner": "chocolate-doom",
-      "name": "chocolate-doom",
-      "html_url": "https://github.com/chocolate-doom/chocolate-doom",
-      "cover": "https://opengraph.githubassets.com/1/chocolate-doom/chocolate-doom",
-      "description": "Chocolate Doom is a Doom source port that is minimalist and historically accurate.",
-      "editor_note": "不加滤镜、不追求花哨，只让经典 FPS 按照记忆里的速度和噪声再次启动。",
-      "stars": 2442,
-      "language": "C",
-      "license": "GPL-2.0",
-      "updated_at": "2026-10-23T13:30:53Z",
-      "category": "游戏",
-      "tags": [
-        "FPS",
-        "历史准确",
-        "SDL2"
-      ],
-      "topics": [
-        "c",
-        "doom",
-        "fps",
-        "fps-game",
-        "games",
-        "gplv2",
-        "heretic",
-        "hexen",
-        "retro",
-        "retrogaming",
-        "sdl",
-        "sdl2",
-        "strife"
-      ],
-      "visual": "doom",
-      "curated_index": 0,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
       "id": "dosbox-staging/dosbox-staging",
       "full_name": "dosbox-staging/dosbox-staging",
       "owner": "dosbox-staging",
@@ -24975,10 +25205,10 @@
       "cover": "https://opengraph.githubassets.com/1/dosbox-staging/dosbox-staging",
       "description": "DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.",
       "editor_note": "给 MS-DOS 游戏准备的一间现代化放映室：兼容性更好，但仍然保留那行闪烁的命令提示符。",
-      "stars": 1825,
+      "stars": 1826,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-10-23T10:54:25Z",
+      "updated_at": "2026-10-24T02:18:17Z",
       "category": "模拟器",
       "tags": [
         "MS-DOS",
@@ -25007,6 +25237,35 @@
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
+      "id": "copy/v86",
+      "full_name": "copy/v86",
+      "owner": "copy",
+      "name": "v86",
+      "html_url": "https://github.com/copy/v86",
+      "cover": "https://opengraph.githubassets.com/1/copy/v86",
+      "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
+      "editor_note": "直接在浏览器里启动一台 x86 电脑。像把整台旧 PC 折成一张网页，再塞进书签。",
+      "stars": 23624,
+      "language": "JavaScript",
+      "license": "BSD-2-Clause",
+      "updated_at": "2026-10-24T02:16:08Z",
+      "category": "模拟器",
+      "tags": [
+        "浏览器",
+        "x86",
+        "WebAssembly"
+      ],
+      "topics": [
+        "emulator",
+        "virtualization",
+        "wasm",
+        "x86"
+      ],
+      "visual": "pc",
+      "curated_index": 4,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
       "id": "OpenTTD/OpenTTD",
       "full_name": "OpenTTD/OpenTTD",
       "owner": "OpenTTD",
@@ -25015,10 +25274,10 @@
       "cover": "https://opengraph.githubassets.com/1/OpenTTD/OpenTTD",
       "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
       "editor_note": "铁路、公路、港口和那种一开局就停不下来的运输帝国。复古等距视角依旧很有魔力。",
-      "stars": 8414,
+      "stars": 8416,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-10-23T10:54:12Z",
+      "updated_at": "2026-10-24T01:39:38Z",
       "category": "游戏",
       "tags": [
         "运输模拟",
@@ -25034,6 +25293,75 @@
       ],
       "visual": "transport",
       "curated_index": 9,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "Swordfish90/cool-retro-term",
+      "full_name": "Swordfish90/cool-retro-term",
+      "owner": "Swordfish90",
+      "name": "cool-retro-term",
+      "html_url": "https://github.com/Swordfish90/cool-retro-term",
+      "cover": "https://opengraph.githubassets.com/1/Swordfish90/cool-retro-term",
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "editor_note": "把终端变成一台会发光的老电视：扫描线、磷光和 CRT 噪点都可以调到你喜欢的程度。",
+      "stars": 26525,
+      "language": "QML",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-24T01:21:49Z",
+      "category": "工具",
+      "tags": [
+        "CRT",
+        "终端",
+        "复古计算"
+      ],
+      "topics": [
+        "linux",
+        "macos",
+        "qml",
+        "qt",
+        "retro",
+        "terminal"
+      ],
+      "visual": "terminal",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "chocolate-doom/chocolate-doom",
+      "full_name": "chocolate-doom/chocolate-doom",
+      "owner": "chocolate-doom",
+      "name": "chocolate-doom",
+      "html_url": "https://github.com/chocolate-doom/chocolate-doom",
+      "cover": "https://opengraph.githubassets.com/1/chocolate-doom/chocolate-doom",
+      "description": "Chocolate Doom is a Doom source port that is minimalist and historically accurate.",
+      "editor_note": "不加滤镜、不追求花哨，只让经典 FPS 按照记忆里的速度和噪声再次启动。",
+      "stars": 2443,
+      "language": "C",
+      "license": "GPL-2.0",
+      "updated_at": "2026-10-23T22:25:16Z",
+      "category": "游戏",
+      "tags": [
+        "FPS",
+        "历史准确",
+        "SDL2"
+      ],
+      "topics": [
+        "c",
+        "doom",
+        "fps",
+        "fps-game",
+        "games",
+        "gplv2",
+        "heretic",
+        "hexen",
+        "retro",
+        "retrogaming",
+        "sdl",
+        "sdl2",
+        "strife"
+      ],
+      "visual": "doom",
+      "curated_index": 0,
       "first_seen_at": "2026-10-03T20:17:43Z"
     }
   ]
