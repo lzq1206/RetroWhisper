@@ -1,10 +1,342 @@
 {
-  "updated_at": "2026-11-02T22:18:22Z",
+  "updated_at": "2026-11-03T07:53:46Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "last_batch_count": 10,
-  "search_page": 2,
+  "search_page": 3,
   "items": [
+    {
+      "id": "SkyWalker541/Gone-Fishing",
+      "full_name": "SkyWalker541/Gone-Fishing",
+      "owner": "SkyWalker541",
+      "name": "Gone-Fishing",
+      "html_url": "https://github.com/SkyWalker541/Gone-Fishing",
+      "cover": "https://opengraph.githubassets.com/1/SkyWalker541/Gone-Fishing",
+      "description": "A free, relaxing pixel-art fishing game for PortMaster handhelds, made with LÖVE. Cast with real physics across five places, from an autumn lake to the Columbia River under Mt. Hood, and catch 42 fish that each fight their own way. Lures, bobbers, boats, trolling motors, weather, three save slots and a dog or cat for company.",
+      "editor_note": "",
+      "stars": 10,
+      "language": "Shell",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-03T02:38:51Z",
+      "category": "编辑器",
+      "tags": [
+        "bobber",
+        "cozy game",
+        "fishing"
+      ],
+      "topics": [
+        "bobber",
+        "cozy-game",
+        "fishing",
+        "fishing-game",
+        "fishing-physics",
+        "game",
+        "handheld",
+        "indie-game",
+        "love2d",
+        "lua",
+        "pixel-art",
+        "portmaster",
+        "retro-handheld"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
+    {
+      "id": "sankerXD/JL-Modern",
+      "full_name": "sankerXD/JL-Modern",
+      "owner": "sankerXD",
+      "name": "JL-Modern",
+      "html_url": "https://github.com/sankerXD/JL-Modern",
+      "cover": "https://opengraph.githubassets.com/1/sankerXD/JL-Modern",
+      "description": "Modernized JL-Mod (J2ME emulator) for retro handhelds: gamepad L2/R2 support, global key mapping, global shaders, global scaling",
+      "editor_note": "",
+      "stars": 49,
+      "language": "C",
+      "license": "Apache-2.0",
+      "updated_at": "2026-11-03T01:23:20Z",
+      "category": "模拟器",
+      "tags": [
+        "android",
+        "emulator",
+        "handheld"
+      ],
+      "topics": [
+        "android",
+        "emulator",
+        "handheld",
+        "j2me",
+        "jl-mod"
+      ],
+      "visual": "default",
+      "curated_index": 5,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
+    {
+      "id": "frogswiper/skynet",
+      "full_name": "frogswiper/skynet",
+      "owner": "frogswiper",
+      "name": "skynet",
+      "html_url": "https://github.com/frogswiper/skynet",
+      "cover": "https://opengraph.githubassets.com/1/frogswiper/skynet",
+      "description": "1984 Cyberdyne-style SKYNET terminal for Ollama - one-line installer, GLM cloud model, full-screen boot",
+      "editor_note": "",
+      "stars": 0,
+      "language": "JavaScript",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-02T12:55:09Z",
+      "category": "工具",
+      "tags": [
+        "crt",
+        "glm",
+        "llm"
+      ],
+      "topics": [
+        "crt",
+        "glm",
+        "llm",
+        "ollama",
+        "retro",
+        "skynet",
+        "terminal-ui",
+        "terminator"
+      ],
+      "visual": "default",
+      "curated_index": 7,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
+    {
+      "id": "Gitguy268/8bit-player",
+      "full_name": "Gitguy268/8bit-player",
+      "owner": "Gitguy268",
+      "name": "8bit-player",
+      "html_url": "https://github.com/Gitguy268/8bit-player",
+      "cover": "https://opengraph.githubassets.com/1/Gitguy268/8bit-player",
+      "description": "A chunky 8-bit music player with a stage and a turntable, in plain HTML files that play your own audio.",
+      "editor_note": "",
+      "stars": 0,
+      "language": "HTML",
+      "license": "MIT",
+      "updated_at": "2026-11-02T12:29:58Z",
+      "category": "编辑器",
+      "tags": [
+        "8 bit",
+        "html",
+        "music player"
+      ],
+      "topics": [
+        "8-bit",
+        "html",
+        "music-player",
+        "pixel-art",
+        "retro",
+        "turntable",
+        "web-audio"
+      ],
+      "visual": "default",
+      "curated_index": 4,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
+    {
+      "id": "Prisdvl/crt-github-profile",
+      "full_name": "Prisdvl/crt-github-profile",
+      "owner": "Prisdvl",
+      "name": "crt-github-profile",
+      "html_url": "https://github.com/Prisdvl/crt-github-profile",
+      "cover": "https://opengraph.githubassets.com/1/Prisdvl/crt-github-profile",
+      "description": "Generate retro CRT-style GitHub profile READMEs with customizable SVG terminals, ASCII art, and contribution heatmaps.",
+      "editor_note": "",
+      "stars": 0,
+      "language": "JavaScript",
+      "license": "MIT",
+      "updated_at": "2026-11-02T10:57:55Z",
+      "category": "工具",
+      "tags": [
+        "ascii art",
+        "crt",
+        "developer tools"
+      ],
+      "topics": [
+        "ascii-art",
+        "crt",
+        "developer-tools",
+        "github-actions",
+        "github-profile",
+        "profile-readme",
+        "readme-template",
+        "retro",
+        "svg-generator",
+        "terminal"
+      ],
+      "visual": "default",
+      "curated_index": 8,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
+    {
+      "id": "jibai33/jibai33.github.io",
+      "full_name": "jibai33/jibai33.github.io",
+      "owner": "jibai33",
+      "name": "jibai33.github.io",
+      "html_url": "https://github.com/jibai33/jibai33.github.io",
+      "cover": "https://opengraph.githubassets.com/1/jibai33/jibai33.github.io",
+      "description": "像素风个人主页 · 设计师/开发者「林一」的 PLAYER 1 状态面板：任务日志、技能装备、作品仓库、成就墙与本地日记（单文件 HTML + GitHub Pages）",
+      "editor_note": "",
+      "stars": 0,
+      "language": "HTML",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-02T09:44:54Z",
+      "category": "编辑器",
+      "tags": [
+        "8bit",
+        "github pages",
+        "personal website"
+      ],
+      "topics": [
+        "8bit",
+        "github-pages",
+        "personal-website",
+        "pixel-art",
+        "portfolio",
+        "retro",
+        "single-page",
+        "vanilla-js"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
+    {
+      "id": "augustinwinter/openfpga-cave",
+      "full_name": "augustinwinter/openfpga-cave",
+      "owner": "augustinwinter",
+      "name": "openfpga-cave",
+      "html_url": "https://github.com/augustinwinter/openfpga-cave",
+      "cover": "https://opengraph.githubassets.com/1/augustinwinter/openfpga-cave",
+      "description": "Analogue Pocket port of Mazinger Z.",
+      "editor_note": "",
+      "stars": 1,
+      "language": "SystemVerilog",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-01T20:32:36Z",
+      "category": "游戏",
+      "tags": [
+        "arcade",
+        "fpga",
+        "mazinger"
+      ],
+      "topics": [
+        "arcade",
+        "fpga",
+        "mazinger",
+        "openfpga",
+        "retro-gaming",
+        "retrogaming",
+        "systemverilog",
+        "verilog"
+      ],
+      "visual": "default",
+      "curated_index": 0,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
+    {
+      "id": "parkerallan/doa2u-recomp",
+      "full_name": "parkerallan/doa2u-recomp",
+      "owner": "parkerallan",
+      "name": "doa2u-recomp",
+      "html_url": "https://github.com/parkerallan/doa2u-recomp",
+      "cover": "https://opengraph.githubassets.com/1/parkerallan/doa2u-recomp",
+      "description": "In Progress Dead or Alive 2 Ultimate PC Port ",
+      "editor_note": "",
+      "stars": 24,
+      "language": "Assembly",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-01T14:55:07Z",
+      "category": "工具",
+      "tags": [
+        "recompilation",
+        "retrogaming",
+        "xbox"
+      ],
+      "topics": [
+        "recompilation",
+        "retrogaming",
+        "xbox"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
+    {
+      "id": "carsonhung/gamifiedUI",
+      "full_name": "carsonhung/gamifiedUI",
+      "owner": "carsonhung",
+      "name": "gamifiedUI",
+      "html_url": "https://github.com/carsonhung/gamifiedUI",
+      "cover": "https://opengraph.githubassets.com/1/carsonhung/gamifiedUI",
+      "description": "Game-style 2D/2.5D UI kit for Tailwind CSS v4: pixel panels, HP/XP bars, dialogue boxes, sprites, isometric scenes, 341 animated pixel icons and optional chiptune sound effects. CSS-only core, Apache-2.0.",
+      "editor_note": "",
+      "stars": 1,
+      "language": "CSS",
+      "license": "Apache-2.0",
+      "updated_at": "2026-11-01T02:33:17Z",
+      "category": "编辑器",
+      "tags": [
+        "8bit",
+        "css",
+        "css framework"
+      ],
+      "topics": [
+        "8bit",
+        "css",
+        "css-framework",
+        "game-ui",
+        "gamification",
+        "icons",
+        "isometric",
+        "pixel-art",
+        "pixel-icons",
+        "retro",
+        "rpg",
+        "tailwind-v4",
+        "tailwindcss",
+        "ui-kit"
+      ],
+      "visual": "default",
+      "curated_index": 2,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
+    {
+      "id": "dejotaerre/vetustware",
+      "full_name": "dejotaerre/vetustware",
+      "owner": "dejotaerre",
+      "name": "vetustware",
+      "html_url": "https://github.com/dejotaerre/vetustware",
+      "cover": "https://opengraph.githubassets.com/1/dejotaerre/vetustware",
+      "description": "Frontend nativo para colecciones locales de juegos MS-DOS en Linux. C++20, Qt Quick y DOSBox.",
+      "editor_note": "",
+      "stars": 0,
+      "language": "C++",
+      "license": "MIT",
+      "updated_at": "2026-11-01T01:06:45Z",
+      "category": "模拟器",
+      "tags": [
+        "cpp",
+        "dosbox",
+        "linux"
+      ],
+      "topics": [
+        "cpp",
+        "dosbox",
+        "linux",
+        "ms-dos",
+        "qt6",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-11-03T07:53:46Z"
+    },
     {
       "id": "mankidev/codixel",
       "full_name": "mankidev/codixel",
@@ -14,10 +346,10 @@
       "cover": "https://opengraph.githubassets.com/1/mankidev/codixel",
       "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
       "editor_note": "",
-      "stars": 77,
+      "stars": 89,
       "language": "JavaScript",
       "license": "MIT",
-      "updated_at": "2026-11-02T21:44:18Z",
+      "updated_at": "2026-11-03T07:24:34Z",
       "category": "编辑器",
       "tags": [
         "8bit",
@@ -2828,7 +3160,7 @@
       "stars": 0,
       "language": "Shell",
       "license": "MIT",
-      "updated_at": "2026-10-28T09:42:11Z",
+      "updated_at": "2026-11-01T05:42:47Z",
       "category": "模拟器",
       "tags": [
         "devops",
@@ -3292,6 +3624,40 @@
       "first_seen_at": "2026-10-30T14:05:59Z"
     },
     {
+      "id": "mohrt/nes",
+      "full_name": "mohrt/nes",
+      "owner": "mohrt",
+      "name": "nes",
+      "html_url": "https://github.com/mohrt/nes",
+      "cover": "https://opengraph.githubassets.com/1/mohrt/nes",
+      "description": "NES emulator in the browser, written from scratch in TypeScript",
+      "editor_note": "",
+      "stars": 2,
+      "language": "TypeScript",
+      "license": "MIT",
+      "updated_at": "2026-10-31T18:33:23Z",
+      "category": "模拟器",
+      "tags": [
+        "6502",
+        "browser emulator",
+        "emulator"
+      ],
+      "topics": [
+        "6502",
+        "browser-emulator",
+        "emulator",
+        "nes",
+        "nes-emulator",
+        "nintendo",
+        "retrogaming",
+        "typescript",
+        "web-emulator"
+      ],
+      "visual": "default",
+      "curated_index": 7,
+      "first_seen_at": "2026-10-30T14:05:59Z"
+    },
+    {
       "id": "SeiferLK/CRT-mpv",
       "full_name": "SeiferLK/CRT-mpv",
       "owner": "SeiferLK",
@@ -3390,40 +3756,6 @@
       ],
       "visual": "default",
       "curated_index": 2,
-      "first_seen_at": "2026-10-30T14:05:59Z"
-    },
-    {
-      "id": "mohrt/nes",
-      "full_name": "mohrt/nes",
-      "owner": "mohrt",
-      "name": "nes",
-      "html_url": "https://github.com/mohrt/nes",
-      "cover": "https://opengraph.githubassets.com/1/mohrt/nes",
-      "description": "NES emulator in the browser, written from scratch in TypeScript",
-      "editor_note": "",
-      "stars": 1,
-      "language": "TypeScript",
-      "license": "MIT",
-      "updated_at": "2026-10-26T16:44:52Z",
-      "category": "模拟器",
-      "tags": [
-        "6502",
-        "browser emulator",
-        "emulator"
-      ],
-      "topics": [
-        "6502",
-        "browser-emulator",
-        "emulator",
-        "nes",
-        "nes-emulator",
-        "nintendo",
-        "retrogaming",
-        "typescript",
-        "web-emulator"
-      ],
-      "visual": "default",
-      "curated_index": 7,
       "first_seen_at": "2026-10-30T14:05:59Z"
     },
     {
@@ -3531,6 +3863,32 @@
       "visual": "default",
       "curated_index": 6,
       "first_seen_at": "2026-10-30T14:05:59Z"
+    },
+    {
+      "id": "synthwave-pixel/ultima5",
+      "full_name": "synthwave-pixel/ultima5",
+      "owner": "synthwave-pixel",
+      "name": "ultima5",
+      "html_url": "https://github.com/synthwave-pixel/ultima5",
+      "cover": "https://opengraph.githubassets.com/1/synthwave-pixel/ultima5",
+      "description": "Modernized engine for Ultima V",
+      "editor_note": "",
+      "stars": 40,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-03T03:19:30Z",
+      "category": "工具",
+      "tags": [
+        "retrogaming",
+        "ultima"
+      ],
+      "topics": [
+        "retrogaming",
+        "ultima"
+      ],
+      "visual": "default",
+      "curated_index": 5,
+      "first_seen_at": "2026-10-30T07:04:35Z"
     },
     {
       "id": "nessieoldman41/Retrocopy-Full-Version",
@@ -3680,32 +4038,6 @@
       ],
       "visual": "default",
       "curated_index": 6,
-      "first_seen_at": "2026-10-30T07:04:35Z"
-    },
-    {
-      "id": "synthwave-pixel/ultima5",
-      "full_name": "synthwave-pixel/ultima5",
-      "owner": "synthwave-pixel",
-      "name": "ultima5",
-      "html_url": "https://github.com/synthwave-pixel/ultima5",
-      "cover": "https://opengraph.githubassets.com/1/synthwave-pixel/ultima5",
-      "description": "Modernized engine for Ultima V",
-      "editor_note": "",
-      "stars": 33,
-      "language": "TypeScript",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-30T04:14:07Z",
-      "category": "工具",
-      "tags": [
-        "retrogaming",
-        "ultima"
-      ],
-      "topics": [
-        "retrogaming",
-        "ultima"
-      ],
-      "visual": "default",
-      "curated_index": 5,
       "first_seen_at": "2026-10-30T07:04:35Z"
     },
     {
@@ -5942,6 +6274,41 @@
       "first_seen_at": "2026-10-28T06:50:43Z"
     },
     {
+      "id": "fa-saikat/retropie-rom-manager",
+      "full_name": "fa-saikat/retropie-rom-manager",
+      "owner": "fa-saikat",
+      "name": "retropie-rom-manager",
+      "html_url": "https://github.com/fa-saikat/retropie-rom-manager",
+      "cover": "https://opengraph.githubassets.com/1/fa-saikat/retropie-rom-manager",
+      "description": "A fast, native ROM manager for RetroPie on Linux, with box art, wrong-system detection and one-click play.",
+      "editor_note": "",
+      "stars": 2,
+      "language": "Rust",
+      "license": "MIT",
+      "updated_at": "2026-11-01T21:32:08Z",
+      "category": "模拟器",
+      "tags": [
+        "desktop app",
+        "emulation",
+        "emulationstation"
+      ],
+      "topics": [
+        "desktop-app",
+        "emulation",
+        "emulationstation",
+        "gpui",
+        "linux",
+        "retrogaming",
+        "retropie",
+        "rom-manager",
+        "rust",
+        "skyscraper"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-27T22:56:30Z"
+    },
+    {
       "id": "halilkaandogan/kaaninhos-mp3",
       "full_name": "halilkaandogan/kaaninhos-mp3",
       "owner": "halilkaandogan",
@@ -6173,41 +6540,6 @@
       "first_seen_at": "2026-10-27T22:56:30Z"
     },
     {
-      "id": "fa-saikat/retropie-rom-manager",
-      "full_name": "fa-saikat/retropie-rom-manager",
-      "owner": "fa-saikat",
-      "name": "retropie-rom-manager",
-      "html_url": "https://github.com/fa-saikat/retropie-rom-manager",
-      "cover": "https://opengraph.githubassets.com/1/fa-saikat/retropie-rom-manager",
-      "description": "A fast, native ROM manager for RetroPie on Linux, with box art, wrong-system detection and one-click play.",
-      "editor_note": "",
-      "stars": 1,
-      "language": "Rust",
-      "license": "MIT",
-      "updated_at": "2026-10-21T05:27:58Z",
-      "category": "模拟器",
-      "tags": [
-        "desktop app",
-        "emulation",
-        "emulationstation"
-      ],
-      "topics": [
-        "desktop-app",
-        "emulation",
-        "emulationstation",
-        "gpui",
-        "linux",
-        "retrogaming",
-        "retropie",
-        "rom-manager",
-        "rust",
-        "skyscraper"
-      ],
-      "visual": "default",
-      "curated_index": 1,
-      "first_seen_at": "2026-10-27T22:56:30Z"
-    },
-    {
       "id": "BrandonKowalski/gabagool",
       "full_name": "BrandonKowalski/gabagool",
       "owner": "BrandonKowalski",
@@ -6271,6 +6603,36 @@
       "visual": "default",
       "curated_index": 5,
       "first_seen_at": "2026-10-27T22:56:30Z"
+    },
+    {
+      "id": "YoriKv/celpix",
+      "full_name": "YoriKv/celpix",
+      "owner": "YoriKv",
+      "name": "celpix",
+      "html_url": "https://github.com/YoriKv/celpix",
+      "cover": "https://opengraph.githubassets.com/1/YoriKv/celpix",
+      "description": "celPix is a cross-platform graphics viewer and editor for romhacking and research.",
+      "editor_note": "",
+      "stars": 23,
+      "language": "Python",
+      "license": "MIT",
+      "updated_at": "2026-10-31T20:28:25Z",
+      "category": "工具",
+      "tags": [
+        "retro",
+        "retrogaming",
+        "romhacking"
+      ],
+      "topics": [
+        "retro",
+        "retrogaming",
+        "romhacking",
+        "tool",
+        "tools"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-27T18:40:55Z"
     },
     {
       "id": "Sesu8642/FeudalTactics",
@@ -6496,36 +6858,6 @@
       "first_seen_at": "2026-10-27T18:40:55Z"
     },
     {
-      "id": "YoriKv/celpix",
-      "full_name": "YoriKv/celpix",
-      "owner": "YoriKv",
-      "name": "celpix",
-      "html_url": "https://github.com/YoriKv/celpix",
-      "cover": "https://opengraph.githubassets.com/1/YoriKv/celpix",
-      "description": "celPix is a cross-platform graphics viewer and editor for romhacking and research.",
-      "editor_note": "",
-      "stars": 22,
-      "language": "Python",
-      "license": "MIT",
-      "updated_at": "2026-10-24T10:23:47Z",
-      "category": "工具",
-      "tags": [
-        "retro",
-        "retrogaming",
-        "romhacking"
-      ],
-      "topics": [
-        "retro",
-        "retrogaming",
-        "romhacking",
-        "tool",
-        "tools"
-      ],
-      "visual": "default",
-      "curated_index": 6,
-      "first_seen_at": "2026-10-27T18:40:55Z"
-    },
-    {
       "id": "fletto2/smb1transpiler",
       "full_name": "fletto2/smb1transpiler",
       "owner": "fletto2",
@@ -6714,7 +7046,7 @@
       "stars": 296,
       "language": "Java",
       "license": "GPL-3.0",
-      "updated_at": "2026-10-30T06:04:53Z",
+      "updated_at": "2026-10-31T15:03:37Z",
       "category": "编辑器",
       "tags": [
         "android",
@@ -6992,6 +7324,51 @@
       "first_seen_at": "2026-10-27T13:11:27Z"
     },
     {
+      "id": "mehmetraif/OSD-OS",
+      "full_name": "mehmetraif/OSD-OS",
+      "owner": "mehmetraif",
+      "name": "OSD-OS",
+      "html_url": "https://github.com/mehmetraif/OSD-OS",
+      "cover": "https://opengraph.githubassets.com/1/mehmetraif/OSD-OS",
+      "description": "A VCR-style smart TV experience for CRTs: films, streams and arcade games with high scores, RetroAchievements and netplay. Built for TVs and JAMMA cabinets, running on Raspberry Pi, macOS, Windows, Linux, FreeBSD and OpenBSD.",
+      "editor_note": "",
+      "stars": 4,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-03T03:59:54Z",
+      "category": "游戏",
+      "tags": [
+        "arcade",
+        "crt",
+        "emby"
+      ],
+      "topics": [
+        "arcade",
+        "crt",
+        "emby",
+        "freebsd",
+        "jellyfin",
+        "linux",
+        "macos",
+        "mame",
+        "media-center",
+        "mpv",
+        "openbsd",
+        "operating-system",
+        "plex",
+        "qt6",
+        "raspberry-pi",
+        "retro",
+        "smart-tv",
+        "vhs",
+        "windows",
+        "youtube"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-10-27T06:15:02Z"
+    },
+    {
       "id": "smolgroot/gba-wasm",
       "full_name": "smolgroot/gba-wasm",
       "owner": "smolgroot",
@@ -7061,51 +7438,6 @@
       ],
       "visual": "default",
       "curated_index": 7,
-      "first_seen_at": "2026-10-27T06:15:02Z"
-    },
-    {
-      "id": "mehmetraif/OSD-OS",
-      "full_name": "mehmetraif/OSD-OS",
-      "owner": "mehmetraif",
-      "name": "OSD-OS",
-      "html_url": "https://github.com/mehmetraif/OSD-OS",
-      "cover": "https://opengraph.githubassets.com/1/mehmetraif/OSD-OS",
-      "description": "A VCR-style smart TV experience for CRTs: films, streams and arcade games with high scores, RetroAchievements and netplay. Built for TVs and JAMMA cabinets, running on Raspberry Pi, macOS, Windows, Linux, FreeBSD and OpenBSD.",
-      "editor_note": "",
-      "stars": 3,
-      "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-02T13:25:07Z",
-      "category": "游戏",
-      "tags": [
-        "arcade",
-        "crt",
-        "emby"
-      ],
-      "topics": [
-        "arcade",
-        "crt",
-        "emby",
-        "freebsd",
-        "jellyfin",
-        "linux",
-        "macos",
-        "mame",
-        "media-center",
-        "mpv",
-        "openbsd",
-        "operating-system",
-        "plex",
-        "qt6",
-        "raspberry-pi",
-        "retro",
-        "smart-tv",
-        "vhs",
-        "windows",
-        "youtube"
-      ],
-      "visual": "default",
-      "curated_index": 9,
       "first_seen_at": "2026-10-27T06:15:02Z"
     },
     {
@@ -7267,6 +7599,43 @@
       "first_seen_at": "2026-10-27T06:15:02Z"
     },
     {
+      "id": "NightKnight24/OmniVault",
+      "full_name": "NightKnight24/OmniVault",
+      "owner": "NightKnight24",
+      "name": "OmniVault",
+      "html_url": "https://github.com/NightKnight24/OmniVault",
+      "cover": "https://opengraph.githubassets.com/1/NightKnight24/OmniVault",
+      "description": "Native macOS Apple Silicon retro gaming preservation hub, 67k offline catalog, and controller quick menu (BYOS)",
+      "editor_note": "",
+      "stars": 0,
+      "language": "JavaScript",
+      "license": "MIT",
+      "updated_at": "2026-10-31T15:24:33Z",
+      "category": "模拟器",
+      "tags": [
+        "apple silicon",
+        "arcade",
+        "byos"
+      ],
+      "topics": [
+        "apple-silicon",
+        "arcade",
+        "byos",
+        "emulation",
+        "emulator-frontend",
+        "game-preservation",
+        "macos",
+        "retro-gaming",
+        "retrogaming",
+        "rom-manager",
+        "save-states",
+        "swift"
+      ],
+      "visual": "default",
+      "curated_index": 4,
+      "first_seen_at": "2026-10-27T06:15:02Z"
+    },
+    {
       "id": "DrCBeatz/nes-hangar",
       "full_name": "DrCBeatz/nes-hangar",
       "owner": "DrCBeatz",
@@ -7331,43 +7700,6 @@
       ],
       "visual": "default",
       "curated_index": 3,
-      "first_seen_at": "2026-10-27T06:15:02Z"
-    },
-    {
-      "id": "NightKnight24/OmniVault",
-      "full_name": "NightKnight24/OmniVault",
-      "owner": "NightKnight24",
-      "name": "OmniVault",
-      "html_url": "https://github.com/NightKnight24/OmniVault",
-      "cover": "https://opengraph.githubassets.com/1/NightKnight24/OmniVault",
-      "description": "Native macOS Apple Silicon retro gaming preservation hub, 67k offline catalog, and controller quick menu (BYOS)",
-      "editor_note": "",
-      "stars": 0,
-      "language": "JavaScript",
-      "license": "MIT",
-      "updated_at": "2026-10-26T17:14:58Z",
-      "category": "模拟器",
-      "tags": [
-        "apple silicon",
-        "arcade",
-        "byos"
-      ],
-      "topics": [
-        "apple-silicon",
-        "arcade",
-        "byos",
-        "emulation",
-        "emulator-frontend",
-        "game-preservation",
-        "macos",
-        "retro-gaming",
-        "retrogaming",
-        "rom-manager",
-        "save-states",
-        "swift"
-      ],
-      "visual": "default",
-      "curated_index": 4,
       "first_seen_at": "2026-10-27T06:15:02Z"
     },
     {
@@ -8028,6 +8360,45 @@
       "first_seen_at": "2026-10-26T14:14:01Z"
     },
     {
+      "id": "aylanarciso0721-lang/Pixel-Hopper",
+      "full_name": "aylanarciso0721-lang/Pixel-Hopper",
+      "owner": "aylanarciso0721-lang",
+      "name": "Pixel-Hopper",
+      "html_url": "https://github.com/aylanarciso0721-lang/Pixel-Hopper",
+      "cover": "https://opengraph.githubassets.com/1/aylanarciso0721-lang/Pixel-Hopper",
+      "description": "Retro pixel-art platformer in a single HTML file with a multiplayer server. 10 worlds, with 10 levels and a boss at the end of each world, 4 superpowers, 4 heroes, 6 outfits, upgrades, a 3D perspective, 5 difficulties, colorblind and touch support. Plays in any browser, no run-dependencies.",
+      "editor_note": "",
+      "stars": 0,
+      "language": "HTML",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-01T05:09:15Z",
+      "category": "编辑器",
+      "tags": [
+        "3d game",
+        "8 bit",
+        "accessibility"
+      ],
+      "topics": [
+        "3d-game",
+        "8-bit",
+        "accessibility",
+        "browser-game",
+        "canvas",
+        "game",
+        "html5-game",
+        "javascript",
+        "multi-file",
+        "multiplayer",
+        "pixel-art",
+        "platformer",
+        "retro",
+        "web-audio"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-26T06:09:12Z"
+    },
+    {
       "id": "wieslawsoltes/MacOS9",
       "full_name": "wieslawsoltes/MacOS9",
       "owner": "wieslawsoltes",
@@ -8065,43 +8436,6 @@
       ],
       "visual": "default",
       "curated_index": 3,
-      "first_seen_at": "2026-10-26T06:09:12Z"
-    },
-    {
-      "id": "aylanarciso0721-lang/Pixel-Hopper",
-      "full_name": "aylanarciso0721-lang/Pixel-Hopper",
-      "owner": "aylanarciso0721-lang",
-      "name": "Pixel-Hopper",
-      "html_url": "https://github.com/aylanarciso0721-lang/Pixel-Hopper",
-      "cover": "https://opengraph.githubassets.com/1/aylanarciso0721-lang/Pixel-Hopper",
-      "description": "Retro pixel-art platformer in a single HTML file. 15 levels, 3 bosses, superpowers with levitation, 4 heroes, 5 difficulties, colorblind and touch support. Plays in any browser, no dependencies.",
-      "editor_note": "",
-      "stars": 0,
-      "language": "HTML",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-05T06:32:54Z",
-      "category": "编辑器",
-      "tags": [
-        "8 bit",
-        "accessibility",
-        "browser game"
-      ],
-      "topics": [
-        "8-bit",
-        "accessibility",
-        "browser-game",
-        "canvas",
-        "game",
-        "html5-game",
-        "javascript",
-        "pixel-art",
-        "platformer",
-        "retro",
-        "single-file",
-        "web-audio"
-      ],
-      "visual": "default",
-      "curated_index": 6,
       "first_seen_at": "2026-10-26T06:09:12Z"
     },
     {
@@ -9116,6 +9450,38 @@
       "first_seen_at": "2026-10-25T12:33:27Z"
     },
     {
+      "id": "valerino/misc_emu_scripts",
+      "full_name": "valerino/misc_emu_scripts",
+      "owner": "valerino",
+      "name": "misc_emu_scripts",
+      "html_url": "https://github.com/valerino/misc_emu_scripts",
+      "cover": "https://opengraph.githubassets.com/1/valerino/misc_emu_scripts",
+      "description": "my emulation-related scripts, mostly to ease cleaning up of rom collections and retroarch/retropie.",
+      "editor_note": "",
+      "stars": 1,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-31T17:54:24Z",
+      "category": "模拟器",
+      "tags": [
+        "emulation",
+        "retroarch",
+        "retrogaming"
+      ],
+      "topics": [
+        "emulation",
+        "retroarch",
+        "retrogaming",
+        "retropie",
+        "retropie-setup",
+        "rom-manager",
+        "tosec"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-25T12:33:27Z"
+    },
+    {
       "id": "striderZA/OpenCodeGameStudios",
       "full_name": "striderZA/OpenCodeGameStudios",
       "owner": "striderZA",
@@ -9343,38 +9709,6 @@
       ],
       "visual": "default",
       "curated_index": 5,
-      "first_seen_at": "2026-10-25T12:33:27Z"
-    },
-    {
-      "id": "valerino/misc_emu_scripts",
-      "full_name": "valerino/misc_emu_scripts",
-      "owner": "valerino",
-      "name": "misc_emu_scripts",
-      "html_url": "https://github.com/valerino/misc_emu_scripts",
-      "cover": "https://opengraph.githubassets.com/1/valerino/misc_emu_scripts",
-      "description": "my emulation-related scripts, mostly to ease cleaning up of rom collections and retroarch/retropie.",
-      "editor_note": "",
-      "stars": 1,
-      "language": "Python",
-      "license": "NOASSERTION",
-      "updated_at": "2026-09-29T16:40:45Z",
-      "category": "模拟器",
-      "tags": [
-        "emulation",
-        "retroarch",
-        "retrogaming"
-      ],
-      "topics": [
-        "emulation",
-        "retroarch",
-        "retrogaming",
-        "retropie",
-        "retropie-setup",
-        "rom-manager",
-        "tosec"
-      ],
-      "visual": "default",
-      "curated_index": 6,
       "first_seen_at": "2026-10-25T12:33:27Z"
     },
     {
@@ -9830,6 +10164,47 @@
       "first_seen_at": "2026-10-25T06:04:34Z"
     },
     {
+      "id": "c4punks/ssh-chatter",
+      "full_name": "c4punks/ssh-chatter",
+      "owner": "c4punks",
+      "name": "ssh-chatter",
+      "html_url": "https://github.com/c4punks/ssh-chatter",
+      "cover": "https://opengraph.githubassets.com/1/c4punks/ssh-chatter",
+      "description": "SSH-Chatter: Diversi Dial(James Quick rev.) compatible new-born BBS System",
+      "editor_note": "",
+      "stars": 39,
+      "language": "C",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-02T11:13:00Z",
+      "category": "工具",
+      "tags": [
+        "apple ii",
+        "bbs",
+        "bulletin board"
+      ],
+      "topics": [
+        "apple-ii",
+        "bbs",
+        "bulletin-board",
+        "bulletin-board-system",
+        "chat-server",
+        "chat-server-application",
+        "chatting-app",
+        "ddial",
+        "irc",
+        "linux",
+        "retro",
+        "ssh-chat",
+        "telnet",
+        "terminal-app",
+        "terminal-based",
+        "tui"
+      ],
+      "visual": "default",
+      "curated_index": 5,
+      "first_seen_at": "2026-10-24T21:35:53Z"
+    },
+    {
       "id": "Lordingard/SacredStonesRecomp",
       "full_name": "Lordingard/SacredStonesRecomp",
       "owner": "Lordingard",
@@ -9861,47 +10236,6 @@
       ],
       "visual": "default",
       "curated_index": 9,
-      "first_seen_at": "2026-10-24T21:35:53Z"
-    },
-    {
-      "id": "c4punks/ssh-chatter",
-      "full_name": "c4punks/ssh-chatter",
-      "owner": "c4punks",
-      "name": "ssh-chatter",
-      "html_url": "https://github.com/c4punks/ssh-chatter",
-      "cover": "https://opengraph.githubassets.com/1/c4punks/ssh-chatter",
-      "description": "SSH-Chatter: Diversi Dial(James Quick rev.) compatible new-born BBS System",
-      "editor_note": "",
-      "stars": 37,
-      "language": "C",
-      "license": "GPL-2.0",
-      "updated_at": "2026-10-29T12:17:32Z",
-      "category": "工具",
-      "tags": [
-        "apple ii",
-        "bbs",
-        "bulletin board"
-      ],
-      "topics": [
-        "apple-ii",
-        "bbs",
-        "bulletin-board",
-        "bulletin-board-system",
-        "chat-server",
-        "chat-server-application",
-        "chatting-app",
-        "ddial",
-        "irc",
-        "linux",
-        "retro",
-        "ssh-chat",
-        "telnet",
-        "terminal-app",
-        "terminal-based",
-        "tui"
-      ],
-      "visual": "default",
-      "curated_index": 5,
       "first_seen_at": "2026-10-24T21:35:53Z"
     },
     {
@@ -10228,6 +10562,50 @@
       "first_seen_at": "2026-10-24T16:34:41Z"
     },
     {
+      "id": "SFCyris/SoniqBoom",
+      "full_name": "SFCyris/SoniqBoom",
+      "owner": "SFCyris",
+      "name": "SoniqBoom",
+      "html_url": "https://github.com/SFCyris/SoniqBoom",
+      "cover": "https://opengraph.githubassets.com/1/SFCyris/SoniqBoom",
+      "description": "Self-hosted music streaming for your personal library: FLAC, ALAC, MP3, Opus, plus SID and 20+ tracker formats (MOD, S3M, XM, IT…) most players ignore. This server doesn't choke on your 250k-track library. Multiroom audio capabilities",
+      "editor_note": "",
+      "stars": 19,
+      "language": "Python",
+      "license": "AGPL-3.0",
+      "updated_at": "2026-10-31T21:01:39Z",
+      "category": "工具",
+      "tags": [
+        "amiga",
+        "c64",
+        "chromecast"
+      ],
+      "topics": [
+        "amiga",
+        "c64",
+        "chromecast",
+        "dlna-server",
+        "flac",
+        "internet-radio-player",
+        "library",
+        "linux",
+        "macos",
+        "mod",
+        "music",
+        "music-player",
+        "opensubsonic",
+        "osx",
+        "player",
+        "retro-computing",
+        "retrogaming",
+        "sid",
+        "tracker"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-24T16:34:41Z"
+    },
+    {
       "id": "Dark574/Retromind",
       "full_name": "Dark574/Retromind",
       "owner": "Dark574",
@@ -10336,50 +10714,6 @@
       ],
       "visual": "default",
       "curated_index": 1,
-      "first_seen_at": "2026-10-24T16:34:41Z"
-    },
-    {
-      "id": "SFCyris/SoniqBoom",
-      "full_name": "SFCyris/SoniqBoom",
-      "owner": "SFCyris",
-      "name": "SoniqBoom",
-      "html_url": "https://github.com/SFCyris/SoniqBoom",
-      "cover": "https://opengraph.githubassets.com/1/SFCyris/SoniqBoom",
-      "description": "Self-hosted music streaming for your personal library: FLAC, ALAC, MP3, Opus, plus SID and 20+ tracker formats (MOD, S3M, XM, IT…) most players ignore. This server doesn't choke on your 250k-track library. Multiroom audio capabilities",
-      "editor_note": "",
-      "stars": 20,
-      "language": "Python",
-      "license": "AGPL-3.0",
-      "updated_at": "2026-10-23T07:38:07Z",
-      "category": "工具",
-      "tags": [
-        "amiga",
-        "c64",
-        "chromecast"
-      ],
-      "topics": [
-        "amiga",
-        "c64",
-        "chromecast",
-        "dlna-server",
-        "flac",
-        "internet-radio-player",
-        "library",
-        "linux",
-        "macos",
-        "mod",
-        "music",
-        "music-player",
-        "opensubsonic",
-        "osx",
-        "player",
-        "retro-computing",
-        "retrogaming",
-        "sid",
-        "tracker"
-      ],
-      "visual": "default",
-      "curated_index": 3,
       "first_seen_at": "2026-10-24T16:34:41Z"
     },
     {
@@ -12994,6 +13328,39 @@
       "first_seen_at": "2026-10-22T17:57:56Z"
     },
     {
+      "id": "PicoPlus-devel/pico-doom",
+      "full_name": "PicoPlus-devel/pico-doom",
+      "owner": "PicoPlus-devel",
+      "name": "pico-doom",
+      "html_url": "https://github.com/PicoPlus-devel/pico-doom",
+      "cover": "https://opengraph.githubassets.com/1/PicoPlus-devel/pico-doom",
+      "description": "Doom for RP2350 boards with HSTX video: Adafruit Fruit Jam, Pico 2 + DVI breakout, Murmulator M2, Feather RP2350 — HDMI/I2S audio, USB HID input",
+      "editor_note": "",
+      "stars": 1,
+      "language": "C",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-01T05:12:59Z",
+      "category": "游戏",
+      "tags": [
+        "doom",
+        "fruitjam",
+        "hdmi"
+      ],
+      "topics": [
+        "doom",
+        "fruitjam",
+        "hdmi",
+        "hstx",
+        "pico-sdk",
+        "retrogaming",
+        "rp2350",
+        "rp2350b"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-10-22T17:57:56Z"
+    },
+    {
       "id": "kitao/pyxel-mcp",
       "full_name": "kitao/pyxel-mcp",
       "owner": "kitao",
@@ -13024,39 +13391,6 @@
       ],
       "visual": "default",
       "curated_index": 2,
-      "first_seen_at": "2026-10-22T17:57:56Z"
-    },
-    {
-      "id": "PicoPlus-devel/pico-doom",
-      "full_name": "PicoPlus-devel/pico-doom",
-      "owner": "PicoPlus-devel",
-      "name": "pico-doom",
-      "html_url": "https://github.com/PicoPlus-devel/pico-doom",
-      "cover": "https://opengraph.githubassets.com/1/PicoPlus-devel/pico-doom",
-      "description": "Doom for RP2350 boards with HSTX video: Adafruit Fruit Jam, Pico 2 + DVI breakout, Murmulator M2, Feather RP2350 — HDMI/I2S audio, USB HID input",
-      "editor_note": "",
-      "stars": 1,
-      "language": "C",
-      "license": "GPL-2.0",
-      "updated_at": "2026-10-23T15:29:53Z",
-      "category": "游戏",
-      "tags": [
-        "doom",
-        "fruitjam",
-        "hdmi"
-      ],
-      "topics": [
-        "doom",
-        "fruitjam",
-        "hdmi",
-        "hstx",
-        "pico-sdk",
-        "retrogaming",
-        "rp2350",
-        "rp2350b"
-      ],
-      "visual": "default",
-      "curated_index": 9,
       "first_seen_at": "2026-10-22T17:57:56Z"
     },
     {
@@ -14061,6 +14395,50 @@
       "first_seen_at": "2026-10-22T06:06:31Z"
     },
     {
+      "id": "s0liton/RommPS",
+      "full_name": "s0liton/RommPS",
+      "owner": "s0liton",
+      "name": "RommPS",
+      "html_url": "https://github.com/s0liton/RommPS",
+      "cover": "https://opengraph.githubassets.com/1/s0liton/RommPS",
+      "description": "A RomM server client for jailbroken PS5s. Download games from your server, full bi-directional save sync support, and extensible emulator profiles to quickly support new emulators as they release on the console.",
+      "editor_note": "",
+      "stars": 106,
+      "language": "C",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-03T03:45:25Z",
+      "category": "模拟器",
+      "tags": [
+        "game library",
+        "playstation",
+        "playstation 5"
+      ],
+      "topics": [
+        "game-library",
+        "playstation",
+        "playstation-5",
+        "playstation5",
+        "prospero-managed",
+        "ps4",
+        "ps4-homebrew",
+        "ps4-jailbreak",
+        "ps5",
+        "ps5-homebrew",
+        "ps5-jailbreak",
+        "ps5-tools",
+        "recompstore",
+        "retro-gaming",
+        "retroarch",
+        "retrogaming",
+        "romm",
+        "rommapp",
+        "save-sync"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-21T22:18:32Z"
+    },
+    {
       "id": "xyproto/tinyhat",
       "full_name": "xyproto/tinyhat",
       "owner": "xyproto",
@@ -14209,80 +14587,6 @@
       "first_seen_at": "2026-10-21T22:18:32Z"
     },
     {
-      "id": "s0liton/RommPS",
-      "full_name": "s0liton/RommPS",
-      "owner": "s0liton",
-      "name": "RommPS",
-      "html_url": "https://github.com/s0liton/RommPS",
-      "cover": "https://opengraph.githubassets.com/1/s0liton/RommPS",
-      "description": "A RomM server client for jailbroken PS5s. Download games from your server, full bi-directional save sync support, and extensible emulator profiles to quickly support new emulators as they release on the console.",
-      "editor_note": "",
-      "stars": 101,
-      "language": "C",
-      "license": "GPL-3.0",
-      "updated_at": "2026-10-30T05:07:43Z",
-      "category": "模拟器",
-      "tags": [
-        "game library",
-        "playstation",
-        "playstation 5"
-      ],
-      "topics": [
-        "game-library",
-        "playstation",
-        "playstation-5",
-        "playstation5",
-        "prospero-managed",
-        "ps4",
-        "ps4-homebrew",
-        "ps4-jailbreak",
-        "ps5",
-        "ps5-homebrew",
-        "ps5-jailbreak",
-        "ps5-tools",
-        "recompstore",
-        "retro-gaming",
-        "retroarch",
-        "retrogaming",
-        "romm",
-        "rommapp",
-        "save-sync"
-      ],
-      "visual": "default",
-      "curated_index": 1,
-      "first_seen_at": "2026-10-21T22:18:32Z"
-    },
-    {
-      "id": "VishalRMahajan/8bit-portfolio",
-      "full_name": "VishalRMahajan/8bit-portfolio",
-      "owner": "VishalRMahajan",
-      "name": "8bit-portfolio",
-      "html_url": "https://github.com/VishalRMahajan/8bit-portfolio",
-      "cover": "https://opengraph.githubassets.com/1/VishalRMahajan/8bit-portfolio",
-      "description": "Retro gaming-inspired portfolio template with customizable sections for projects, skills, work experience, GitHub stats, blogs, and Spotify.",
-      "editor_note": "",
-      "stars": 17,
-      "language": "TypeScript",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-28T16:27:57Z",
-      "category": "工具",
-      "tags": [
-        "8 bit",
-        "personal website",
-        "portfolio"
-      ],
-      "topics": [
-        "8-bit",
-        "personal-website",
-        "portfolio",
-        "retro",
-        "retro-portfolio"
-      ],
-      "visual": "default",
-      "curated_index": 3,
-      "first_seen_at": "2026-10-21T22:18:32Z"
-    },
-    {
       "id": "etroimcasso/Snaggletooth",
       "full_name": "etroimcasso/Snaggletooth",
       "owner": "etroimcasso",
@@ -14294,7 +14598,7 @@
       "stars": 5,
       "language": "C++",
       "license": "MIT",
-      "updated_at": "2026-10-28T05:11:42Z",
+      "updated_at": "2026-11-01T01:43:18Z",
       "category": "模拟器",
       "tags": [
         "65816",
@@ -14325,6 +14629,36 @@
       ],
       "visual": "default",
       "curated_index": 9,
+      "first_seen_at": "2026-10-21T22:18:32Z"
+    },
+    {
+      "id": "VishalRMahajan/8bit-portfolio",
+      "full_name": "VishalRMahajan/8bit-portfolio",
+      "owner": "VishalRMahajan",
+      "name": "8bit-portfolio",
+      "html_url": "https://github.com/VishalRMahajan/8bit-portfolio",
+      "cover": "https://opengraph.githubassets.com/1/VishalRMahajan/8bit-portfolio",
+      "description": "Retro gaming-inspired portfolio template with customizable sections for projects, skills, work experience, GitHub stats, blogs, and Spotify.",
+      "editor_note": "",
+      "stars": 17,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-28T16:27:57Z",
+      "category": "工具",
+      "tags": [
+        "8 bit",
+        "personal website",
+        "portfolio"
+      ],
+      "topics": [
+        "8-bit",
+        "personal-website",
+        "portfolio",
+        "retro",
+        "retro-portfolio"
+      ],
+      "visual": "default",
+      "curated_index": 3,
       "first_seen_at": "2026-10-21T22:18:32Z"
     },
     {
@@ -15445,6 +15779,34 @@
       "first_seen_at": "2026-10-21T06:00:30Z"
     },
     {
+      "id": "cobjams/NSK-Warrior",
+      "full_name": "cobjams/NSK-Warrior",
+      "owner": "cobjams",
+      "name": "NSK-Warrior",
+      "html_url": "https://github.com/cobjams/NSK-Warrior",
+      "cover": "https://opengraph.githubassets.com/1/cobjams/NSK-Warrior",
+      "description": "An RPG Maker (PSX) game playable in the browser",
+      "editor_note": "",
+      "stars": 0,
+      "language": "JavaScript",
+      "license": "GPL-3.0",
+      "updated_at": "2026-10-31T12:26:20Z",
+      "category": "模拟器",
+      "tags": [
+        "emulatorjs",
+        "retrogaming",
+        "rpg maker"
+      ],
+      "topics": [
+        "emulatorjs",
+        "retrogaming",
+        "rpg-maker"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-20T22:16:53Z"
+    },
+    {
       "id": "CGdiego/Stickman-Arena",
       "full_name": "CGdiego/Stickman-Arena",
       "owner": "CGdiego",
@@ -15525,34 +15887,6 @@
       ],
       "visual": "default",
       "curated_index": 8,
-      "first_seen_at": "2026-10-20T22:16:53Z"
-    },
-    {
-      "id": "cobjams/NSK-Warrior",
-      "full_name": "cobjams/NSK-Warrior",
-      "owner": "cobjams",
-      "name": "NSK-Warrior",
-      "html_url": "https://github.com/cobjams/NSK-Warrior",
-      "cover": "https://opengraph.githubassets.com/1/cobjams/NSK-Warrior",
-      "description": "An RPG Maker (PSX) game playable in the browser",
-      "editor_note": "",
-      "stars": 0,
-      "language": "JavaScript",
-      "license": "GPL-3.0",
-      "updated_at": "2026-10-29T03:58:04Z",
-      "category": "模拟器",
-      "tags": [
-        "emulatorjs",
-        "retrogaming",
-        "rpg maker"
-      ],
-      "topics": [
-        "emulatorjs",
-        "retrogaming",
-        "rpg-maker"
-      ],
-      "visual": "default",
-      "curated_index": 6,
       "first_seen_at": "2026-10-20T22:16:53Z"
     },
     {
@@ -15779,6 +16113,42 @@
       "first_seen_at": "2026-10-20T22:16:53Z"
     },
     {
+      "id": "zhang66633/dsh-pixel-ui",
+      "full_name": "zhang66633/dsh-pixel-ui",
+      "owner": "zhang66633",
+      "name": "dsh-pixel-ui",
+      "html_url": "https://github.com/zhang66633/dsh-pixel-ui",
+      "cover": "https://opengraph.githubassets.com/1/zhang66633/dsh-pixel-ui",
+      "description": "DeepSeek Harness 像素皮肤：主题一键切换，随时可切回现代默认 UI。",
+      "editor_note": "",
+      "stars": 3,
+      "language": "JavaScript",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-01T15:19:09Z",
+      "category": "编辑器",
+      "tags": [
+        "crt",
+        "deepseek harness",
+        "dsh"
+      ],
+      "topics": [
+        "crt",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "pixel-art",
+        "pixel-font",
+        "pixel-skin",
+        "retro",
+        "skin",
+        "stardew-valley",
+        "theme"
+      ],
+      "visual": "default",
+      "curated_index": 2,
+      "first_seen_at": "2026-10-20T17:58:07Z"
+    },
+    {
       "id": "dplanitzer/Serena",
       "full_name": "dplanitzer/Serena",
       "owner": "dplanitzer",
@@ -15846,42 +16216,6 @@
       ],
       "visual": "default",
       "curated_index": 3,
-      "first_seen_at": "2026-10-20T17:58:07Z"
-    },
-    {
-      "id": "zhang66633/dsh-pixel-ui",
-      "full_name": "zhang66633/dsh-pixel-ui",
-      "owner": "zhang66633",
-      "name": "dsh-pixel-ui",
-      "html_url": "https://github.com/zhang66633/dsh-pixel-ui",
-      "cover": "https://opengraph.githubassets.com/1/zhang66633/dsh-pixel-ui",
-      "description": "DeepSeek Harness 像素皮肤（Agent Xi 风格）：四个主题一键切换——像素·木屋 / 像素·羊皮纸 / 像素·暖阳 / 像素·终端绿，随时可切回现代默认 UI。",
-      "editor_note": "",
-      "stars": 3,
-      "language": "JavaScript",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-25T14:36:52Z",
-      "category": "编辑器",
-      "tags": [
-        "crt",
-        "deepseek harness",
-        "dsh"
-      ],
-      "topics": [
-        "crt",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "pixel-art",
-        "pixel-font",
-        "pixel-skin",
-        "retro",
-        "skin",
-        "stardew-valley",
-        "theme"
-      ],
-      "visual": "default",
-      "curated_index": 2,
       "first_seen_at": "2026-10-20T17:58:07Z"
     },
     {
@@ -16176,6 +16510,36 @@
       "first_seen_at": "2026-10-20T12:42:34Z"
     },
     {
+      "id": "BoboTiG/PyGameBoy",
+      "full_name": "BoboTiG/PyGameBoy",
+      "owner": "BoboTiG",
+      "name": "PyGameBoy",
+      "html_url": "https://github.com/BoboTiG/PyGameBoy",
+      "cover": "https://opengraph.githubassets.com/1/BoboTiG/PyGameBoy",
+      "description": "Game Boy emulator written in Python 3.",
+      "editor_note": "",
+      "stars": 3,
+      "language": "Python",
+      "license": "MIT",
+      "updated_at": "2026-11-01T09:36:03Z",
+      "category": "模拟器",
+      "tags": [
+        "emulator",
+        "gameboy",
+        "gameboy emulator"
+      ],
+      "topics": [
+        "emulator",
+        "gameboy",
+        "gameboy-emulator",
+        "python3",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-20T12:42:34Z"
+    },
+    {
       "id": "SorBalda/vibeworld",
       "full_name": "SorBalda/vibeworld",
       "owner": "SorBalda",
@@ -16400,36 +16764,6 @@
       "first_seen_at": "2026-10-20T12:42:34Z"
     },
     {
-      "id": "BoboTiG/PyGameBoy",
-      "full_name": "BoboTiG/PyGameBoy",
-      "owner": "BoboTiG",
-      "name": "PyGameBoy",
-      "html_url": "https://github.com/BoboTiG/PyGameBoy",
-      "cover": "https://opengraph.githubassets.com/1/BoboTiG/PyGameBoy",
-      "description": "Game Boy emulator written in Python 3.",
-      "editor_note": "",
-      "stars": 3,
-      "language": "Python",
-      "license": "MIT",
-      "updated_at": "2026-10-01T09:40:22Z",
-      "category": "模拟器",
-      "tags": [
-        "emulator",
-        "gameboy",
-        "gameboy emulator"
-      ],
-      "topics": [
-        "emulator",
-        "gameboy",
-        "gameboy-emulator",
-        "python3",
-        "retrogaming"
-      ],
-      "visual": "default",
-      "curated_index": 6,
-      "first_seen_at": "2026-10-20T12:42:34Z"
-    },
-    {
       "id": "sonik-br/pico2retroconsole",
       "full_name": "sonik-br/pico2retroconsole",
       "owner": "sonik-br",
@@ -16529,6 +16863,45 @@
       "first_seen_at": "2026-10-20T05:59:38Z"
     },
     {
+      "id": "PascalCorpsman/fpc_atomic",
+      "full_name": "PascalCorpsman/fpc_atomic",
+      "owner": "PascalCorpsman",
+      "name": "fpc_atomic",
+      "html_url": "https://github.com/PascalCorpsman/fpc_atomic",
+      "cover": "https://opengraph.githubassets.com/1/PascalCorpsman/fpc_atomic",
+      "description": "Playable open-source engine recreation of the legendary Atomic Bomberman including Network and Ai https://en.wikipedia.org/wiki/Atomic_Bomberman",
+      "editor_note": "",
+      "stars": 62,
+      "language": "Pascal",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-01T12:22:50Z",
+      "category": "游戏",
+      "tags": [
+        "ai",
+        "atomic",
+        "atomic bomberman"
+      ],
+      "topics": [
+        "ai",
+        "atomic",
+        "atomic-bomberman",
+        "bomberman",
+        "clone",
+        "freepascal",
+        "game",
+        "game-2d",
+        "multiplayer",
+        "multiplayer-game",
+        "network",
+        "playable",
+        "playable-game",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-20T05:59:38Z"
+    },
+    {
       "id": "OpenPhantom/OpenPhantom",
       "full_name": "OpenPhantom/OpenPhantom",
       "owner": "OpenPhantom",
@@ -16604,45 +16977,6 @@
       ],
       "visual": "default",
       "curated_index": 9,
-      "first_seen_at": "2026-10-20T05:59:38Z"
-    },
-    {
-      "id": "PascalCorpsman/fpc_atomic",
-      "full_name": "PascalCorpsman/fpc_atomic",
-      "owner": "PascalCorpsman",
-      "name": "fpc_atomic",
-      "html_url": "https://github.com/PascalCorpsman/fpc_atomic",
-      "cover": "https://opengraph.githubassets.com/1/PascalCorpsman/fpc_atomic",
-      "description": "Playable open-source engine recreation of the legendary Atomic Bomberman including Network and Ai https://en.wikipedia.org/wiki/Atomic_Bomberman",
-      "editor_note": "",
-      "stars": 61,
-      "language": "Pascal",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-30T05:43:39Z",
-      "category": "游戏",
-      "tags": [
-        "ai",
-        "atomic",
-        "atomic bomberman"
-      ],
-      "topics": [
-        "ai",
-        "atomic",
-        "atomic-bomberman",
-        "bomberman",
-        "clone",
-        "freepascal",
-        "game",
-        "game-2d",
-        "multiplayer",
-        "multiplayer-game",
-        "network",
-        "playable",
-        "playable-game",
-        "retrogaming"
-      ],
-      "visual": "default",
-      "curated_index": 6,
       "first_seen_at": "2026-10-20T05:59:38Z"
     },
     {
@@ -18975,6 +19309,35 @@
       "first_seen_at": "2026-10-18T12:02:59Z"
     },
     {
+      "id": "carlosefr/retroarch-shaders",
+      "full_name": "carlosefr/retroarch-shaders",
+      "owner": "carlosefr",
+      "name": "retroarch-shaders",
+      "html_url": "https://github.com/carlosefr/retroarch-shaders",
+      "cover": "https://opengraph.githubassets.com/1/carlosefr/retroarch-shaders",
+      "description": "Carlos' custom CRT shaders and presets for RetroArch.",
+      "editor_note": "",
+      "stars": 15,
+      "language": "GLSL",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-02T18:21:57Z",
+      "category": "模拟器",
+      "tags": [
+        "retroarch",
+        "retrogaming",
+        "retropie"
+      ],
+      "topics": [
+        "retroarch",
+        "retrogaming",
+        "retropie",
+        "shaders"
+      ],
+      "visual": "default",
+      "curated_index": 7,
+      "first_seen_at": "2026-10-18T05:52:25Z"
+    },
+    {
       "id": "fredangstadt-lang/LineWarsII-DOS",
       "full_name": "fredangstadt-lang/LineWarsII-DOS",
       "owner": "fredangstadt-lang",
@@ -19141,35 +19504,6 @@
       "first_seen_at": "2026-10-18T05:52:25Z"
     },
     {
-      "id": "carlosefr/retroarch-shaders",
-      "full_name": "carlosefr/retroarch-shaders",
-      "owner": "carlosefr",
-      "name": "retroarch-shaders",
-      "html_url": "https://github.com/carlosefr/retroarch-shaders",
-      "cover": "https://opengraph.githubassets.com/1/carlosefr/retroarch-shaders",
-      "description": "Carlos' custom CRT shaders and presets for RetroArch.",
-      "editor_note": "",
-      "stars": 14,
-      "language": "GLSL",
-      "license": "NOASSERTION",
-      "updated_at": "2026-09-19T23:02:58Z",
-      "category": "模拟器",
-      "tags": [
-        "retroarch",
-        "retrogaming",
-        "retropie"
-      ],
-      "topics": [
-        "retroarch",
-        "retrogaming",
-        "retropie",
-        "shaders"
-      ],
-      "visual": "default",
-      "curated_index": 7,
-      "first_seen_at": "2026-10-18T05:52:25Z"
-    },
-    {
       "id": "Donboscop/Gaming-Hub",
       "full_name": "Donboscop/Gaming-Hub",
       "owner": "Donboscop",
@@ -19303,6 +19637,38 @@
       "visual": "default",
       "curated_index": 5,
       "first_seen_at": "2026-10-18T05:52:25Z"
+    },
+    {
+      "id": "danielbrendel/krepagotchi-game",
+      "full_name": "danielbrendel/krepagotchi-game",
+      "owner": "danielbrendel",
+      "name": "krepagotchi-game",
+      "html_url": "https://github.com/danielbrendel/krepagotchi-game",
+      "cover": "https://opengraph.githubassets.com/1/danielbrendel/krepagotchi-game",
+      "description": "A boomingly adorable, pixelated virtual pet game 🧨💚",
+      "editor_note": "",
+      "stars": 51,
+      "language": "JavaScript",
+      "license": "MIT",
+      "updated_at": "2026-10-31T22:55:56Z",
+      "category": "编辑器",
+      "tags": [
+        "creeper",
+        "minecraft",
+        "pixel art"
+      ],
+      "topics": [
+        "creeper",
+        "minecraft",
+        "pixel-art",
+        "retro-game",
+        "tamagotchi",
+        "virtual-pet",
+        "virtual-pet-simulator"
+      ],
+      "visual": "default",
+      "curated_index": 7,
+      "first_seen_at": "2026-10-17T21:26:13Z"
     },
     {
       "id": "smparsons/retroboy",
@@ -19471,38 +19837,6 @@
       ],
       "visual": "default",
       "curated_index": 3,
-      "first_seen_at": "2026-10-17T21:26:13Z"
-    },
-    {
-      "id": "danielbrendel/krepagotchi-game",
-      "full_name": "danielbrendel/krepagotchi-game",
-      "owner": "danielbrendel",
-      "name": "krepagotchi-game",
-      "html_url": "https://github.com/danielbrendel/krepagotchi-game",
-      "cover": "https://opengraph.githubassets.com/1/danielbrendel/krepagotchi-game",
-      "description": "A boomingly adorable, pixelated virtual pet game 🧨💚",
-      "editor_note": "",
-      "stars": 51,
-      "language": "JavaScript",
-      "license": "MIT",
-      "updated_at": "2026-10-04T02:12:46Z",
-      "category": "编辑器",
-      "tags": [
-        "creeper",
-        "minecraft",
-        "pixel art"
-      ],
-      "topics": [
-        "creeper",
-        "minecraft",
-        "pixel-art",
-        "retro-game",
-        "tamagotchi",
-        "virtual-pet",
-        "virtual-pet-simulator"
-      ],
-      "visual": "default",
-      "curated_index": 7,
       "first_seen_at": "2026-10-17T21:26:13Z"
     },
     {
@@ -20707,6 +21041,51 @@
       "first_seen_at": "2026-10-17T05:34:44Z"
     },
     {
+      "id": "klotzbrocken/RetroMac",
+      "full_name": "klotzbrocken/RetroMac",
+      "owner": "klotzbrocken",
+      "name": "RetroMac",
+      "html_url": "https://github.com/klotzbrocken/RetroMac",
+      "cover": "https://opengraph.githubassets.com/1/klotzbrocken/RetroMac",
+      "description": "Turn your Mac into a retro computer: real-time CRT/retro shaders and classic desktop themes (Mac OS 9, Windows XP, BeOS and more), as a macOS menu-bar app.",
+      "editor_note": "",
+      "stars": 142,
+      "language": "Swift",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-03T05:41:48Z",
+      "category": "工具",
+      "tags": [
+        "beos",
+        "crt shader",
+        "desktop customization"
+      ],
+      "topics": [
+        "beos",
+        "crt-shader",
+        "desktop-customization",
+        "dock",
+        "mac-os-9",
+        "macos",
+        "menubar-app",
+        "metal",
+        "retro",
+        "retro-computing",
+        "screencapturekit",
+        "screensaver",
+        "skeuomorphism",
+        "start-menu",
+        "swift",
+        "taskbar",
+        "themes",
+        "windows95",
+        "windows98",
+        "windowsxp"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-16T22:04:52Z"
+    },
+    {
       "id": "halcyon-video/halcyon-video",
       "full_name": "halcyon-video/halcyon-video",
       "owner": "halcyon-video",
@@ -20787,10 +21166,10 @@
       "cover": "https://opengraph.githubassets.com/1/haroldo-ok/vcs-game-maker",
       "description": "Create Atari 2600 programs with no coding knowledge.",
       "editor_note": "",
-      "stars": 118,
+      "stars": 119,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "updated_at": "2026-10-29T22:04:38Z",
+      "updated_at": "2026-11-01T16:22:32Z",
       "category": "游戏",
       "tags": [
         "atari2600",
@@ -20914,51 +21293,6 @@
       "first_seen_at": "2026-10-16T22:04:52Z"
     },
     {
-      "id": "klotzbrocken/RetroMac",
-      "full_name": "klotzbrocken/RetroMac",
-      "owner": "klotzbrocken",
-      "name": "RetroMac",
-      "html_url": "https://github.com/klotzbrocken/RetroMac",
-      "cover": "https://opengraph.githubassets.com/1/klotzbrocken/RetroMac",
-      "description": "Turn your Mac into a retro computer: real-time CRT/retro shaders and classic desktop themes (Mac OS 9, Windows XP, BeOS and more), as a macOS menu-bar app.",
-      "editor_note": "",
-      "stars": 141,
-      "language": "Swift",
-      "license": "GPL-3.0",
-      "updated_at": "2026-10-25T08:20:22Z",
-      "category": "工具",
-      "tags": [
-        "beos",
-        "crt shader",
-        "desktop customization"
-      ],
-      "topics": [
-        "beos",
-        "crt-shader",
-        "desktop-customization",
-        "dock",
-        "mac-os-9",
-        "macos",
-        "menubar-app",
-        "metal",
-        "retro",
-        "retro-computing",
-        "screencapturekit",
-        "screensaver",
-        "skeuomorphism",
-        "start-menu",
-        "swift",
-        "taskbar",
-        "themes",
-        "windows95",
-        "windows98",
-        "windowsxp"
-      ],
-      "visual": "default",
-      "curated_index": 3,
-      "first_seen_at": "2026-10-16T22:04:52Z"
-    },
-    {
       "id": "fermix42/scummvm-comfort-edition",
       "full_name": "fermix42/scummvm-comfort-edition",
       "owner": "fermix42",
@@ -21068,6 +21402,51 @@
       "visual": "default",
       "curated_index": 2,
       "first_seen_at": "2026-10-16T22:04:52Z"
+    },
+    {
+      "id": "TeamHypersomnia/Hypersomnia",
+      "full_name": "TeamHypersomnia/Hypersomnia",
+      "owner": "TeamHypersomnia",
+      "name": "Hypersomnia",
+      "html_url": "https://github.com/TeamHypersomnia/Hypersomnia",
+      "cover": "https://opengraph.githubassets.com/1/TeamHypersomnia/Hypersomnia",
+      "description": "Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱",
+      "editor_note": "",
+      "stars": 1717,
+      "language": "C++",
+      "license": "AGPL-3.0",
+      "updated_at": "2026-11-03T06:45:23Z",
+      "category": "编辑器",
+      "tags": [
+        "2d game",
+        "2d shooter",
+        "browser game"
+      ],
+      "topics": [
+        "2d-game",
+        "2d-shooter",
+        "browser-game",
+        "cpp",
+        "editor",
+        "free-software",
+        "game",
+        "game-development",
+        "gamedev",
+        "indie-game",
+        "multiplayer",
+        "multiplayer-game",
+        "pixel-art",
+        "pixelart",
+        "pixelart-game",
+        "shooter",
+        "shooter-game",
+        "top-down-game",
+        "top-down-shooter",
+        "topdown-shooter"
+      ],
+      "visual": "default",
+      "curated_index": 2,
+      "first_seen_at": "2026-10-16T17:23:18Z"
     },
     {
       "id": "binary-knight/usurper-reborn",
@@ -21204,6 +21583,41 @@
       "first_seen_at": "2026-10-16T17:23:18Z"
     },
     {
+      "id": "hyphen8d/signal",
+      "full_name": "hyphen8d/signal",
+      "owner": "hyphen8d",
+      "name": "signal",
+      "html_url": "https://github.com/hyphen8d/signal",
+      "cover": "https://opengraph.githubassets.com/1/hyphen8d/signal",
+      "description": "Terminal/CRT tuning-dial internet radio toy, built on the open-sourced cyberspace-crt engine",
+      "editor_note": "",
+      "stars": 13,
+      "language": "JavaScript",
+      "license": "MIT",
+      "updated_at": "2026-11-02T02:18:42Z",
+      "category": "工具",
+      "tags": [
+        "ascii art",
+        "crt",
+        "github pages"
+      ],
+      "topics": [
+        "ascii-art",
+        "crt",
+        "github-pages",
+        "internet-radio",
+        "javascript",
+        "music",
+        "retro",
+        "terminal",
+        "web-audio",
+        "webgl2"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-16T17:23:18Z"
+    },
+    {
       "id": "mortyeriksen/c64ready",
       "full_name": "mortyeriksen/c64ready",
       "owner": "mortyeriksen",
@@ -21235,51 +21649,6 @@
       "first_seen_at": "2026-10-16T17:23:18Z"
     },
     {
-      "id": "TeamHypersomnia/Hypersomnia",
-      "full_name": "TeamHypersomnia/Hypersomnia",
-      "owner": "TeamHypersomnia",
-      "name": "Hypersomnia",
-      "html_url": "https://github.com/TeamHypersomnia/Hypersomnia",
-      "cover": "https://opengraph.githubassets.com/1/TeamHypersomnia/Hypersomnia",
-      "description": "Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱",
-      "editor_note": "",
-      "stars": 1709,
-      "language": "C++",
-      "license": "AGPL-3.0",
-      "updated_at": "2026-10-30T12:45:23Z",
-      "category": "编辑器",
-      "tags": [
-        "2d game",
-        "2d shooter",
-        "browser game"
-      ],
-      "topics": [
-        "2d-game",
-        "2d-shooter",
-        "browser-game",
-        "cpp",
-        "editor",
-        "free-software",
-        "game",
-        "game-development",
-        "gamedev",
-        "indie-game",
-        "multiplayer",
-        "multiplayer-game",
-        "pixel-art",
-        "pixelart",
-        "pixelart-game",
-        "shooter",
-        "shooter-game",
-        "top-down-game",
-        "top-down-shooter",
-        "topdown-shooter"
-      ],
-      "visual": "default",
-      "curated_index": 2,
-      "first_seen_at": "2026-10-16T17:23:18Z"
-    },
-    {
       "id": "defendeggu/spidi-race",
       "full_name": "defendeggu/spidi-race",
       "owner": "defendeggu",
@@ -21291,7 +21660,7 @@
       "stars": 0,
       "language": "TypeScript",
       "license": "MIT",
-      "updated_at": "2026-10-29T19:39:21Z",
+      "updated_at": "2026-10-31T15:05:17Z",
       "category": "游戏",
       "tags": [
         "arcade game",
@@ -21338,41 +21707,6 @@
       ],
       "visual": "default",
       "curated_index": 4,
-      "first_seen_at": "2026-10-16T17:23:18Z"
-    },
-    {
-      "id": "hyphen8d/signal",
-      "full_name": "hyphen8d/signal",
-      "owner": "hyphen8d",
-      "name": "signal",
-      "html_url": "https://github.com/hyphen8d/signal",
-      "cover": "https://opengraph.githubassets.com/1/hyphen8d/signal",
-      "description": "Terminal/CRT tuning-dial internet radio toy, built on the open-sourced cyberspace-crt engine",
-      "editor_note": "",
-      "stars": 13,
-      "language": "JavaScript",
-      "license": "MIT",
-      "updated_at": "2026-10-24T20:56:42Z",
-      "category": "工具",
-      "tags": [
-        "ascii art",
-        "crt",
-        "github pages"
-      ],
-      "topics": [
-        "ascii-art",
-        "crt",
-        "github-pages",
-        "internet-radio",
-        "javascript",
-        "music",
-        "retro",
-        "terminal",
-        "web-audio",
-        "webgl2"
-      ],
-      "visual": "default",
-      "curated_index": 3,
       "first_seen_at": "2026-10-16T17:23:18Z"
     },
     {
@@ -23153,6 +23487,49 @@
       "first_seen_at": "2026-10-15T12:38:52Z"
     },
     {
+      "id": "Chemaclass/phel-doom",
+      "full_name": "Chemaclass/phel-doom",
+      "owner": "Chemaclass",
+      "name": "phel-doom",
+      "html_url": "https://github.com/Chemaclass/phel-doom",
+      "cover": "https://opengraph.githubassets.com/1/Chemaclass/phel-doom",
+      "description": "Terminal DOOM-lite raycaster built in Phel (Lisp on PHP). 256-color ANSI, 5 procedural levels — a real-world Phel showcase app.",
+      "editor_note": "",
+      "stars": 12,
+      "language": "Shell",
+      "license": "MIT",
+      "updated_at": "2026-11-02T06:22:32Z",
+      "category": "游戏",
+      "tags": [
+        "ansi",
+        "ascii art",
+        "cli"
+      ],
+      "topics": [
+        "ansi",
+        "ascii-art",
+        "cli",
+        "doom",
+        "fps",
+        "fps-game",
+        "game",
+        "lisp",
+        "lisp-game",
+        "phel",
+        "phel-app",
+        "phel-lang",
+        "php",
+        "procedural-generation",
+        "raycaster",
+        "retro",
+        "terminal-game",
+        "terminal-rendering"
+      ],
+      "visual": "default",
+      "curated_index": 0,
+      "first_seen_at": "2026-10-15T05:53:30Z"
+    },
+    {
       "id": "AndSni/SysReadout-Launcher",
       "full_name": "AndSni/SysReadout-Launcher",
       "owner": "AndSni",
@@ -23190,49 +23567,6 @@
       ],
       "visual": "default",
       "curated_index": 3,
-      "first_seen_at": "2026-10-15T05:53:30Z"
-    },
-    {
-      "id": "Chemaclass/phel-doom",
-      "full_name": "Chemaclass/phel-doom",
-      "owner": "Chemaclass",
-      "name": "phel-doom",
-      "html_url": "https://github.com/Chemaclass/phel-doom",
-      "cover": "https://opengraph.githubassets.com/1/Chemaclass/phel-doom",
-      "description": "Terminal DOOM-lite raycaster built in Phel (Lisp on PHP). 256-color ANSI, 5 procedural levels — a real-world Phel showcase app.",
-      "editor_note": "",
-      "stars": 12,
-      "language": "Shell",
-      "license": "MIT",
-      "updated_at": "2026-10-27T10:59:55Z",
-      "category": "游戏",
-      "tags": [
-        "ansi",
-        "ascii art",
-        "cli"
-      ],
-      "topics": [
-        "ansi",
-        "ascii-art",
-        "cli",
-        "doom",
-        "fps",
-        "fps-game",
-        "game",
-        "lisp",
-        "lisp-game",
-        "phel",
-        "phel-app",
-        "phel-lang",
-        "php",
-        "procedural-generation",
-        "raycaster",
-        "retro",
-        "terminal-game",
-        "terminal-rendering"
-      ],
-      "visual": "default",
-      "curated_index": 0,
       "first_seen_at": "2026-10-15T05:53:30Z"
     },
     {
@@ -23920,6 +24254,48 @@
       "first_seen_at": "2026-10-14T18:00:10Z"
     },
     {
+      "id": "johanberntsson/ozmoo",
+      "full_name": "johanberntsson/ozmoo",
+      "owner": "johanberntsson",
+      "name": "ozmoo",
+      "html_url": "https://github.com/johanberntsson/ozmoo",
+      "cover": "https://opengraph.githubassets.com/1/johanberntsson/ozmoo",
+      "description": "A Z-machine interpreter for the Commodore 64 and similar computers",
+      "editor_note": "",
+      "stars": 138,
+      "language": "Assembly",
+      "license": "GPL-2.0",
+      "updated_at": "2026-10-31T10:44:20Z",
+      "category": "游戏",
+      "tags": [
+        "c128",
+        "c64",
+        "commander x16"
+      ],
+      "topics": [
+        "c128",
+        "c64",
+        "commander-x16",
+        "commodore",
+        "infocom",
+        "interpreter",
+        "mega65",
+        "plus4",
+        "ram-expansion-unit",
+        "retrocomputing",
+        "retrogaming",
+        "reu",
+        "terp",
+        "text-adventure",
+        "x16",
+        "zcode",
+        "zmachine"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-14T18:00:10Z"
+    },
+    {
       "id": "MTSistemi/SkillFishOS",
       "full_name": "MTSistemi/SkillFishOS",
       "owner": "MTSistemi",
@@ -24080,48 +24456,6 @@
       ],
       "visual": "default",
       "curated_index": 5,
-      "first_seen_at": "2026-10-14T18:00:10Z"
-    },
-    {
-      "id": "johanberntsson/ozmoo",
-      "full_name": "johanberntsson/ozmoo",
-      "owner": "johanberntsson",
-      "name": "ozmoo",
-      "html_url": "https://github.com/johanberntsson/ozmoo",
-      "cover": "https://opengraph.githubassets.com/1/johanberntsson/ozmoo",
-      "description": "A Z-machine interpreter for the Commodore 64 and similar computers",
-      "editor_note": "",
-      "stars": 137,
-      "language": "Assembly",
-      "license": "GPL-2.0",
-      "updated_at": "2026-10-20T16:03:50Z",
-      "category": "游戏",
-      "tags": [
-        "c128",
-        "c64",
-        "commander x16"
-      ],
-      "topics": [
-        "c128",
-        "c64",
-        "commander-x16",
-        "commodore",
-        "infocom",
-        "interpreter",
-        "mega65",
-        "plus4",
-        "ram-expansion-unit",
-        "retrocomputing",
-        "retrogaming",
-        "reu",
-        "terp",
-        "text-adventure",
-        "x16",
-        "zcode",
-        "zmachine"
-      ],
-      "visual": "default",
-      "curated_index": 6,
       "first_seen_at": "2026-10-14T18:00:10Z"
     },
     {
@@ -24383,10 +24717,10 @@
       "cover": "https://opengraph.githubassets.com/1/sebschaef/Papaya",
       "description": "Papaya - Games Launcher. A Retro Gaming Frontend for Android.",
       "editor_note": "",
-      "stars": 28,
+      "stars": 27,
       "language": "多语言",
       "license": "MIT",
-      "updated_at": "2026-10-29T20:20:22Z",
+      "updated_at": "2026-11-01T10:25:49Z",
       "category": "模拟器",
       "tags": [
         "android",
@@ -24733,6 +25067,38 @@
       "first_seen_at": "2026-10-14T06:07:53Z"
     },
     {
+      "id": "grymmjack/pixelmon",
+      "full_name": "grymmjack/pixelmon",
+      "owner": "grymmjack",
+      "name": "pixelmon",
+      "html_url": "https://github.com/grymmjack/pixelmon",
+      "cover": "https://opengraph.githubassets.com/1/grymmjack/pixelmon",
+      "description": "Pixel-art sprite generator on AMD ROCm, NVIDIA CUDA, MAC MPS — ComfyUI + SDXL + Pixel Art XL, driven by a one-command CLI.",
+      "editor_note": "",
+      "stars": 11,
+      "language": "Python",
+      "license": "MIT",
+      "updated_at": "2026-11-02T01:34:47Z",
+      "category": "编辑器",
+      "tags": [
+        "ai",
+        "dos",
+        "ega"
+      ],
+      "topics": [
+        "ai",
+        "dos",
+        "ega",
+        "image-generation",
+        "pixel-art",
+        "pixelart",
+        "retro"
+      ],
+      "visual": "default",
+      "curated_index": 2,
+      "first_seen_at": "2026-10-14T06:07:53Z"
+    },
+    {
       "id": "NsCDE/NsCDE",
       "full_name": "NsCDE/NsCDE",
       "owner": "NsCDE",
@@ -24798,38 +25164,6 @@
       ],
       "visual": "default",
       "curated_index": 8,
-      "first_seen_at": "2026-10-14T06:07:53Z"
-    },
-    {
-      "id": "grymmjack/pixelmon",
-      "full_name": "grymmjack/pixelmon",
-      "owner": "grymmjack",
-      "name": "pixelmon",
-      "html_url": "https://github.com/grymmjack/pixelmon",
-      "cover": "https://opengraph.githubassets.com/1/grymmjack/pixelmon",
-      "description": "Pixel-art sprite generator on AMD ROCm, NVIDIA CUDA, MAC MPS — ComfyUI + SDXL + Pixel Art XL, driven by a one-command CLI.",
-      "editor_note": "",
-      "stars": 10,
-      "language": "Python",
-      "license": "MIT",
-      "updated_at": "2026-10-29T23:29:52Z",
-      "category": "编辑器",
-      "tags": [
-        "ai",
-        "dos",
-        "ega"
-      ],
-      "topics": [
-        "ai",
-        "dos",
-        "ega",
-        "image-generation",
-        "pixel-art",
-        "pixelart",
-        "retro"
-      ],
-      "visual": "default",
-      "curated_index": 2,
       "first_seen_at": "2026-10-14T06:07:53Z"
     },
     {
@@ -27531,6 +27865,80 @@
       "first_seen_at": "2026-10-10T22:29:38Z"
     },
     {
+      "id": "unbreached/CGTerm-3.0",
+      "full_name": "unbreached/CGTerm-3.0",
+      "owner": "unbreached",
+      "name": "CGTerm-3.0",
+      "html_url": "https://github.com/unbreached/CGTerm-3.0",
+      "cover": "https://opengraph.githubassets.com/1/unbreached/CGTerm-3.0",
+      "description": "C64 BBS terminal, Genesis Project scene edition of MagerValp's CGTerm. SDL2, PETSCII, Punter/XMODEM/Rainbow, D64/D71/D81 disk images, demoscene splash and modem simulator. macOS / Linux / Windows.",
+      "editor_note": "",
+      "stars": 6,
+      "language": "C",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-01T19:48:21Z",
+      "category": "模拟器",
+      "tags": [
+        "8bit",
+        "bbs",
+        "c64"
+      ],
+      "topics": [
+        "8bit",
+        "bbs",
+        "c64",
+        "cgterm",
+        "commodore",
+        "commodore-64",
+        "d64",
+        "demoscene",
+        "genesis-project",
+        "magervalp",
+        "petscii",
+        "punter",
+        "retro",
+        "retrocomputing",
+        "scene",
+        "sdl2",
+        "terminal",
+        "terminal-emulator",
+        "xmodem"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-10T22:29:38Z"
+    },
+    {
+      "id": "ajdnik/gozork",
+      "full_name": "ajdnik/gozork",
+      "owner": "ajdnik",
+      "name": "gozork",
+      "html_url": "https://github.com/ajdnik/gozork",
+      "cover": "https://opengraph.githubassets.com/1/ajdnik/gozork",
+      "description": "A Zork I game ported from ZIL source to Golang.",
+      "editor_note": "",
+      "stars": 38,
+      "language": "Go",
+      "license": "MIT",
+      "updated_at": "2026-10-31T19:41:32Z",
+      "category": "游戏",
+      "tags": [
+        "game",
+        "golang",
+        "retrogaming"
+      ],
+      "topics": [
+        "game",
+        "golang",
+        "retrogaming",
+        "terminal",
+        "zork"
+      ],
+      "visual": "default",
+      "curated_index": 5,
+      "first_seen_at": "2026-10-10T22:29:38Z"
+    },
+    {
       "id": "alekmaul/pvsneslib",
       "full_name": "alekmaul/pvsneslib",
       "owner": "alekmaul",
@@ -27596,80 +28004,6 @@
       ],
       "visual": "default",
       "curated_index": 9,
-      "first_seen_at": "2026-10-10T22:29:38Z"
-    },
-    {
-      "id": "unbreached/CGTerm-3.0",
-      "full_name": "unbreached/CGTerm-3.0",
-      "owner": "unbreached",
-      "name": "CGTerm-3.0",
-      "html_url": "https://github.com/unbreached/CGTerm-3.0",
-      "cover": "https://opengraph.githubassets.com/1/unbreached/CGTerm-3.0",
-      "description": "C64 BBS terminal, Genesis Project scene edition of MagerValp's CGTerm. SDL2, PETSCII, Punter/XMODEM/Rainbow, D64/D71/D81 disk images, demoscene splash and modem simulator. macOS / Linux / Windows.",
-      "editor_note": "",
-      "stars": 5,
-      "language": "C",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-16T08:14:48Z",
-      "category": "模拟器",
-      "tags": [
-        "8bit",
-        "bbs",
-        "c64"
-      ],
-      "topics": [
-        "8bit",
-        "bbs",
-        "c64",
-        "cgterm",
-        "commodore",
-        "commodore-64",
-        "d64",
-        "demoscene",
-        "genesis-project",
-        "magervalp",
-        "petscii",
-        "punter",
-        "retro",
-        "retrocomputing",
-        "scene",
-        "sdl2",
-        "terminal",
-        "terminal-emulator",
-        "xmodem"
-      ],
-      "visual": "default",
-      "curated_index": 1,
-      "first_seen_at": "2026-10-10T22:29:38Z"
-    },
-    {
-      "id": "ajdnik/gozork",
-      "full_name": "ajdnik/gozork",
-      "owner": "ajdnik",
-      "name": "gozork",
-      "html_url": "https://github.com/ajdnik/gozork",
-      "cover": "https://opengraph.githubassets.com/1/ajdnik/gozork",
-      "description": "A Zork I game ported from ZIL source to Golang.",
-      "editor_note": "",
-      "stars": 38,
-      "language": "Go",
-      "license": "MIT",
-      "updated_at": "2026-10-12T04:36:11Z",
-      "category": "游戏",
-      "tags": [
-        "game",
-        "golang",
-        "retrogaming"
-      ],
-      "topics": [
-        "game",
-        "golang",
-        "retrogaming",
-        "terminal",
-        "zork"
-      ],
-      "visual": "default",
-      "curated_index": 5,
       "first_seen_at": "2026-10-10T22:29:38Z"
     },
     {
@@ -27955,10 +28289,10 @@
       "cover": "https://opengraph.githubassets.com/1/PixelRoot32-Game-Engine/PixelRoot32-Game-Engine",
       "description": "PixelRoot32 Game Engine is a lightweight, modular 2D game engine written in C++17 and designed specifically for ESP32 microcontrollers.",
       "editor_note": "",
-      "stars": 61,
+      "stars": 64,
       "language": "C++",
       "license": "MIT",
-      "updated_at": "2026-10-29T06:32:11Z",
+      "updated_at": "2026-11-01T18:44:24Z",
       "category": "游戏",
       "tags": [
         "2d game engine",
@@ -27979,6 +28313,35 @@
       ],
       "visual": "default",
       "curated_index": 7,
+      "first_seen_at": "2026-10-10T13:38:17Z"
+    },
+    {
+      "id": "RetroAchievements/RAIntegration",
+      "full_name": "RetroAchievements/RAIntegration",
+      "owner": "RetroAchievements",
+      "name": "RAIntegration",
+      "html_url": "https://github.com/RetroAchievements/RAIntegration",
+      "cover": "https://opengraph.githubassets.com/1/RetroAchievements/RAIntegration",
+      "description": "The DLL responsible to integrate emulators with RetroAchievements.org",
+      "editor_note": "",
+      "stars": 127,
+      "language": "C++",
+      "license": "MIT",
+      "updated_at": "2026-10-30T17:19:38Z",
+      "category": "模拟器",
+      "tags": [
+        "cpp",
+        "retroachievements",
+        "retroachievements api"
+      ],
+      "topics": [
+        "cpp",
+        "retroachievements",
+        "retroachievements-api",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 9,
       "first_seen_at": "2026-10-10T13:38:17Z"
     },
     {
@@ -28012,35 +28375,6 @@
       ],
       "visual": "default",
       "curated_index": 3,
-      "first_seen_at": "2026-10-10T13:38:17Z"
-    },
-    {
-      "id": "RetroAchievements/RAIntegration",
-      "full_name": "RetroAchievements/RAIntegration",
-      "owner": "RetroAchievements",
-      "name": "RAIntegration",
-      "html_url": "https://github.com/RetroAchievements/RAIntegration",
-      "cover": "https://opengraph.githubassets.com/1/RetroAchievements/RAIntegration",
-      "description": "The DLL responsible to integrate emulators with RetroAchievements.org",
-      "editor_note": "",
-      "stars": 126,
-      "language": "C++",
-      "license": "MIT",
-      "updated_at": "2026-10-21T19:32:54Z",
-      "category": "模拟器",
-      "tags": [
-        "cpp",
-        "retroachievements",
-        "retroachievements api"
-      ],
-      "topics": [
-        "cpp",
-        "retroachievements",
-        "retroachievements-api",
-        "retrogaming"
-      ],
-      "visual": "default",
-      "curated_index": 9,
       "first_seen_at": "2026-10-10T13:38:17Z"
     },
     {
@@ -28310,6 +28644,48 @@
       "first_seen_at": "2026-10-10T07:03:36Z"
     },
     {
+      "id": "ArtemioUrbina/MDFourier",
+      "full_name": "ArtemioUrbina/MDFourier",
+      "owner": "ArtemioUrbina",
+      "name": "MDFourier",
+      "html_url": "https://github.com/ArtemioUrbina/MDFourier",
+      "cover": "https://opengraph.githubassets.com/1/ArtemioUrbina/MDFourier",
+      "description": "A Fourier Analysis analysis tool to compare audio produced by gaming hardware",
+      "editor_note": "",
+      "stars": 86,
+      "language": "C",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-01T22:52:23Z",
+      "category": "游戏",
+      "tags": [
+        "analysis",
+        "arcade",
+        "audio"
+      ],
+      "topics": [
+        "analysis",
+        "arcade",
+        "audio",
+        "console",
+        "dreamcast",
+        "drive",
+        "fourier",
+        "gamecube",
+        "genesis",
+        "hardware",
+        "mega",
+        "n64",
+        "retro",
+        "sega",
+        "snes",
+        "vintage",
+        "wii"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-10-10T07:03:36Z"
+    },
+    {
       "id": "bmsuseluda/emuze",
       "full_name": "bmsuseluda/emuze",
       "owner": "bmsuseluda",
@@ -28441,48 +28817,6 @@
       ],
       "visual": "default",
       "curated_index": 0,
-      "first_seen_at": "2026-10-10T07:03:36Z"
-    },
-    {
-      "id": "ArtemioUrbina/MDFourier",
-      "full_name": "ArtemioUrbina/MDFourier",
-      "owner": "ArtemioUrbina",
-      "name": "MDFourier",
-      "html_url": "https://github.com/ArtemioUrbina/MDFourier",
-      "cover": "https://opengraph.githubassets.com/1/ArtemioUrbina/MDFourier",
-      "description": "A Fourier Analysis analysis tool to compare audio produced by gaming hardware",
-      "editor_note": "",
-      "stars": 86,
-      "language": "C",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-29T00:40:20Z",
-      "category": "游戏",
-      "tags": [
-        "analysis",
-        "arcade",
-        "audio"
-      ],
-      "topics": [
-        "analysis",
-        "arcade",
-        "audio",
-        "console",
-        "dreamcast",
-        "drive",
-        "fourier",
-        "gamecube",
-        "genesis",
-        "hardware",
-        "mega",
-        "n64",
-        "retro",
-        "sega",
-        "snes",
-        "vintage",
-        "wii"
-      ],
-      "visual": "default",
-      "curated_index": 9,
       "first_seen_at": "2026-10-10T07:03:36Z"
     },
     {
@@ -30736,6 +31070,76 @@
       "first_seen_at": "2026-10-07T23:35:06Z"
     },
     {
+      "id": "danibiker/Salvia",
+      "full_name": "danibiker/Salvia",
+      "owner": "danibiker",
+      "name": "Salvia",
+      "html_url": "https://github.com/danibiker/Salvia",
+      "cover": "https://opengraph.githubassets.com/1/danibiker/Salvia",
+      "description": "Simple libretro frontend capable of running on Xbox 360 and Windows",
+      "editor_note": "",
+      "stars": 46,
+      "language": "C",
+      "license": "AGPL-3.0",
+      "updated_at": "2026-11-01T02:33:50Z",
+      "category": "模拟器",
+      "tags": [
+        "emulation",
+        "emulator",
+        "emulator frontend"
+      ],
+      "topics": [
+        "emulation",
+        "emulator",
+        "emulator-frontend",
+        "emulator-launcher",
+        "emulators",
+        "retro-gaming",
+        "retroarch",
+        "retrocomputing",
+        "retrogaming",
+        "xbox-360",
+        "xbox360"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-07T23:35:06Z"
+    },
+    {
+      "id": "msoap/tcg",
+      "full_name": "msoap/tcg",
+      "owner": "msoap",
+      "name": "tcg",
+      "html_url": "https://github.com/msoap/tcg",
+      "cover": "https://opengraph.githubassets.com/1/msoap/tcg",
+      "description": "Terminal cell graphics library",
+      "editor_note": "",
+      "stars": 119,
+      "language": "Go",
+      "license": "MIT",
+      "updated_at": "2026-10-30T19:17:55Z",
+      "category": "编辑器",
+      "tags": [
+        "1bit",
+        "ascii art",
+        "game"
+      ],
+      "topics": [
+        "1bit",
+        "ascii-art",
+        "game",
+        "golang",
+        "golang-library",
+        "graphics",
+        "pixel-art",
+        "terminal",
+        "terminal-graphics"
+      ],
+      "visual": "default",
+      "curated_index": 2,
+      "first_seen_at": "2026-10-07T23:35:06Z"
+    },
+    {
       "id": "rugbedbugg/Retro-Tetris",
       "full_name": "rugbedbugg/Retro-Tetris",
       "owner": "rugbedbugg",
@@ -30763,76 +31167,6 @@
       ],
       "visual": "default",
       "curated_index": 3,
-      "first_seen_at": "2026-10-07T23:35:06Z"
-    },
-    {
-      "id": "msoap/tcg",
-      "full_name": "msoap/tcg",
-      "owner": "msoap",
-      "name": "tcg",
-      "html_url": "https://github.com/msoap/tcg",
-      "cover": "https://opengraph.githubassets.com/1/msoap/tcg",
-      "description": "Terminal cell graphics library",
-      "editor_note": "",
-      "stars": 119,
-      "language": "Go",
-      "license": "MIT",
-      "updated_at": "2026-10-28T23:35:55Z",
-      "category": "编辑器",
-      "tags": [
-        "1bit",
-        "ascii art",
-        "game"
-      ],
-      "topics": [
-        "1bit",
-        "ascii-art",
-        "game",
-        "golang",
-        "golang-library",
-        "graphics",
-        "pixel-art",
-        "terminal",
-        "terminal-graphics"
-      ],
-      "visual": "default",
-      "curated_index": 2,
-      "first_seen_at": "2026-10-07T23:35:06Z"
-    },
-    {
-      "id": "danibiker/Salvia",
-      "full_name": "danibiker/Salvia",
-      "owner": "danibiker",
-      "name": "Salvia",
-      "html_url": "https://github.com/danibiker/Salvia",
-      "cover": "https://opengraph.githubassets.com/1/danibiker/Salvia",
-      "description": "Simple libretro frontend capable of running on Xbox 360 and Windows",
-      "editor_note": "",
-      "stars": 46,
-      "language": "C",
-      "license": "AGPL-3.0",
-      "updated_at": "2026-10-28T22:21:53Z",
-      "category": "模拟器",
-      "tags": [
-        "emulation",
-        "emulator",
-        "emulator frontend"
-      ],
-      "topics": [
-        "emulation",
-        "emulator",
-        "emulator-frontend",
-        "emulator-launcher",
-        "emulators",
-        "retro-gaming",
-        "retroarch",
-        "retrocomputing",
-        "retrogaming",
-        "xbox-360",
-        "xbox360"
-      ],
-      "visual": "default",
-      "curated_index": 6,
       "first_seen_at": "2026-10-07T23:35:06Z"
     },
     {
@@ -31532,6 +31866,85 @@
       "first_seen_at": "2026-10-07T07:12:19Z"
     },
     {
+      "id": "GAlbanese09/spritebrew",
+      "full_name": "GAlbanese09/spritebrew",
+      "owner": "GAlbanese09",
+      "name": "spritebrew",
+      "html_url": "https://github.com/GAlbanese09/spritebrew",
+      "cover": "https://opengraph.githubassets.com/1/GAlbanese09/spritebrew",
+      "description": "AI-powered pixel art sprite sheet generator. Upload or generate characters → animate → export game-ready sheets for Unity, Godot, GameMaker, RPG Maker.",
+      "editor_note": "",
+      "stars": 73,
+      "language": "TypeScript",
+      "license": "AGPL-3.0",
+      "updated_at": "2026-11-02T06:56:18Z",
+      "category": "编辑器",
+      "tags": [
+        "ai generated art",
+        "animation",
+        "aseprite"
+      ],
+      "topics": [
+        "ai-generated-art",
+        "animation",
+        "aseprite",
+        "cloudflare-pages",
+        "game-development",
+        "gamemaker",
+        "godot",
+        "indie-gamedev",
+        "nextjs",
+        "pixel-art",
+        "pixel-art-generator",
+        "pixel-editor",
+        "react",
+        "retro-diffusion",
+        "rpg-maker",
+        "sprite-generator",
+        "sprite-sheet",
+        "tailwindcss",
+        "typescript",
+        "unity"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-10-07T07:12:19Z"
+    },
+    {
+      "id": "viciious/d32xr",
+      "full_name": "viciious/d32xr",
+      "owner": "viciious",
+      "name": "d32xr",
+      "html_url": "https://github.com/viciious/d32xr",
+      "cover": "https://opengraph.githubassets.com/1/viciious/d32xr",
+      "description": "A modern port of Doom for the Sega 32X",
+      "editor_note": "",
+      "stars": 222,
+      "language": "C",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-01T12:52:04Z",
+      "category": "游戏",
+      "tags": [
+        "32x",
+        "console",
+        "doom"
+      ],
+      "topics": [
+        "32x",
+        "console",
+        "doom",
+        "optimization",
+        "port",
+        "retrogaming",
+        "sega",
+        "sega-32x",
+        "sega-genesis"
+      ],
+      "visual": "default",
+      "curated_index": 8,
+      "first_seen_at": "2026-10-07T07:12:19Z"
+    },
+    {
       "id": "OpenCrystalCaves/OpenCrystalCaves",
       "full_name": "OpenCrystalCaves/OpenCrystalCaves",
       "owner": "OpenCrystalCaves",
@@ -31543,7 +31956,7 @@
       "stars": 93,
       "language": "C++",
       "license": "MIT",
-      "updated_at": "2026-10-30T07:00:12Z",
+      "updated_at": "2026-10-31T10:35:05Z",
       "category": "编辑器",
       "tags": [
         "2d game",
@@ -31646,85 +32059,6 @@
       ],
       "visual": "default",
       "curated_index": 1,
-      "first_seen_at": "2026-10-07T07:12:19Z"
-    },
-    {
-      "id": "GAlbanese09/spritebrew",
-      "full_name": "GAlbanese09/spritebrew",
-      "owner": "GAlbanese09",
-      "name": "spritebrew",
-      "html_url": "https://github.com/GAlbanese09/spritebrew",
-      "cover": "https://opengraph.githubassets.com/1/GAlbanese09/spritebrew",
-      "description": "AI-powered pixel art sprite sheet generator. Upload or generate characters → animate → export game-ready sheets for Unity, Godot, GameMaker, RPG Maker.",
-      "editor_note": "",
-      "stars": 71,
-      "language": "TypeScript",
-      "license": "AGPL-3.0",
-      "updated_at": "2026-10-29T03:22:16Z",
-      "category": "编辑器",
-      "tags": [
-        "ai generated art",
-        "animation",
-        "aseprite"
-      ],
-      "topics": [
-        "ai-generated-art",
-        "animation",
-        "aseprite",
-        "cloudflare-pages",
-        "game-development",
-        "gamemaker",
-        "godot",
-        "indie-gamedev",
-        "nextjs",
-        "pixel-art",
-        "pixel-art-generator",
-        "pixel-editor",
-        "react",
-        "retro-diffusion",
-        "rpg-maker",
-        "sprite-generator",
-        "sprite-sheet",
-        "tailwindcss",
-        "typescript",
-        "unity"
-      ],
-      "visual": "default",
-      "curated_index": 9,
-      "first_seen_at": "2026-10-07T07:12:19Z"
-    },
-    {
-      "id": "viciious/d32xr",
-      "full_name": "viciious/d32xr",
-      "owner": "viciious",
-      "name": "d32xr",
-      "html_url": "https://github.com/viciious/d32xr",
-      "cover": "https://opengraph.githubassets.com/1/viciious/d32xr",
-      "description": "A modern port of Doom for the Sega 32X",
-      "editor_note": "",
-      "stars": 222,
-      "language": "C",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-28T18:44:08Z",
-      "category": "游戏",
-      "tags": [
-        "32x",
-        "console",
-        "doom"
-      ],
-      "topics": [
-        "32x",
-        "console",
-        "doom",
-        "optimization",
-        "port",
-        "retrogaming",
-        "sega",
-        "sega-32x",
-        "sega-genesis"
-      ],
-      "visual": "default",
-      "curated_index": 8,
       "first_seen_at": "2026-10-07T07:12:19Z"
     },
     {
@@ -31917,6 +32251,46 @@
       "first_seen_at": "2026-10-06T23:02:59Z"
     },
     {
+      "id": "CrankBoyHQ/crankboy-app",
+      "full_name": "CrankBoyHQ/crankboy-app",
+      "owner": "CrankBoyHQ",
+      "name": "crankboy-app",
+      "html_url": "https://github.com/CrankBoyHQ/crankboy-app",
+      "cover": "https://opengraph.githubassets.com/1/CrankBoyHQ/crankboy-app",
+      "description": "A high performance Game Boy® emulator for the Playdate™",
+      "editor_note": "",
+      "stars": 410,
+      "language": "C",
+      "license": "MIT",
+      "updated_at": "2026-11-01T12:02:46Z",
+      "category": "模拟器",
+      "tags": [
+        "cgb",
+        "cgb emulator",
+        "dmg"
+      ],
+      "topics": [
+        "cgb",
+        "cgb-emulator",
+        "dmg",
+        "dmg-emulator",
+        "emulation",
+        "gameboy",
+        "gameboy-color",
+        "gameboy-color-emulator",
+        "gameboy-emulator",
+        "peanut-gb",
+        "playdate",
+        "playdate-console",
+        "playdate-sdk",
+        "retrogaming",
+        "sameboy"
+      ],
+      "visual": "default",
+      "curated_index": 7,
+      "first_seen_at": "2026-10-06T23:02:59Z"
+    },
+    {
       "id": "PeronSlayer/CiukiOS",
       "full_name": "PeronSlayer/CiukiOS",
       "owner": "PeronSlayer",
@@ -31948,46 +32322,6 @@
       ],
       "visual": "default",
       "curated_index": 5,
-      "first_seen_at": "2026-10-06T23:02:59Z"
-    },
-    {
-      "id": "CrankBoyHQ/crankboy-app",
-      "full_name": "CrankBoyHQ/crankboy-app",
-      "owner": "CrankBoyHQ",
-      "name": "crankboy-app",
-      "html_url": "https://github.com/CrankBoyHQ/crankboy-app",
-      "cover": "https://opengraph.githubassets.com/1/CrankBoyHQ/crankboy-app",
-      "description": "A high performance Game Boy® emulator for the Playdate™",
-      "editor_note": "",
-      "stars": 410,
-      "language": "C",
-      "license": "MIT",
-      "updated_at": "2026-10-28T23:30:32Z",
-      "category": "模拟器",
-      "tags": [
-        "cgb",
-        "cgb emulator",
-        "dmg"
-      ],
-      "topics": [
-        "cgb",
-        "cgb-emulator",
-        "dmg",
-        "dmg-emulator",
-        "emulation",
-        "gameboy",
-        "gameboy-color",
-        "gameboy-color-emulator",
-        "gameboy-emulator",
-        "peanut-gb",
-        "playdate",
-        "playdate-console",
-        "playdate-sdk",
-        "retrogaming",
-        "sameboy"
-      ],
-      "visual": "default",
-      "curated_index": 7,
       "first_seen_at": "2026-10-06T23:02:59Z"
     },
     {
@@ -33293,6 +33627,43 @@
       "first_seen_at": "2026-10-06T00:47:33Z"
     },
     {
+      "id": "mausimus/ShaderGlass",
+      "full_name": "mausimus/ShaderGlass",
+      "owner": "mausimus",
+      "name": "ShaderGlass",
+      "html_url": "https://github.com/mausimus/ShaderGlass",
+      "cover": "https://opengraph.githubassets.com/1/mausimus/ShaderGlass",
+      "description": "Overlay for running GPU shaders on top of Windows desktop and Wine",
+      "editor_note": "",
+      "stars": 4370,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-02T21:52:29Z",
+      "category": "模拟器",
+      "tags": [
+        "crt",
+        "crt monitor",
+        "directx"
+      ],
+      "topics": [
+        "crt",
+        "crt-monitor",
+        "directx",
+        "libretro",
+        "overlay",
+        "retro",
+        "retroarch",
+        "retrogaming",
+        "shader",
+        "shaders",
+        "slang",
+        "windows"
+      ],
+      "visual": "default",
+      "curated_index": 4,
+      "first_seen_at": "2026-10-05T15:59:26Z"
+    },
+    {
       "id": "UzixLS/pc-kharon-386",
       "full_name": "UzixLS/pc-kharon-386",
       "owner": "UzixLS",
@@ -33371,43 +33742,6 @@
       ],
       "visual": "default",
       "curated_index": 9,
-      "first_seen_at": "2026-10-05T15:59:26Z"
-    },
-    {
-      "id": "mausimus/ShaderGlass",
-      "full_name": "mausimus/ShaderGlass",
-      "owner": "mausimus",
-      "name": "ShaderGlass",
-      "html_url": "https://github.com/mausimus/ShaderGlass",
-      "cover": "https://opengraph.githubassets.com/1/mausimus/ShaderGlass",
-      "description": "Overlay for running GPU shaders on top of Windows desktop and Wine",
-      "editor_note": "",
-      "stars": 4362,
-      "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-10-30T08:44:24Z",
-      "category": "模拟器",
-      "tags": [
-        "crt",
-        "crt monitor",
-        "directx"
-      ],
-      "topics": [
-        "crt",
-        "crt-monitor",
-        "directx",
-        "libretro",
-        "overlay",
-        "retro",
-        "retroarch",
-        "retrogaming",
-        "shader",
-        "shaders",
-        "slang",
-        "windows"
-      ],
-      "visual": "default",
-      "curated_index": 4,
       "first_seen_at": "2026-10-05T15:59:26Z"
     },
     {
@@ -34046,10 +34380,10 @@
       "cover": "https://opengraph.githubassets.com/1/Emupedia/emupedia.github.io",
       "description": "The purpose of Emupedia is to serve as a nonprofit meta-resource, hub and community for those interested mainly in video game preservation which aims to digitally collect, archive and preserve games and software to make them available online accessible by a user-friendly UI that simulates several retro operating systems for educational purposes.",
       "editor_note": "",
-      "stars": 1346,
+      "stars": 1348,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "updated_at": "2026-10-31T00:35:27Z",
+      "updated_at": "2026-11-02T03:23:15Z",
       "category": "模拟器",
       "tags": [
         "desktop",
@@ -35231,6 +35565,65 @@
       "first_seen_at": "2026-10-04T13:11:03Z"
     },
     {
+      "id": "RetroPie/RetroPie-Setup",
+      "full_name": "RetroPie/RetroPie-Setup",
+      "owner": "RetroPie",
+      "name": "RetroPie-Setup",
+      "html_url": "https://github.com/RetroPie/RetroPie-Setup",
+      "cover": "https://opengraph.githubassets.com/1/RetroPie/RetroPie-Setup",
+      "description": "Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores",
+      "editor_note": "",
+      "stars": 10449,
+      "language": "Shell",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-03T03:46:15Z",
+      "category": "模拟器",
+      "tags": [
+        "emulation",
+        "pi",
+        "raspberry pi"
+      ],
+      "topics": [
+        "emulation",
+        "pi",
+        "raspberry-pi",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-04T02:52:28Z"
+    },
+    {
+      "id": "TheOrcDev/8bitcn-ui",
+      "full_name": "TheOrcDev/8bitcn-ui",
+      "owner": "TheOrcDev",
+      "name": "8bitcn-ui",
+      "html_url": "https://github.com/TheOrcDev/8bitcn-ui",
+      "cover": "https://opengraph.githubassets.com/1/TheOrcDev/8bitcn-ui",
+      "description": "A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.",
+      "editor_note": "",
+      "stars": 2062,
+      "language": "TypeScript",
+      "license": "MIT",
+      "updated_at": "2026-11-03T01:35:02Z",
+      "category": "工具",
+      "tags": [
+        "8 bit",
+        "components",
+        "retro"
+      ],
+      "topics": [
+        "8-bit",
+        "components",
+        "retro",
+        "shadcn",
+        "ui"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-04T02:52:28Z"
+    },
+    {
       "id": "Abdess/retrobios",
       "full_name": "Abdess/retrobios",
       "owner": "Abdess",
@@ -35276,35 +35669,6 @@
       "first_seen_at": "2026-10-04T02:52:28Z"
     },
     {
-      "id": "RetroPie/RetroPie-Setup",
-      "full_name": "RetroPie/RetroPie-Setup",
-      "owner": "RetroPie",
-      "name": "RetroPie-Setup",
-      "html_url": "https://github.com/RetroPie/RetroPie-Setup",
-      "cover": "https://opengraph.githubassets.com/1/RetroPie/RetroPie-Setup",
-      "description": "Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores",
-      "editor_note": "",
-      "stars": 10451,
-      "language": "Shell",
-      "license": "NOASSERTION",
-      "updated_at": "2026-11-02T15:25:19Z",
-      "category": "模拟器",
-      "tags": [
-        "emulation",
-        "pi",
-        "raspberry pi"
-      ],
-      "topics": [
-        "emulation",
-        "pi",
-        "raspberry-pi",
-        "retrogaming"
-      ],
-      "visual": "default",
-      "curated_index": 1,
-      "first_seen_at": "2026-10-04T02:52:28Z"
-    },
-    {
       "id": "jenissimo/bottleship",
       "full_name": "jenissimo/bottleship",
       "owner": "jenissimo",
@@ -35339,6 +35703,42 @@
       ],
       "visual": "default",
       "curated_index": 7,
+      "first_seen_at": "2026-10-04T02:52:28Z"
+    },
+    {
+      "id": "markusmoenig/Eldiron",
+      "full_name": "markusmoenig/Eldiron",
+      "owner": "markusmoenig",
+      "name": "Eldiron",
+      "html_url": "https://github.com/markusmoenig/Eldiron",
+      "cover": "https://opengraph.githubassets.com/1/markusmoenig/Eldiron",
+      "description": "Create cross-platform classic RPGs in 2D and 3D with powerful built-in world editing tools.",
+      "editor_note": "",
+      "stars": 828,
+      "language": "Rust",
+      "license": "MIT",
+      "updated_at": "2026-11-01T15:58:03Z",
+      "category": "编辑器",
+      "tags": [
+        "classic",
+        "creator",
+        "eldiron"
+      ],
+      "topics": [
+        "classic",
+        "creator",
+        "eldiron",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "pixel-art",
+        "procedural",
+        "retro",
+        "rpg",
+        "ultima"
+      ],
+      "visual": "default",
+      "curated_index": 9,
       "first_seen_at": "2026-10-04T02:52:28Z"
     },
     {
@@ -35380,36 +35780,6 @@
       ],
       "visual": "default",
       "curated_index": 2,
-      "first_seen_at": "2026-10-04T02:52:28Z"
-    },
-    {
-      "id": "TheOrcDev/8bitcn-ui",
-      "full_name": "TheOrcDev/8bitcn-ui",
-      "owner": "TheOrcDev",
-      "name": "8bitcn-ui",
-      "html_url": "https://github.com/TheOrcDev/8bitcn-ui",
-      "cover": "https://opengraph.githubassets.com/1/TheOrcDev/8bitcn-ui",
-      "description": "A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.",
-      "editor_note": "",
-      "stars": 2062,
-      "language": "TypeScript",
-      "license": "MIT",
-      "updated_at": "2026-10-30T01:28:19Z",
-      "category": "工具",
-      "tags": [
-        "8 bit",
-        "components",
-        "retro"
-      ],
-      "topics": [
-        "8-bit",
-        "components",
-        "retro",
-        "shadcn",
-        "ui"
-      ],
-      "visual": "default",
-      "curated_index": 3,
       "first_seen_at": "2026-10-04T02:52:28Z"
     },
     {
@@ -35464,42 +35834,6 @@
       ],
       "visual": "default",
       "curated_index": 8,
-      "first_seen_at": "2026-10-04T02:52:28Z"
-    },
-    {
-      "id": "markusmoenig/Eldiron",
-      "full_name": "markusmoenig/Eldiron",
-      "owner": "markusmoenig",
-      "name": "Eldiron",
-      "html_url": "https://github.com/markusmoenig/Eldiron",
-      "cover": "https://opengraph.githubassets.com/1/markusmoenig/Eldiron",
-      "description": "Create cross-platform classic RPGs in 2D and 3D with powerful built-in world editing tools.",
-      "editor_note": "",
-      "stars": 826,
-      "language": "Rust",
-      "license": "MIT",
-      "updated_at": "2026-10-27T10:44:13Z",
-      "category": "编辑器",
-      "tags": [
-        "classic",
-        "creator",
-        "eldiron"
-      ],
-      "topics": [
-        "classic",
-        "creator",
-        "eldiron",
-        "game-development",
-        "game-engine",
-        "gamedev",
-        "pixel-art",
-        "procedural",
-        "retro",
-        "rpg",
-        "ultima"
-      ],
-      "visual": "default",
-      "curated_index": 9,
       "first_seen_at": "2026-10-04T02:52:28Z"
     },
     {
@@ -35592,6 +35926,143 @@
       "first_seen_at": "2026-10-04T02:52:28Z"
     },
     {
+      "id": "scummvm/scummvm",
+      "full_name": "scummvm/scummvm",
+      "owner": "scummvm",
+      "name": "scummvm",
+      "html_url": "https://github.com/scummvm/scummvm",
+      "cover": "https://opengraph.githubassets.com/1/scummvm/scummvm",
+      "description": "ScummVM main repository",
+      "editor_note": "一只很聪明的时间机器：让经典图形冒险游戏在现代系统里保留原本的气质。",
+      "stars": 2879,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-03T04:59:56Z",
+      "category": "模拟器",
+      "tags": [
+        "冒险游戏",
+        "引擎合集",
+        "多平台"
+      ],
+      "topics": [
+        "adventure-engine",
+        "adventure-games",
+        "multiplatform",
+        "rpg-engine"
+      ],
+      "visual": "scumm",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-04T02:50:58Z"
+    },
+    {
+      "id": "mapeditor/tiled",
+      "full_name": "mapeditor/tiled",
+      "owner": "mapeditor",
+      "name": "tiled",
+      "html_url": "https://github.com/mapeditor/tiled",
+      "cover": "https://opengraph.githubassets.com/1/mapeditor/tiled",
+      "description": "Flexible level editor",
+      "editor_note": "把地图、碰撞和关卡逻辑铺在一张熟悉的瓦片纸上，适合认真做一款 2D 游戏。",
+      "stars": 13025,
+      "language": "C++",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-03T03:51:48Z",
+      "category": "编辑器",
+      "tags": [
+        "地图编辑",
+        "瓦片",
+        "关卡设计"
+      ],
+      "topics": [
+        "c-plus-plus",
+        "editor",
+        "game",
+        "game-development",
+        "hacktoberfest",
+        "java",
+        "level",
+        "level-editor",
+        "map-editor",
+        "qbs",
+        "qt",
+        "qt-framework",
+        "tile",
+        "tilesets"
+      ],
+      "visual": "transport",
+      "curated_index": 2,
+      "first_seen_at": "2026-10-04T02:50:58Z"
+    },
+    {
+      "id": "OpenMW/openmw",
+      "full_name": "OpenMW/openmw",
+      "owner": "OpenMW",
+      "name": "openmw",
+      "html_url": "https://github.com/OpenMW/openmw",
+      "cover": "https://opengraph.githubassets.com/1/OpenMW/openmw",
+      "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/",
+      "editor_note": "让一块经典 RPG 开放世界在现代硬件上继续生长，保留探索感与手工地图的尺度。",
+      "stars": 6708,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-03T00:32:11Z",
+      "category": "游戏",
+      "tags": [
+        "RPG",
+        "开放世界",
+        "引擎重制"
+      ],
+      "topics": [
+        "c-plus-plus",
+        "foss",
+        "morrowind",
+        "open-source",
+        "openmw",
+        "rpg-engine",
+        "tes"
+      ],
+      "visual": "rpg",
+      "curated_index": 0,
+      "first_seen_at": "2026-10-04T02:50:58Z"
+    },
+    {
+      "id": "cxong/cdogs-sdl",
+      "full_name": "cxong/cdogs-sdl",
+      "owner": "cxong",
+      "name": "cdogs-sdl",
+      "html_url": "https://github.com/cxong/cdogs-sdl",
+      "cover": "https://opengraph.githubassets.com/1/cxong/cdogs-sdl",
+      "description": "Classic overhead run-and-gun game",
+      "editor_note": "",
+      "stars": 1103,
+      "language": "C",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-02T22:52:33Z",
+      "category": "编辑器",
+      "tags": [
+        "2d",
+        "2d game",
+        "c"
+      ],
+      "topics": [
+        "2d",
+        "2d-game",
+        "c",
+        "game",
+        "games",
+        "hacktoberfest",
+        "open-source",
+        "pixel-art",
+        "retro",
+        "retrogaming",
+        "sdl2",
+        "shoot-em-up"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-10-04T02:50:58Z"
+    },
+    {
       "id": "rommapp/romm",
       "full_name": "rommapp/romm",
       "owner": "rommapp",
@@ -35619,106 +36090,6 @@
       ],
       "visual": "default",
       "curated_index": 4,
-      "first_seen_at": "2026-10-04T02:50:58Z"
-    },
-    {
-      "id": "scummvm/scummvm",
-      "full_name": "scummvm/scummvm",
-      "owner": "scummvm",
-      "name": "scummvm",
-      "html_url": "https://github.com/scummvm/scummvm",
-      "cover": "https://opengraph.githubassets.com/1/scummvm/scummvm",
-      "description": "ScummVM main repository",
-      "editor_note": "一只很聪明的时间机器：让经典图形冒险游戏在现代系统里保留原本的气质。",
-      "stars": 2879,
-      "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-02T22:07:06Z",
-      "category": "模拟器",
-      "tags": [
-        "冒险游戏",
-        "引擎合集",
-        "多平台"
-      ],
-      "topics": [
-        "adventure-engine",
-        "adventure-games",
-        "multiplatform",
-        "rpg-engine"
-      ],
-      "visual": "scumm",
-      "curated_index": 1,
-      "first_seen_at": "2026-10-04T02:50:58Z"
-    },
-    {
-      "id": "OpenMW/openmw",
-      "full_name": "OpenMW/openmw",
-      "owner": "OpenMW",
-      "name": "openmw",
-      "html_url": "https://github.com/OpenMW/openmw",
-      "cover": "https://opengraph.githubassets.com/1/OpenMW/openmw",
-      "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/",
-      "editor_note": "让一块经典 RPG 开放世界在现代硬件上继续生长，保留探索感与手工地图的尺度。",
-      "stars": 6707,
-      "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-02T21:56:35Z",
-      "category": "游戏",
-      "tags": [
-        "RPG",
-        "开放世界",
-        "引擎重制"
-      ],
-      "topics": [
-        "c-plus-plus",
-        "foss",
-        "morrowind",
-        "open-source",
-        "openmw",
-        "rpg-engine",
-        "tes"
-      ],
-      "visual": "rpg",
-      "curated_index": 0,
-      "first_seen_at": "2026-10-04T02:50:58Z"
-    },
-    {
-      "id": "mapeditor/tiled",
-      "full_name": "mapeditor/tiled",
-      "owner": "mapeditor",
-      "name": "tiled",
-      "html_url": "https://github.com/mapeditor/tiled",
-      "cover": "https://opengraph.githubassets.com/1/mapeditor/tiled",
-      "description": "Flexible level editor",
-      "editor_note": "把地图、碰撞和关卡逻辑铺在一张熟悉的瓦片纸上，适合认真做一款 2D 游戏。",
-      "stars": 13023,
-      "language": "C++",
-      "license": "NOASSERTION",
-      "updated_at": "2026-11-02T21:27:50Z",
-      "category": "编辑器",
-      "tags": [
-        "地图编辑",
-        "瓦片",
-        "关卡设计"
-      ],
-      "topics": [
-        "c-plus-plus",
-        "editor",
-        "game",
-        "game-development",
-        "hacktoberfest",
-        "java",
-        "level",
-        "level-editor",
-        "map-editor",
-        "qbs",
-        "qt",
-        "qt-framework",
-        "tile",
-        "tilesets"
-      ],
-      "visual": "transport",
-      "curated_index": 2,
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
@@ -35857,10 +36228,10 @@
       "cover": "https://opengraph.githubassets.com/1/legluondunet/MyLittleLutrisScripts",
       "description": "Lutris scripts for old games.",
       "editor_note": "",
-      "stars": 337,
+      "stars": 338,
       "language": "HTML",
       "license": "NOASSERTION",
-      "updated_at": "2026-10-29T06:45:51Z",
+      "updated_at": "2026-10-31T22:28:01Z",
       "category": "模拟器",
       "tags": [
         "dosbox",
@@ -35877,43 +36248,6 @@
       ],
       "visual": "default",
       "curated_index": 8,
-      "first_seen_at": "2026-10-04T02:50:58Z"
-    },
-    {
-      "id": "cxong/cdogs-sdl",
-      "full_name": "cxong/cdogs-sdl",
-      "owner": "cxong",
-      "name": "cdogs-sdl",
-      "html_url": "https://github.com/cxong/cdogs-sdl",
-      "cover": "https://opengraph.githubassets.com/1/cxong/cdogs-sdl",
-      "description": "Classic overhead run-and-gun game",
-      "editor_note": "",
-      "stars": 1100,
-      "language": "C",
-      "license": "GPL-2.0",
-      "updated_at": "2026-10-28T22:13:45Z",
-      "category": "编辑器",
-      "tags": [
-        "2d",
-        "2d game",
-        "c"
-      ],
-      "topics": [
-        "2d",
-        "2d-game",
-        "c",
-        "game",
-        "games",
-        "hacktoberfest",
-        "open-source",
-        "pixel-art",
-        "retro",
-        "retrogaming",
-        "sdl2",
-        "shoot-em-up"
-      ],
-      "visual": "default",
-      "curated_index": 9,
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
@@ -35951,103 +36285,33 @@
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
-      "id": "OpenRCT2/OpenRCT2",
-      "full_name": "OpenRCT2/OpenRCT2",
-      "owner": "OpenRCT2",
-      "name": "OpenRCT2",
-      "html_url": "https://github.com/OpenRCT2/OpenRCT2",
-      "cover": "https://opengraph.githubassets.com/1/OpenRCT2/OpenRCT2",
-      "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
-      "editor_note": "把主题公园经营搬回 CRT 屏幕：过山车、像素游客和一整套不肯退休的模拟经营系统。",
-      "stars": 16535,
+      "id": "OpenTTD/OpenTTD",
+      "full_name": "OpenTTD/OpenTTD",
+      "owner": "OpenTTD",
+      "name": "OpenTTD",
+      "html_url": "https://github.com/OpenTTD/OpenTTD",
+      "cover": "https://opengraph.githubassets.com/1/OpenTTD/OpenTTD",
+      "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
+      "editor_note": "铁路、公路、港口和那种一开局就停不下来的运输帝国。复古等距视角依旧很有魔力。",
+      "stars": 8452,
       "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-02T21:48:46Z",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-03T07:50:07Z",
       "category": "游戏",
       "tags": [
-        "模拟经营",
-        "多人",
-        "开放世界"
+        "运输模拟",
+        "等距视角",
+        "沙盒"
       ],
       "topics": [
-        "c-plus-plus",
-        "cmake",
-        "cpp",
-        "discord",
         "game",
-        "hacktoberfest",
-        "linux",
-        "msbuild",
-        "multiplayer",
-        "opengl",
-        "openrct2",
-        "roller-coaster",
-        "roller-coaster-tycoon",
-        "sdl2",
-        "server",
-        "simulation",
-        "visual-studio",
-        "windows"
+        "isometric",
+        "openttd",
+        "sandbox",
+        "simulation"
       ],
-      "visual": "rct",
-      "curated_index": 7,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "libretro/RetroArch",
-      "full_name": "libretro/RetroArch",
-      "owner": "libretro",
-      "name": "RetroArch",
-      "html_url": "https://github.com/libretro/RetroArch",
-      "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
-      "stars": 14520,
-      "language": "C",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-02T20:00:23Z",
-      "category": "模拟器",
-      "tags": [
-        "多平台",
-        "模拟核心",
-        "手柄"
-      ],
-      "topics": [
-        "c",
-        "libretro",
-        "retroarch"
-      ],
-      "visual": "pc",
-      "curated_index": 8,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "copy/v86",
-      "full_name": "copy/v86",
-      "owner": "copy",
-      "name": "v86",
-      "html_url": "https://github.com/copy/v86",
-      "cover": "https://opengraph.githubassets.com/1/copy/v86",
-      "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
-      "editor_note": "直接在浏览器里启动一台 x86 电脑。像把整台旧 PC 折成一张网页，再塞进书签。",
-      "stars": 23653,
-      "language": "JavaScript",
-      "license": "BSD-2-Clause",
-      "updated_at": "2026-11-02T19:57:40Z",
-      "category": "模拟器",
-      "tags": [
-        "浏览器",
-        "x86",
-        "WebAssembly"
-      ],
-      "topics": [
-        "emulator",
-        "virtualization",
-        "wasm",
-        "x86"
-      ],
-      "visual": "pc",
-      "curated_index": 4,
+      "visual": "transport",
+      "curated_index": 9,
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
@@ -36059,10 +36323,10 @@
       "cover": "https://opengraph.githubassets.com/1/Orama-Interactive/Pixelorama",
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "editor_note": "像素画、精灵、瓦片和动画，一把把旧游戏的视觉零件重新拼起来。",
-      "stars": 10924,
+      "stars": 10929,
       "language": "GDScript",
       "license": "MIT",
-      "updated_at": "2026-11-02T19:08:34Z",
+      "updated_at": "2026-11-03T06:57:25Z",
       "category": "编辑器",
       "tags": [
         "像素绘画",
@@ -36096,33 +36360,166 @@
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
-      "id": "OpenTTD/OpenTTD",
-      "full_name": "OpenTTD/OpenTTD",
-      "owner": "OpenTTD",
-      "name": "OpenTTD",
-      "html_url": "https://github.com/OpenTTD/OpenTTD",
-      "cover": "https://opengraph.githubassets.com/1/OpenTTD/OpenTTD",
-      "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
-      "editor_note": "铁路、公路、港口和那种一开局就停不下来的运输帝国。复古等距视角依旧很有魔力。",
-      "stars": 8451,
-      "language": "C++",
-      "license": "NOASSERTION",
-      "updated_at": "2026-11-02T18:08:15Z",
-      "category": "游戏",
+      "id": "libretro/RetroArch",
+      "full_name": "libretro/RetroArch",
+      "owner": "libretro",
+      "name": "RetroArch",
+      "html_url": "https://github.com/libretro/RetroArch",
+      "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
+      "stars": 14522,
+      "language": "C",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-03T06:50:44Z",
+      "category": "模拟器",
       "tags": [
-        "运输模拟",
-        "等距视角",
-        "沙盒"
+        "多平台",
+        "模拟核心",
+        "手柄"
       ],
       "topics": [
-        "game",
-        "isometric",
-        "openttd",
-        "sandbox",
-        "simulation"
+        "c",
+        "libretro",
+        "retroarch"
       ],
-      "visual": "transport",
-      "curated_index": 9,
+      "visual": "pc",
+      "curated_index": 8,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "copy/v86",
+      "full_name": "copy/v86",
+      "owner": "copy",
+      "name": "v86",
+      "html_url": "https://github.com/copy/v86",
+      "cover": "https://opengraph.githubassets.com/1/copy/v86",
+      "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
+      "editor_note": "直接在浏览器里启动一台 x86 电脑。像把整台旧 PC 折成一张网页，再塞进书签。",
+      "stars": 23656,
+      "language": "JavaScript",
+      "license": "BSD-2-Clause",
+      "updated_at": "2026-11-03T06:01:51Z",
+      "category": "模拟器",
+      "tags": [
+        "浏览器",
+        "x86",
+        "WebAssembly"
+      ],
+      "topics": [
+        "emulator",
+        "virtualization",
+        "wasm",
+        "x86"
+      ],
+      "visual": "pc",
+      "curated_index": 4,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "86Box/86Box",
+      "full_name": "86Box/86Box",
+      "owner": "86Box",
+      "name": "86Box",
+      "html_url": "https://github.com/86Box/86Box",
+      "cover": "https://opengraph.githubassets.com/1/86Box/86Box",
+      "description": "Emulator of x86-based machines.",
+      "editor_note": "精确模拟旧 x86 机器，把 BIOS 哔声、软盘和显卡兼容性一起保存下来。",
+      "stars": 4977,
+      "language": "C",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-03T04:20:43Z",
+      "category": "模拟器",
+      "tags": [
+        "x86",
+        "PC 模拟",
+        "硬件考古"
+      ],
+      "topics": [
+        "emulation",
+        "emulator",
+        "ibm",
+        "pc-emulator",
+        "x86"
+      ],
+      "visual": "pc",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "LibreSprite/LibreSprite",
+      "full_name": "LibreSprite/LibreSprite",
+      "owner": "LibreSprite",
+      "name": "LibreSprite",
+      "html_url": "https://github.com/LibreSprite/LibreSprite",
+      "cover": "https://opengraph.githubassets.com/1/LibreSprite/LibreSprite",
+      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+      "editor_note": "一款坚持像素边缘的精灵编辑器，适合给下一款小小的 2D 游戏准备主角。",
+      "stars": 8716,
+      "language": "C++",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-03T03:13:13Z",
+      "category": "编辑器",
+      "tags": [
+        "Sprite",
+        "动画",
+        "GPLv2"
+      ],
+      "topics": [
+        "animation",
+        "cplusplus",
+        "cpp",
+        "drawing",
+        "graphics",
+        "pixel-art",
+        "pixel-editor",
+        "sprites"
+      ],
+      "visual": "sprite",
+      "curated_index": 5,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "OpenRCT2/OpenRCT2",
+      "full_name": "OpenRCT2/OpenRCT2",
+      "owner": "OpenRCT2",
+      "name": "OpenRCT2",
+      "html_url": "https://github.com/OpenRCT2/OpenRCT2",
+      "cover": "https://opengraph.githubassets.com/1/OpenRCT2/OpenRCT2",
+      "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+      "editor_note": "把主题公园经营搬回 CRT 屏幕：过山车、像素游客和一整套不肯退休的模拟经营系统。",
+      "stars": 16535,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-03T02:10:09Z",
+      "category": "游戏",
+      "tags": [
+        "模拟经营",
+        "多人",
+        "开放世界"
+      ],
+      "topics": [
+        "c-plus-plus",
+        "cmake",
+        "cpp",
+        "discord",
+        "game",
+        "hacktoberfest",
+        "linux",
+        "msbuild",
+        "multiplayer",
+        "opengl",
+        "openrct2",
+        "roller-coaster",
+        "roller-coaster-tycoon",
+        "sdl2",
+        "server",
+        "simulation",
+        "visual-studio",
+        "windows"
+      ],
+      "visual": "rct",
+      "curated_index": 7,
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
@@ -36154,36 +36551,6 @@
       ],
       "visual": "terminal",
       "curated_index": 3,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "86Box/86Box",
-      "full_name": "86Box/86Box",
-      "owner": "86Box",
-      "name": "86Box",
-      "html_url": "https://github.com/86Box/86Box",
-      "cover": "https://opengraph.githubassets.com/1/86Box/86Box",
-      "description": "Emulator of x86-based machines.",
-      "editor_note": "精确模拟旧 x86 机器，把 BIOS 哔声、软盘和显卡兼容性一起保存下来。",
-      "stars": 4977,
-      "language": "C",
-      "license": "GPL-2.0",
-      "updated_at": "2026-11-02T13:57:03Z",
-      "category": "模拟器",
-      "tags": [
-        "x86",
-        "PC 模拟",
-        "硬件考古"
-      ],
-      "topics": [
-        "emulation",
-        "emulator",
-        "ibm",
-        "pc-emulator",
-        "x86"
-      ],
-      "visual": "pc",
-      "curated_index": 6,
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
@@ -36224,39 +36591,6 @@
       ],
       "visual": "dos",
       "curated_index": 1,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "LibreSprite/LibreSprite",
-      "full_name": "LibreSprite/LibreSprite",
-      "owner": "LibreSprite",
-      "name": "LibreSprite",
-      "html_url": "https://github.com/LibreSprite/LibreSprite",
-      "cover": "https://opengraph.githubassets.com/1/LibreSprite/LibreSprite",
-      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
-      "editor_note": "一款坚持像素边缘的精灵编辑器，适合给下一款小小的 2D 游戏准备主角。",
-      "stars": 8712,
-      "language": "C++",
-      "license": "GPL-2.0",
-      "updated_at": "2026-11-02T08:41:05Z",
-      "category": "编辑器",
-      "tags": [
-        "Sprite",
-        "动画",
-        "GPLv2"
-      ],
-      "topics": [
-        "animation",
-        "cplusplus",
-        "cpp",
-        "drawing",
-        "graphics",
-        "pixel-art",
-        "pixel-editor",
-        "sprites"
-      ],
-      "visual": "sprite",
-      "curated_index": 5,
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
