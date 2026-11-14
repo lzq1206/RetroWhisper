@@ -1,10 +1,328 @@
 {
-  "updated_at": "2026-11-13T20:28:47Z",
+  "updated_at": "2026-11-14T07:35:54Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "last_batch_count": 10,
-  "search_page": 6,
+  "search_page": 7,
   "items": [
+    {
+      "id": "CarlosAllberto/arcadelink",
+      "full_name": "CarlosAllberto/arcadelink",
+      "owner": "CarlosAllberto",
+      "name": "arcadelink",
+      "html_url": "https://github.com/CarlosAllberto/arcadelink",
+      "cover": "https://opengraph.githubassets.com/1/CarlosAllberto/arcadelink",
+      "description": "Retro games in your browser, straight from your Google Drive. Cartridge carousel, automatic covers and saves that sync across devices. Built with Next.js and EmulatorJS.",
+      "editor_note": "",
+      "stars": 1,
+      "language": "TypeScript",
+      "license": "MIT",
+      "updated_at": "2026-11-13T23:08:16Z",
+      "category": "模拟器",
+      "tags": [
+        "emulation",
+        "emulator",
+        "free"
+      ],
+      "topics": [
+        "emulation",
+        "emulator",
+        "free",
+        "games",
+        "google-drive",
+        "nostalgic",
+        "retro"
+      ],
+      "visual": "default",
+      "curated_index": 7,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
+    {
+      "id": "thekojac304/ultima-v-native",
+      "full_name": "thekojac304/ultima-v-native",
+      "owner": "thekojac304",
+      "name": "ultima-v-native",
+      "html_url": "https://github.com/thekojac304/ultima-v-native",
+      "cover": "https://opengraph.githubassets.com/1/thekojac304/ultima-v-native",
+      "description": "A native C++ port of Ultima V for Windows and LilyGO T-Deck Plus, featuring DOS-faithful Original mode, optional enhancements, and preservation-focused gameplay.",
+      "editor_note": "",
+      "stars": 3,
+      "language": "TypeScript",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-12T06:12:17Z",
+      "category": "游戏",
+      "tags": [
+        "cpp",
+        "embedded",
+        "esp32"
+      ],
+      "topics": [
+        "cpp",
+        "embedded",
+        "esp32",
+        "esp32-s3",
+        "game-port",
+        "game-preservation",
+        "lilygo-tdeck",
+        "retro-gaming",
+        "retrogaming",
+        "reverse-engineering",
+        "t-deck",
+        "ultima",
+        "ultima-v",
+        "windows"
+      ],
+      "visual": "default",
+      "curated_index": 0,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
+    {
+      "id": "daniiichan/Need-for-Speed-Underground-2-macOS",
+      "full_name": "daniiichan/Need-for-Speed-Underground-2-macOS",
+      "owner": "daniiichan",
+      "name": "Need-for-Speed-Underground-2-macOS",
+      "html_url": "https://github.com/daniiichan/Need-for-Speed-Underground-2-macOS",
+      "cover": "https://opengraph.githubassets.com/1/daniiichan/Need-for-Speed-Underground-2-macOS",
+      "description": "Native macOS (Apple Silicon / Intel) port of Need for Speed: Underground 2 at 60 FPS using DXVK Native and MoltenVK",
+      "editor_note": "",
+      "stars": 7,
+      "language": "C",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-12T04:23:22Z",
+      "category": "工具",
+      "tags": [
+        "apple silicon",
+        "arm64",
+        "dxvk"
+      ],
+      "topics": [
+        "apple-silicon",
+        "arm64",
+        "dxvk",
+        "gaming-on-mac",
+        "macgaming",
+        "macos",
+        "metal",
+        "need-for-speed-underground-2",
+        "nfsu2",
+        "recompiled",
+        "retrogaming",
+        "vulkan"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
+    {
+      "id": "DECRUX9812/hermes-plugin-gameforge",
+      "full_name": "DECRUX9812/hermes-plugin-gameforge",
+      "owner": "DECRUX9812",
+      "name": "hermes-plugin-gameforge",
+      "html_url": "https://github.com/DECRUX9812/hermes-plugin-gameforge",
+      "cover": "https://opengraph.githubassets.com/1/DECRUX9812/hermes-plugin-gameforge",
+      "description": "Game development plugin for Hermes Agent: sound effects, music, NPC voices, pixel art, 3D models, Godot/Unity/Blender/Unreal, a playtester that actually plays the build, and one-click export.",
+      "editor_note": "",
+      "stars": 47,
+      "language": "Python",
+      "license": "MIT",
+      "updated_at": "2026-11-11T16:16:09Z",
+      "category": "编辑器",
+      "tags": [
+        "ai agents",
+        "gamedev",
+        "godot"
+      ],
+      "topics": [
+        "ai-agents",
+        "gamedev",
+        "godot",
+        "hermes-agent",
+        "llm",
+        "pixel-art",
+        "procedural-generation",
+        "unity"
+      ],
+      "visual": "default",
+      "curated_index": 2,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
+    {
+      "id": "Torward1024/SCRP",
+      "full_name": "Torward1024/SCRP",
+      "owner": "Torward1024",
+      "name": "SCRP",
+      "html_url": "https://github.com/Torward1024/SCRP",
+      "cover": "https://opengraph.githubassets.com/1/Torward1024/SCRP",
+      "description": "Open source IBM PC game engine for reviving old and brilliant classics with new gameplay experience.",
+      "editor_note": "",
+      "stars": 1,
+      "language": "C++",
+      "license": "MIT",
+      "updated_at": "2026-11-09T11:42:30Z",
+      "category": "游戏",
+      "tags": [
+        "game en",
+        "game engine",
+        "game engine development"
+      ],
+      "topics": [
+        "game-en",
+        "game-engine",
+        "game-engine-development",
+        "game-engine-framework",
+        "retro-game",
+        "retro-games",
+        "retro-gaming",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
+    {
+      "id": "codename-warhammer09/TongGame",
+      "full_name": "codename-warhammer09/TongGame",
+      "owner": "codename-warhammer09",
+      "name": "TongGame",
+      "html_url": "https://github.com/codename-warhammer09/TongGame",
+      "cover": "https://opengraph.githubassets.com/1/codename-warhammer09/TongGame",
+      "description": "Tong is a lightweight arcade game developed in Java, based on and closely mirroring the classic game 'Pong'",
+      "editor_note": "",
+      "stars": 1,
+      "language": "Java",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-03T20:55:10Z",
+      "category": "游戏",
+      "tags": [
+        "arcade game",
+        "game",
+        "java"
+      ],
+      "topics": [
+        "arcade-game",
+        "game",
+        "java",
+        "retro"
+      ],
+      "visual": "default",
+      "curated_index": 8,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
+    {
+      "id": "DavidZinAZ/amiga-adf-library-builder",
+      "full_name": "DavidZinAZ/amiga-adf-library-builder",
+      "owner": "DavidZinAZ",
+      "name": "amiga-adf-library-builder",
+      "html_url": "https://github.com/DavidZinAZ/amiga-adf-library-builder",
+      "cover": "https://opengraph.githubassets.com/1/DavidZinAZ/amiga-adf-library-builder",
+      "description": "Build, enrich, validate, and export curated Amiga ADF libraries with CLI and Windows GUI workflows.",
+      "editor_note": "",
+      "stars": 5,
+      "language": "Python",
+      "license": "MIT",
+      "updated_at": "2026-10-16T08:30:23Z",
+      "category": "工具",
+      "tags": [
+        "adf",
+        "amiga",
+        "commodore amiga"
+      ],
+      "topics": [
+        "adf",
+        "amiga",
+        "commodore-amiga",
+        "metadata",
+        "preservation",
+        "python",
+        "retrogaming",
+        "rom-management",
+        "tosec",
+        "windows-gui"
+      ],
+      "visual": "default",
+      "curated_index": 5,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
+    {
+      "id": "vircon32/CommunityContent",
+      "full_name": "vircon32/CommunityContent",
+      "owner": "vircon32",
+      "name": "CommunityContent",
+      "html_url": "https://github.com/vircon32/CommunityContent",
+      "cover": "https://opengraph.githubassets.com/1/vircon32/CommunityContent",
+      "description": "Console content contributed by the Vircon32 community",
+      "editor_note": "",
+      "stars": 5,
+      "language": "Assembly",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-15T15:37:59Z",
+      "category": "工具",
+      "tags": [
+        "32 bit",
+        "fantasy console",
+        "indie"
+      ],
+      "topics": [
+        "32-bit",
+        "fantasy-console",
+        "indie",
+        "retrogaming",
+        "vircon32"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
+    {
+      "id": "mist64/retro-ps",
+      "full_name": "mist64/retro-ps",
+      "owner": "mist64",
+      "name": "retro-ps",
+      "html_url": "https://github.com/mist64/retro-ps",
+      "cover": "https://opengraph.githubassets.com/1/mist64/retro-ps",
+      "description": "Classic PostScript interpreter binaries running inside a CPU-emulator sandbox, on the command line or in your browser.",
+      "editor_note": "",
+      "stars": 28,
+      "language": "Rust",
+      "license": "NOASSERTION",
+      "updated_at": "2026-09-27T16:49:04Z",
+      "category": "模拟器",
+      "tags": [],
+      "topics": [],
+      "visual": "default",
+      "curated_index": 4,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
+    {
+      "id": "Whisingx/webemu",
+      "full_name": "Whisingx/webemu",
+      "owner": "Whisingx",
+      "name": "webemu",
+      "html_url": "https://github.com/Whisingx/webemu",
+      "cover": "https://opengraph.githubassets.com/1/Whisingx/webemu",
+      "description": "A Website retro console emulator, no installs needed, no signups needed, just play in your browser!",
+      "editor_note": "",
+      "stars": 6,
+      "language": "JavaScript",
+      "license": "NOASSERTION",
+      "updated_at": "2026-08-18T15:24:58Z",
+      "category": "模拟器",
+      "tags": [
+        "emulator",
+        "emulatorjs",
+        "libretro"
+      ],
+      "topics": [
+        "emulator",
+        "emulatorjs",
+        "libretro",
+        "libretro-frontend",
+        "website"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-11-14T07:35:54Z"
+    },
     {
       "id": "UnityCrown39312/luis-resocket",
       "full_name": "UnityCrown39312/luis-resocket",
@@ -3130,6 +3448,32 @@
       "first_seen_at": "2026-11-09T22:58:55Z"
     },
     {
+      "id": "trapexit/3do-decomp-road-rash",
+      "full_name": "trapexit/3do-decomp-road-rash",
+      "owner": "trapexit",
+      "name": "3do-decomp-road-rash",
+      "html_url": "https://github.com/trapexit/3do-decomp-road-rash",
+      "cover": "https://opengraph.githubassets.com/1/trapexit/3do-decomp-road-rash",
+      "description": "Decomp + Reconstruction of Road Rash (USA) for the 3DO",
+      "editor_note": "",
+      "stars": 10,
+      "language": "C",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-13T01:49:19Z",
+      "category": "工具",
+      "tags": [
+        "3do",
+        "retrogaming"
+      ],
+      "topics": [
+        "3do",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-11-09T07:55:23Z"
+    },
+    {
       "id": "brunocpf/spritekiln",
       "full_name": "brunocpf/spritekiln",
       "owner": "brunocpf",
@@ -3158,32 +3502,6 @@
       ],
       "visual": "default",
       "curated_index": 2,
-      "first_seen_at": "2026-11-09T07:55:23Z"
-    },
-    {
-      "id": "trapexit/3do-decomp-road-rash",
-      "full_name": "trapexit/3do-decomp-road-rash",
-      "owner": "trapexit",
-      "name": "3do-decomp-road-rash",
-      "html_url": "https://github.com/trapexit/3do-decomp-road-rash",
-      "cover": "https://opengraph.githubassets.com/1/trapexit/3do-decomp-road-rash",
-      "description": "Decomp + Reconstruction of Road Rash (USA) for the 3DO",
-      "editor_note": "",
-      "stars": 9,
-      "language": "C",
-      "license": "GPL-2.0",
-      "updated_at": "2026-11-05T19:08:00Z",
-      "category": "工具",
-      "tags": [
-        "3do",
-        "retrogaming"
-      ],
-      "topics": [
-        "3do",
-        "retrogaming"
-      ],
-      "visual": "default",
-      "curated_index": 3,
       "first_seen_at": "2026-11-09T07:55:23Z"
     },
     {
@@ -8235,10 +8553,10 @@
       "cover": "https://opengraph.githubassets.com/1/mankidev/codixel",
       "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
       "editor_note": "",
-      "stars": 170,
+      "stars": 172,
       "language": "JavaScript",
       "license": "MIT",
-      "updated_at": "2026-11-13T19:59:36Z",
+      "updated_at": "2026-11-14T00:11:50Z",
       "category": "编辑器",
       "tags": [
         "8bit",
@@ -13841,6 +14159,26 @@
       "first_seen_at": "2026-10-28T14:00:05Z"
     },
     {
+      "id": "retropassdev/RetroPass",
+      "full_name": "retropassdev/RetroPass",
+      "owner": "retropassdev",
+      "name": "RetroPass",
+      "html_url": "https://github.com/retropassdev/RetroPass",
+      "cover": "https://opengraph.githubassets.com/1/retropassdev/RetroPass",
+      "description": "Retro Pass is a simple frontend for emulators running on Xbox.",
+      "editor_note": "",
+      "stars": 150,
+      "language": "C#",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-09T20:00:56Z",
+      "category": "模拟器",
+      "tags": [],
+      "topics": [],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-28T06:50:43Z"
+    },
+    {
       "id": "markmoxon/elite-3d",
       "full_name": "markmoxon/elite-3d",
       "owner": "markmoxon",
@@ -13873,26 +14211,6 @@
       ],
       "visual": "default",
       "curated_index": 0,
-      "first_seen_at": "2026-10-28T06:50:43Z"
-    },
-    {
-      "id": "retropassdev/RetroPass",
-      "full_name": "retropassdev/RetroPass",
-      "owner": "retropassdev",
-      "name": "RetroPass",
-      "html_url": "https://github.com/retropassdev/RetroPass",
-      "cover": "https://opengraph.githubassets.com/1/retropassdev/RetroPass",
-      "description": "Retro Pass is a simple frontend for emulators running on Xbox.",
-      "editor_note": "",
-      "stars": 149,
-      "language": "C#",
-      "license": "GPL-2.0",
-      "updated_at": "2026-11-05T22:05:07Z",
-      "category": "模拟器",
-      "tags": [],
-      "topics": [],
-      "visual": "default",
-      "curated_index": 1,
       "first_seen_at": "2026-10-28T06:50:43Z"
     },
     {
@@ -14164,6 +14482,34 @@
       "first_seen_at": "2026-10-28T06:50:43Z"
     },
     {
+      "id": "BrandonKowalski/gabagool",
+      "full_name": "BrandonKowalski/gabagool",
+      "owner": "BrandonKowalski",
+      "name": "gabagool",
+      "html_url": "https://github.com/BrandonKowalski/gabagool",
+      "cover": "https://opengraph.githubassets.com/1/BrandonKowalski/gabagool",
+      "description": "Revenge is like serving cold cuts.",
+      "editor_note": "",
+      "stars": 14,
+      "language": "Go",
+      "license": "MIT",
+      "updated_at": "2026-11-12T18:04:21Z",
+      "category": "工具",
+      "tags": [
+        "nextui",
+        "retrogaming",
+        "sdl2"
+      ],
+      "topics": [
+        "nextui",
+        "retrogaming",
+        "sdl2"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-27T22:56:30Z"
+    },
+    {
       "id": "Bregann/RetroTrack",
       "full_name": "Bregann/RetroTrack",
       "owner": "Bregann",
@@ -14427,34 +14773,6 @@
       ],
       "visual": "default",
       "curated_index": 8,
-      "first_seen_at": "2026-10-27T22:56:30Z"
-    },
-    {
-      "id": "BrandonKowalski/gabagool",
-      "full_name": "BrandonKowalski/gabagool",
-      "owner": "BrandonKowalski",
-      "name": "gabagool",
-      "html_url": "https://github.com/BrandonKowalski/gabagool",
-      "cover": "https://opengraph.githubassets.com/1/BrandonKowalski/gabagool",
-      "description": "Revenge is like serving cold cuts.",
-      "editor_note": "",
-      "stars": 13,
-      "language": "Go",
-      "license": "MIT",
-      "updated_at": "2026-10-12T01:28:16Z",
-      "category": "工具",
-      "tags": [
-        "nextui",
-        "retrogaming",
-        "sdl2"
-      ],
-      "topics": [
-        "nextui",
-        "retrogaming",
-        "sdl2"
-      ],
-      "visual": "default",
-      "curated_index": 3,
       "first_seen_at": "2026-10-27T22:56:30Z"
     },
     {
@@ -18082,6 +18400,40 @@
       "first_seen_at": "2026-10-24T21:35:53Z"
     },
     {
+      "id": "Lordingard/SacredStonesRecomp",
+      "full_name": "Lordingard/SacredStonesRecomp",
+      "owner": "Lordingard",
+      "name": "SacredStonesRecomp",
+      "html_url": "https://github.com/Lordingard/SacredStonesRecomp",
+      "cover": "https://opengraph.githubassets.com/1/Lordingard/SacredStonesRecomp",
+      "description": "Playable Windows and Android ARM64 recompilation of Fire Emblem: The Sacred Stones (GBA).",
+      "editor_note": "",
+      "stars": 30,
+      "language": "C++",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-09T18:26:46Z",
+      "category": "工具",
+      "tags": [
+        "android",
+        "fireemblem",
+        "gba"
+      ],
+      "topics": [
+        "android",
+        "fireemblem",
+        "gba",
+        "nintendo",
+        "nintendo-port",
+        "recomp",
+        "recompilation",
+        "retrogaming",
+        "windows"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-10-24T21:35:53Z"
+    },
+    {
       "id": "c4punks/ssh-chatter",
       "full_name": "c4punks/ssh-chatter",
       "owner": "c4punks",
@@ -18160,40 +18512,6 @@
       ],
       "visual": "default",
       "curated_index": 3,
-      "first_seen_at": "2026-10-24T21:35:53Z"
-    },
-    {
-      "id": "Lordingard/SacredStonesRecomp",
-      "full_name": "Lordingard/SacredStonesRecomp",
-      "owner": "Lordingard",
-      "name": "SacredStonesRecomp",
-      "html_url": "https://github.com/Lordingard/SacredStonesRecomp",
-      "cover": "https://opengraph.githubassets.com/1/Lordingard/SacredStonesRecomp",
-      "description": "Playable Windows and Android ARM64 recompilation of Fire Emblem: The Sacred Stones (GBA).",
-      "editor_note": "",
-      "stars": 28,
-      "language": "C++",
-      "license": "NOASSERTION",
-      "updated_at": "2026-11-07T10:11:17Z",
-      "category": "工具",
-      "tags": [
-        "android",
-        "fireemblem",
-        "gba"
-      ],
-      "topics": [
-        "android",
-        "fireemblem",
-        "gba",
-        "nintendo",
-        "nintendo-port",
-        "recomp",
-        "recompilation",
-        "retrogaming",
-        "windows"
-      ],
-      "visual": "default",
-      "curated_index": 9,
       "first_seen_at": "2026-10-24T21:35:53Z"
     },
     {
@@ -21252,6 +21570,40 @@
       "first_seen_at": "2026-10-22T17:57:56Z"
     },
     {
+      "id": "alihammoud21/porthole",
+      "full_name": "alihammoud21/porthole",
+      "owner": "alihammoud21",
+      "name": "porthole",
+      "html_url": "https://github.com/alihammoud21/porthole",
+      "cover": "https://opengraph.githubassets.com/1/alihammoud21/porthole",
+      "description": "Bring your own game files. Walk away with an iPhone app. Open-source packaging pipeline that turns games you own into sideloadable iOS apps.",
+      "editor_note": "",
+      "stars": 1,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-10T14:45:28Z",
+      "category": "模拟器",
+      "tags": [
+        "emulation",
+        "game preservation",
+        "homebrew"
+      ],
+      "topics": [
+        "emulation",
+        "game-preservation",
+        "homebrew",
+        "ios",
+        "iphone",
+        "open-source",
+        "retrogaming",
+        "sideloading",
+        "swift"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-22T17:57:56Z"
+    },
+    {
       "id": "vircon32/ConsoleSoftware",
       "full_name": "vircon32/ConsoleSoftware",
       "owner": "vircon32",
@@ -21357,40 +21709,6 @@
       ],
       "visual": "default",
       "curated_index": 0,
-      "first_seen_at": "2026-10-22T17:57:56Z"
-    },
-    {
-      "id": "alihammoud21/porthole",
-      "full_name": "alihammoud21/porthole",
-      "owner": "alihammoud21",
-      "name": "porthole",
-      "html_url": "https://github.com/alihammoud21/porthole",
-      "cover": "https://opengraph.githubassets.com/1/alihammoud21/porthole",
-      "description": "Bring your own game files. Walk away with an iPhone app. Open-source packaging pipeline that turns games you own into sideloadable iOS apps.",
-      "editor_note": "",
-      "stars": 2,
-      "language": "Python",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-20T09:17:48Z",
-      "category": "模拟器",
-      "tags": [
-        "emulation",
-        "game preservation",
-        "homebrew"
-      ],
-      "topics": [
-        "emulation",
-        "game-preservation",
-        "homebrew",
-        "ios",
-        "iphone",
-        "open-source",
-        "retrogaming",
-        "sideloading",
-        "swift"
-      ],
-      "visual": "default",
-      "curated_index": 1,
       "first_seen_at": "2026-10-22T17:57:56Z"
     },
     {
@@ -21648,6 +21966,41 @@
       "first_seen_at": "2026-10-22T12:57:25Z"
     },
     {
+      "id": "nautilusbits/skynet-godot",
+      "full_name": "nautilusbits/skynet-godot",
+      "owner": "nautilusbits",
+      "name": "skynet-godot",
+      "html_url": "https://github.com/nautilusbits/skynet-godot",
+      "cover": "https://opengraph.githubassets.com/1/nautilusbits/skynet-godot",
+      "description": "A Godot 4 port of Bethesda's 1996 XnGine shooters SkyNET and Future Shock - plays your own copy of the original game data.",
+      "editor_note": "",
+      "stars": 50,
+      "language": "GDScript",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-09T23:55:25Z",
+      "category": "游戏",
+      "tags": [
+        "dos games",
+        "fps",
+        "game port"
+      ],
+      "topics": [
+        "dos-games",
+        "fps",
+        "game-port",
+        "gdscript",
+        "godot",
+        "godot4",
+        "retrogaming",
+        "reverse-engineering",
+        "source-port",
+        "xngine"
+      ],
+      "visual": "default",
+      "curated_index": 0,
+      "first_seen_at": "2026-10-22T12:57:25Z"
+    },
+    {
       "id": "LouDnl/USBSID-Pico",
       "full_name": "LouDnl/USBSID-Pico",
       "owner": "LouDnl",
@@ -21690,41 +22043,6 @@
       ],
       "visual": "default",
       "curated_index": 9,
-      "first_seen_at": "2026-10-22T12:57:25Z"
-    },
-    {
-      "id": "nautilusbits/skynet-godot",
-      "full_name": "nautilusbits/skynet-godot",
-      "owner": "nautilusbits",
-      "name": "skynet-godot",
-      "html_url": "https://github.com/nautilusbits/skynet-godot",
-      "cover": "https://opengraph.githubassets.com/1/nautilusbits/skynet-godot",
-      "description": "A Godot 4 port of Bethesda's 1996 XnGine shooters SkyNET and Future Shock - plays your own copy of the original game data.",
-      "editor_note": "",
-      "stars": 49,
-      "language": "GDScript",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-07T16:19:05Z",
-      "category": "游戏",
-      "tags": [
-        "dos games",
-        "fps",
-        "game port"
-      ],
-      "topics": [
-        "dos-games",
-        "fps",
-        "game-port",
-        "gdscript",
-        "godot",
-        "godot4",
-        "retrogaming",
-        "reverse-engineering",
-        "source-port",
-        "xngine"
-      ],
-      "visual": "default",
-      "curated_index": 0,
       "first_seen_at": "2026-10-22T12:57:25Z"
     },
     {
@@ -29645,10 +29963,10 @@
       "cover": "https://opengraph.githubassets.com/1/wthouse/scanlines",
       "description": "A retro, minimalist Hugo theme inspired by classic DEC VT220/VT100 CRT terminals.  Self-contained, no-JS. Vibed with Claude and Gemini. 🤖",
       "editor_note": "",
-      "stars": 5,
+      "stars": 6,
       "language": "SCSS",
       "license": "MIT",
-      "updated_at": "2026-11-08T02:48:09Z",
+      "updated_at": "2026-11-09T14:26:50Z",
       "category": "工具",
       "tags": [
         "accessibility",
@@ -32868,10 +33186,10 @@
       "cover": "https://opengraph.githubassets.com/1/grymmjack/pixelmon",
       "description": "Pixel-art sprite generator on AMD ROCm, NVIDIA CUDA, MAC MPS — ComfyUI + SDXL + Pixel Art XL, driven by a one-command CLI.",
       "editor_note": "",
-      "stars": 56,
+      "stars": 58,
       "language": "Python",
       "license": "MIT",
-      "updated_at": "2026-11-13T19:57:58Z",
+      "updated_at": "2026-11-14T07:11:58Z",
       "category": "编辑器",
       "tags": [
         "ai",
@@ -37451,6 +37769,41 @@
       "first_seen_at": "2026-10-09T18:48:30Z"
     },
     {
+      "id": "retrowars/retrowars",
+      "full_name": "retrowars/retrowars",
+      "owner": "retrowars",
+      "name": "retrowars",
+      "html_url": "https://github.com/retrowars/retrowars",
+      "cover": "https://opengraph.githubassets.com/1/retrowars/retrowars",
+      "description": "Play retro games against each other in any combination in this open source Android multiplayer game.",
+      "editor_note": "",
+      "stars": 240,
+      "language": "Kotlin",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-11T13:24:32Z",
+      "category": "游戏",
+      "tags": [
+        "android",
+        "android game",
+        "foss"
+      ],
+      "topics": [
+        "android",
+        "android-game",
+        "foss",
+        "free-software",
+        "game",
+        "kotlin",
+        "libgdx",
+        "multiplayer-game",
+        "open-source",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 8,
+      "first_seen_at": "2026-10-09T07:22:14Z"
+    },
+    {
       "id": "Henrique194/chocolate-quake",
       "full_name": "Henrique194/chocolate-quake",
       "owner": "Henrique194",
@@ -37564,41 +37917,6 @@
       ],
       "visual": "default",
       "curated_index": 0,
-      "first_seen_at": "2026-10-09T07:22:14Z"
-    },
-    {
-      "id": "retrowars/retrowars",
-      "full_name": "retrowars/retrowars",
-      "owner": "retrowars",
-      "name": "retrowars",
-      "html_url": "https://github.com/retrowars/retrowars",
-      "cover": "https://opengraph.githubassets.com/1/retrowars/retrowars",
-      "description": "Play retro games against each other in any combination in this open source Android multiplayer game.",
-      "editor_note": "",
-      "stars": 239,
-      "language": "Kotlin",
-      "license": "GPL-3.0",
-      "updated_at": "2026-10-27T19:30:19Z",
-      "category": "游戏",
-      "tags": [
-        "android",
-        "android game",
-        "foss"
-      ],
-      "topics": [
-        "android",
-        "android-game",
-        "foss",
-        "free-software",
-        "game",
-        "kotlin",
-        "libgdx",
-        "multiplayer-game",
-        "open-source",
-        "retrogaming"
-      ],
-      "visual": "default",
-      "curated_index": 8,
       "first_seen_at": "2026-10-09T07:22:14Z"
     },
     {
@@ -38599,10 +38917,10 @@
       "cover": "https://opengraph.githubassets.com/1/evmar/retrowin32",
       "description": "windows emulator",
       "editor_note": "",
-      "stars": 715,
+      "stars": 716,
       "language": "Rust",
       "license": "Apache-2.0",
-      "updated_at": "2026-11-05T22:05:24Z",
+      "updated_at": "2026-11-09T19:23:35Z",
       "category": "模拟器",
       "tags": [
         "emulation",
@@ -43456,36 +43774,6 @@
       "first_seen_at": "2026-10-04T13:11:03Z"
     },
     {
-      "id": "TheOrcDev/8bitcn-ui",
-      "full_name": "TheOrcDev/8bitcn-ui",
-      "owner": "TheOrcDev",
-      "name": "8bitcn-ui",
-      "html_url": "https://github.com/TheOrcDev/8bitcn-ui",
-      "cover": "https://opengraph.githubassets.com/1/TheOrcDev/8bitcn-ui",
-      "description": "A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.",
-      "editor_note": "",
-      "stars": 2077,
-      "language": "TypeScript",
-      "license": "MIT",
-      "updated_at": "2026-11-13T19:07:58Z",
-      "category": "工具",
-      "tags": [
-        "8 bit",
-        "components",
-        "retro"
-      ],
-      "topics": [
-        "8-bit",
-        "components",
-        "retro",
-        "shadcn",
-        "ui"
-      ],
-      "visual": "default",
-      "curated_index": 3,
-      "first_seen_at": "2026-10-04T02:52:28Z"
-    },
-    {
       "id": "arianrhodsandlot/nostalgist",
       "full_name": "arianrhodsandlot/nostalgist",
       "owner": "arianrhodsandlot",
@@ -43494,10 +43782,10 @@
       "cover": "https://opengraph.githubassets.com/1/arianrhodsandlot/nostalgist",
       "description": "A JavaScript library used for running emulators of retro consoles inside browsers.",
       "editor_note": "",
-      "stars": 989,
+      "stars": 990,
       "language": "TypeScript",
       "license": "MIT",
-      "updated_at": "2026-11-12T15:39:49Z",
+      "updated_at": "2026-11-13T19:19:35Z",
       "category": "模拟器",
       "tags": [
         "atari",
@@ -43527,6 +43815,36 @@
       ],
       "visual": "default",
       "curated_index": 4,
+      "first_seen_at": "2026-10-04T02:52:28Z"
+    },
+    {
+      "id": "TheOrcDev/8bitcn-ui",
+      "full_name": "TheOrcDev/8bitcn-ui",
+      "owner": "TheOrcDev",
+      "name": "8bitcn-ui",
+      "html_url": "https://github.com/TheOrcDev/8bitcn-ui",
+      "cover": "https://opengraph.githubassets.com/1/TheOrcDev/8bitcn-ui",
+      "description": "A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.",
+      "editor_note": "",
+      "stars": 2077,
+      "language": "TypeScript",
+      "license": "MIT",
+      "updated_at": "2026-11-13T19:07:58Z",
+      "category": "工具",
+      "tags": [
+        "8 bit",
+        "components",
+        "retro"
+      ],
+      "topics": [
+        "8-bit",
+        "components",
+        "retro",
+        "shadcn",
+        "ui"
+      ],
+      "visual": "default",
+      "curated_index": 3,
       "first_seen_at": "2026-10-04T02:52:28Z"
     },
     {
@@ -43817,6 +44135,35 @@
       "first_seen_at": "2026-10-04T02:52:28Z"
     },
     {
+      "id": "scummvm/scummvm",
+      "full_name": "scummvm/scummvm",
+      "owner": "scummvm",
+      "name": "scummvm",
+      "html_url": "https://github.com/scummvm/scummvm",
+      "cover": "https://opengraph.githubassets.com/1/scummvm/scummvm",
+      "description": "ScummVM main repository",
+      "editor_note": "一只很聪明的时间机器：让经典图形冒险游戏在现代系统里保留原本的气质。",
+      "stars": 2893,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-14T06:40:47Z",
+      "category": "模拟器",
+      "tags": [
+        "冒险游戏",
+        "引擎合集",
+        "多平台"
+      ],
+      "topics": [
+        "adventure-engine",
+        "adventure-games",
+        "multiplatform",
+        "rpg-engine"
+      ],
+      "visual": "scumm",
+      "curated_index": 1,
+      "first_seen_at": "2026-10-04T02:50:58Z"
+    },
+    {
       "id": "mapeditor/tiled",
       "full_name": "mapeditor/tiled",
       "owner": "mapeditor",
@@ -43825,10 +44172,10 @@
       "cover": "https://opengraph.githubassets.com/1/mapeditor/tiled",
       "description": "Flexible level editor",
       "editor_note": "把地图、碰撞和关卡逻辑铺在一张熟悉的瓦片纸上，适合认真做一款 2D 游戏。",
-      "stars": 13059,
+      "stars": 13060,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-11-13T19:24:47Z",
+      "updated_at": "2026-11-14T06:21:16Z",
       "category": "编辑器",
       "tags": [
         "地图编辑",
@@ -43856,35 +44203,6 @@
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
-      "id": "scummvm/scummvm",
-      "full_name": "scummvm/scummvm",
-      "owner": "scummvm",
-      "name": "scummvm",
-      "html_url": "https://github.com/scummvm/scummvm",
-      "cover": "https://opengraph.githubassets.com/1/scummvm/scummvm",
-      "description": "ScummVM main repository",
-      "editor_note": "一只很聪明的时间机器：让经典图形冒险游戏在现代系统里保留原本的气质。",
-      "stars": 2891,
-      "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-13T19:17:12Z",
-      "category": "模拟器",
-      "tags": [
-        "冒险游戏",
-        "引擎合集",
-        "多平台"
-      ],
-      "topics": [
-        "adventure-engine",
-        "adventure-games",
-        "multiplatform",
-        "rpg-engine"
-      ],
-      "visual": "scumm",
-      "curated_index": 1,
-      "first_seen_at": "2026-10-04T02:50:58Z"
-    },
-    {
       "id": "OpenMW/openmw",
       "full_name": "OpenMW/openmw",
       "owner": "OpenMW",
@@ -43893,10 +44211,10 @@
       "cover": "https://opengraph.githubassets.com/1/OpenMW/openmw",
       "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/",
       "editor_note": "让一块经典 RPG 开放世界在现代硬件上继续生长，保留探索感与手工地图的尺度。",
-      "stars": 6749,
+      "stars": 6753,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-11-13T13:21:40Z",
+      "updated_at": "2026-11-14T04:22:06Z",
       "category": "游戏",
       "tags": [
         "RPG",
@@ -43914,6 +44232,43 @@
       ],
       "visual": "rpg",
       "curated_index": 0,
+      "first_seen_at": "2026-10-04T02:50:58Z"
+    },
+    {
+      "id": "OpenXcom/OpenXcom",
+      "full_name": "OpenXcom/OpenXcom",
+      "owner": "OpenXcom",
+      "name": "OpenXcom",
+      "html_url": "https://github.com/OpenXcom/OpenXcom",
+      "cover": "https://opengraph.githubassets.com/1/OpenXcom/OpenXcom",
+      "description": "Open-source clone of the original X-Com 👽",
+      "editor_note": "把外星人入侵、回合制战术和基地管理重新装进一台 486。紧张感没有随着分辨率一起消失。",
+      "stars": 2254,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-14T01:49:09Z",
+      "category": "游戏",
+      "tags": [
+        "回合制",
+        "战术",
+        "X-COM"
+      ],
+      "topics": [
+        "c-plus-plus",
+        "game",
+        "openxcom-game",
+        "sdl",
+        "strategy-game-engine",
+        "turn-based-combat",
+        "ufo",
+        "ufo-defense",
+        "video-game",
+        "xcom",
+        "xcom-terror-from-the-deep",
+        "xcom-ufo-defense"
+      ],
+      "visual": "xcom",
+      "curated_index": 6,
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
@@ -43959,43 +44314,6 @@
       ],
       "visual": "rpg",
       "curated_index": 5,
-      "first_seen_at": "2026-10-04T02:50:58Z"
-    },
-    {
-      "id": "OpenXcom/OpenXcom",
-      "full_name": "OpenXcom/OpenXcom",
-      "owner": "OpenXcom",
-      "name": "OpenXcom",
-      "html_url": "https://github.com/OpenXcom/OpenXcom",
-      "cover": "https://opengraph.githubassets.com/1/OpenXcom/OpenXcom",
-      "description": "Open-source clone of the original X-Com 👽",
-      "editor_note": "把外星人入侵、回合制战术和基地管理重新装进一台 486。紧张感没有随着分辨率一起消失。",
-      "stars": 2253,
-      "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-12T05:43:49Z",
-      "category": "游戏",
-      "tags": [
-        "回合制",
-        "战术",
-        "X-COM"
-      ],
-      "topics": [
-        "c-plus-plus",
-        "game",
-        "openxcom-game",
-        "sdl",
-        "strategy-game-engine",
-        "turn-based-combat",
-        "ufo",
-        "ufo-defense",
-        "video-game",
-        "xcom",
-        "xcom-terror-from-the-deep",
-        "xcom-ufo-defense"
-      ],
-      "visual": "xcom",
-      "curated_index": 6,
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
@@ -44176,6 +44494,67 @@
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
+      "id": "libretro/RetroArch",
+      "full_name": "libretro/RetroArch",
+      "owner": "libretro",
+      "name": "RetroArch",
+      "html_url": "https://github.com/libretro/RetroArch",
+      "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
+      "stars": 14609,
+      "language": "C",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-14T07:25:30Z",
+      "category": "模拟器",
+      "tags": [
+        "多平台",
+        "模拟核心",
+        "手柄"
+      ],
+      "topics": [
+        "c",
+        "libretro",
+        "retroarch"
+      ],
+      "visual": "pc",
+      "curated_index": 8,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "LibreSprite/LibreSprite",
+      "full_name": "LibreSprite/LibreSprite",
+      "owner": "LibreSprite",
+      "name": "LibreSprite",
+      "html_url": "https://github.com/LibreSprite/LibreSprite",
+      "cover": "https://opengraph.githubassets.com/1/LibreSprite/LibreSprite",
+      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+      "editor_note": "一款坚持像素边缘的精灵编辑器，适合给下一款小小的 2D 游戏准备主角。",
+      "stars": 8794,
+      "language": "C++",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-14T07:01:27Z",
+      "category": "编辑器",
+      "tags": [
+        "Sprite",
+        "动画",
+        "GPLv2"
+      ],
+      "topics": [
+        "animation",
+        "cplusplus",
+        "cpp",
+        "drawing",
+        "graphics",
+        "pixel-art",
+        "pixel-editor",
+        "sprites"
+      ],
+      "visual": "sprite",
+      "curated_index": 5,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
       "id": "Orama-Interactive/Pixelorama",
       "full_name": "Orama-Interactive/Pixelorama",
       "owner": "Orama-Interactive",
@@ -44184,10 +44563,10 @@
       "cover": "https://opengraph.githubassets.com/1/Orama-Interactive/Pixelorama",
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "editor_note": "像素画、精灵、瓦片和动画，一把把旧游戏的视觉零件重新拼起来。",
-      "stars": 11095,
+      "stars": 11097,
       "language": "GDScript",
       "license": "MIT",
-      "updated_at": "2026-11-13T19:49:03Z",
+      "updated_at": "2026-11-14T05:28:51Z",
       "category": "编辑器",
       "tags": [
         "像素绘画",
@@ -44229,10 +44608,10 @@
       "cover": "https://opengraph.githubassets.com/1/copy/v86",
       "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
       "editor_note": "直接在浏览器里启动一台 x86 电脑。像把整台旧 PC 折成一张网页，再塞进书签。",
-      "stars": 23684,
+      "stars": 23686,
       "language": "JavaScript",
       "license": "BSD-2-Clause",
-      "updated_at": "2026-11-13T19:17:22Z",
+      "updated_at": "2026-11-14T05:28:38Z",
       "category": "模拟器",
       "tags": [
         "浏览器",
@@ -44247,6 +44626,104 @@
       ],
       "visual": "pc",
       "curated_index": 4,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "OpenTTD/OpenTTD",
+      "full_name": "OpenTTD/OpenTTD",
+      "owner": "OpenTTD",
+      "name": "OpenTTD",
+      "html_url": "https://github.com/OpenTTD/OpenTTD",
+      "cover": "https://opengraph.githubassets.com/1/OpenTTD/OpenTTD",
+      "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
+      "editor_note": "铁路、公路、港口和那种一开局就停不下来的运输帝国。复古等距视角依旧很有魔力。",
+      "stars": 8500,
+      "language": "C++",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-14T04:25:13Z",
+      "category": "游戏",
+      "tags": [
+        "运输模拟",
+        "等距视角",
+        "沙盒"
+      ],
+      "topics": [
+        "game",
+        "isometric",
+        "openttd",
+        "sandbox",
+        "simulation"
+      ],
+      "visual": "transport",
+      "curated_index": 9,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "86Box/86Box",
+      "full_name": "86Box/86Box",
+      "owner": "86Box",
+      "name": "86Box",
+      "html_url": "https://github.com/86Box/86Box",
+      "cover": "https://opengraph.githubassets.com/1/86Box/86Box",
+      "description": "Emulator of x86-based machines.",
+      "editor_note": "精确模拟旧 x86 机器，把 BIOS 哔声、软盘和显卡兼容性一起保存下来。",
+      "stars": 4998,
+      "language": "C",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-14T02:40:40Z",
+      "category": "模拟器",
+      "tags": [
+        "x86",
+        "PC 模拟",
+        "硬件考古"
+      ],
+      "topics": [
+        "emulation",
+        "emulator",
+        "ibm",
+        "pc-emulator",
+        "x86"
+      ],
+      "visual": "pc",
+      "curated_index": 6,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "chocolate-doom/chocolate-doom",
+      "full_name": "chocolate-doom/chocolate-doom",
+      "owner": "chocolate-doom",
+      "name": "chocolate-doom",
+      "html_url": "https://github.com/chocolate-doom/chocolate-doom",
+      "cover": "https://opengraph.githubassets.com/1/chocolate-doom/chocolate-doom",
+      "description": "Chocolate Doom is a Doom source port that is minimalist and historically accurate.",
+      "editor_note": "不加滤镜、不追求花哨，只让经典 FPS 按照记忆里的速度和噪声再次启动。",
+      "stars": 2455,
+      "language": "C",
+      "license": "GPL-2.0",
+      "updated_at": "2026-11-13T20:37:59Z",
+      "category": "游戏",
+      "tags": [
+        "FPS",
+        "历史准确",
+        "SDL2"
+      ],
+      "topics": [
+        "c",
+        "doom",
+        "fps",
+        "fps-game",
+        "games",
+        "gplv2",
+        "heretic",
+        "hexen",
+        "retro",
+        "retrogaming",
+        "sdl",
+        "sdl2",
+        "strife"
+      ],
+      "visual": "doom",
+      "curated_index": 0,
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
@@ -44293,34 +44770,6 @@
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
-      "id": "libretro/RetroArch",
-      "full_name": "libretro/RetroArch",
-      "owner": "libretro",
-      "name": "RetroArch",
-      "html_url": "https://github.com/libretro/RetroArch",
-      "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
-      "stars": 14606,
-      "language": "C",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-13T18:58:01Z",
-      "category": "模拟器",
-      "tags": [
-        "多平台",
-        "模拟核心",
-        "手柄"
-      ],
-      "topics": [
-        "c",
-        "libretro",
-        "retroarch"
-      ],
-      "visual": "pc",
-      "curated_index": 8,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
       "id": "Swordfish90/cool-retro-term",
       "full_name": "Swordfish90/cool-retro-term",
       "owner": "Swordfish90",
@@ -44349,137 +44798,6 @@
       ],
       "visual": "terminal",
       "curated_index": 3,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "LibreSprite/LibreSprite",
-      "full_name": "LibreSprite/LibreSprite",
-      "owner": "LibreSprite",
-      "name": "LibreSprite",
-      "html_url": "https://github.com/LibreSprite/LibreSprite",
-      "cover": "https://opengraph.githubassets.com/1/LibreSprite/LibreSprite",
-      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
-      "editor_note": "一款坚持像素边缘的精灵编辑器，适合给下一款小小的 2D 游戏准备主角。",
-      "stars": 8791,
-      "language": "C++",
-      "license": "GPL-2.0",
-      "updated_at": "2026-11-13T17:09:55Z",
-      "category": "编辑器",
-      "tags": [
-        "Sprite",
-        "动画",
-        "GPLv2"
-      ],
-      "topics": [
-        "animation",
-        "cplusplus",
-        "cpp",
-        "drawing",
-        "graphics",
-        "pixel-art",
-        "pixel-editor",
-        "sprites"
-      ],
-      "visual": "sprite",
-      "curated_index": 5,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "86Box/86Box",
-      "full_name": "86Box/86Box",
-      "owner": "86Box",
-      "name": "86Box",
-      "html_url": "https://github.com/86Box/86Box",
-      "cover": "https://opengraph.githubassets.com/1/86Box/86Box",
-      "description": "Emulator of x86-based machines.",
-      "editor_note": "精确模拟旧 x86 机器，把 BIOS 哔声、软盘和显卡兼容性一起保存下来。",
-      "stars": 4996,
-      "language": "C",
-      "license": "GPL-2.0",
-      "updated_at": "2026-11-13T17:09:25Z",
-      "category": "模拟器",
-      "tags": [
-        "x86",
-        "PC 模拟",
-        "硬件考古"
-      ],
-      "topics": [
-        "emulation",
-        "emulator",
-        "ibm",
-        "pc-emulator",
-        "x86"
-      ],
-      "visual": "pc",
-      "curated_index": 6,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "OpenTTD/OpenTTD",
-      "full_name": "OpenTTD/OpenTTD",
-      "owner": "OpenTTD",
-      "name": "OpenTTD",
-      "html_url": "https://github.com/OpenTTD/OpenTTD",
-      "cover": "https://opengraph.githubassets.com/1/OpenTTD/OpenTTD",
-      "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
-      "editor_note": "铁路、公路、港口和那种一开局就停不下来的运输帝国。复古等距视角依旧很有魔力。",
-      "stars": 8499,
-      "language": "C++",
-      "license": "NOASSERTION",
-      "updated_at": "2026-11-13T10:07:16Z",
-      "category": "游戏",
-      "tags": [
-        "运输模拟",
-        "等距视角",
-        "沙盒"
-      ],
-      "topics": [
-        "game",
-        "isometric",
-        "openttd",
-        "sandbox",
-        "simulation"
-      ],
-      "visual": "transport",
-      "curated_index": 9,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "chocolate-doom/chocolate-doom",
-      "full_name": "chocolate-doom/chocolate-doom",
-      "owner": "chocolate-doom",
-      "name": "chocolate-doom",
-      "html_url": "https://github.com/chocolate-doom/chocolate-doom",
-      "cover": "https://opengraph.githubassets.com/1/chocolate-doom/chocolate-doom",
-      "description": "Chocolate Doom is a Doom source port that is minimalist and historically accurate.",
-      "editor_note": "不加滤镜、不追求花哨，只让经典 FPS 按照记忆里的速度和噪声再次启动。",
-      "stars": 2454,
-      "language": "C",
-      "license": "GPL-2.0",
-      "updated_at": "2026-11-13T08:39:39Z",
-      "category": "游戏",
-      "tags": [
-        "FPS",
-        "历史准确",
-        "SDL2"
-      ],
-      "topics": [
-        "c",
-        "doom",
-        "fps",
-        "fps-game",
-        "games",
-        "gplv2",
-        "heretic",
-        "hexen",
-        "retro",
-        "retrogaming",
-        "sdl",
-        "sdl2",
-        "strife"
-      ],
-      "visual": "doom",
-      "curated_index": 0,
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
