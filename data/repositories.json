@@ -1,10 +1,323 @@
 {
-  "updated_at": "2026-11-20T08:30:47Z",
+  "updated_at": "2026-11-20T21:03:48Z",
   "source": "GitHub Search API",
   "refresh_hours": 6,
   "last_batch_count": 10,
-  "search_page": 10,
+  "search_page": 1,
   "items": [
+    {
+      "id": "helworks/helengine-ps1",
+      "full_name": "helworks/helengine-ps1",
+      "owner": "helworks",
+      "name": "helengine-ps1",
+      "html_url": "https://github.com/helworks/helengine-ps1",
+      "cover": "https://opengraph.githubassets.com/1/helworks/helengine-ps1",
+      "description": "helengine PS1 handlers",
+      "editor_note": "",
+      "stars": 1,
+      "language": "C++",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-26T01:31:58Z",
+      "category": "游戏",
+      "tags": [
+        "gamedev",
+        "games",
+        "playstation"
+      ],
+      "topics": [
+        "gamedev",
+        "games",
+        "playstation",
+        "ps1",
+        "psx",
+        "psxdev",
+        "retro",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 9,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
+    {
+      "id": "CoderGamerUnknow/Retro-Pomodoro-Focus-Timer",
+      "full_name": "CoderGamerUnknow/Retro-Pomodoro-Focus-Timer",
+      "owner": "CoderGamerUnknow",
+      "name": "Retro-Pomodoro-Focus-Timer",
+      "html_url": "https://github.com/CoderGamerUnknow/Retro-Pomodoro-Focus-Timer",
+      "cover": "https://opengraph.githubassets.com/1/CoderGamerUnknow/Retro-Pomodoro-Focus-Timer",
+      "description": "A CRT-arcade Pomodoro focus timer in one offline-capable HTML file — custom phosphor themes, procedural ambient audio, task list and XP stats. No accounts, no backend, no data leaves your browser.",
+      "editor_note": "",
+      "stars": 0,
+      "language": "HTML",
+      "license": "MIT",
+      "updated_at": "2026-10-25T14:14:03Z",
+      "category": "游戏",
+      "tags": [
+        "crt",
+        "focus timer",
+        "offline first"
+      ],
+      "topics": [
+        "crt",
+        "focus-timer",
+        "offline-first",
+        "pomodoro",
+        "productivity",
+        "pwa",
+        "retro",
+        "vanilla-js"
+      ],
+      "visual": "default",
+      "curated_index": 0,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
+    {
+      "id": "Lana-chan/maples-retro-extravaganza",
+      "full_name": "Lana-chan/maples-retro-extravaganza",
+      "owner": "Lana-chan",
+      "name": "maples-retro-extravaganza",
+      "html_url": "https://github.com/Lana-chan/maples-retro-extravaganza",
+      "cover": "https://opengraph.githubassets.com/1/Lana-chan/maples-retro-extravaganza",
+      "description": "minecraft shader pack to emulate retro console graphics",
+      "editor_note": "",
+      "stars": 36,
+      "language": "GLSL",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-24T11:07:07Z",
+      "category": "工具",
+      "tags": [],
+      "topics": [],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
+    {
+      "id": "3p1cball-code/ShadeGunner",
+      "full_name": "3p1cball-code/ShadeGunner",
+      "owner": "3p1cball-code",
+      "name": "ShadeGunner",
+      "html_url": "https://github.com/3p1cball-code/ShadeGunner",
+      "cover": "https://opengraph.githubassets.com/1/3p1cball-code/ShadeGunner",
+      "description": "16-colour cyberpunk side-scroller in the Blade Runner universe - retire replicants hidden among civilians. Bayer dither + CRT on the GPU, CPU-composited city, procedural sprites and sound. PyQt6. Android/handheld port: github.com/3p1cball-code/ShadeGunner-Android",
+      "editor_note": "",
+      "stars": 0,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-14T10:46:44Z",
+      "category": "编辑器",
+      "tags": [
+        "blade runner",
+        "crt",
+        "cyberpunk"
+      ],
+      "topics": [
+        "blade-runner",
+        "crt",
+        "cyberpunk",
+        "dither",
+        "game",
+        "pixel-art",
+        "pyqt6",
+        "python"
+      ],
+      "visual": "default",
+      "curated_index": 2,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
+    {
+      "id": "ParniyaPeykamiyan/maze-lab",
+      "full_name": "ParniyaPeykamiyan/maze-lab",
+      "owner": "ParniyaPeykamiyan",
+      "name": "maze-lab",
+      "html_url": "https://github.com/ParniyaPeykamiyan/maze-lab",
+      "cover": "https://opengraph.githubassets.com/1/ParniyaPeykamiyan/maze-lab",
+      "description": "8-bit pathfinding arcade: pick a fighter (Dijkstra, A*, BFS, DFS, Greedy), load a level, add slime, and battle for the high score. Plain HTML/CSS/JS.",
+      "editor_note": "",
+      "stars": 0,
+      "language": "JavaScript",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-14T05:11:24Z",
+      "category": "编辑器",
+      "tags": [
+        "algorithms",
+        "arcade",
+        "astar"
+      ],
+      "topics": [
+        "algorithms",
+        "arcade",
+        "astar",
+        "bfs",
+        "dfs",
+        "dijkstra",
+        "education",
+        "game",
+        "javascript",
+        "maze-generator",
+        "pathfinding",
+        "pixel-art",
+        "visualization"
+      ],
+      "visual": "default",
+      "curated_index": 6,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
+    {
+      "id": "krux-creates/quote-quest",
+      "full_name": "krux-creates/quote-quest",
+      "owner": "krux-creates",
+      "name": "quote-quest",
+      "html_url": "https://github.com/krux-creates/quote-quest",
+      "cover": "https://opengraph.githubassets.com/1/krux-creates/quote-quest",
+      "description": "A random quote generator played as an 8-bit claw machine in five worlds. Next.js, React, Tailwind, 8bitcn.",
+      "editor_note": "",
+      "stars": 0,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "updated_at": "2026-10-13T06:52:57Z",
+      "category": "编辑器",
+      "tags": [
+        "8bit",
+        "claw machine",
+        "game"
+      ],
+      "topics": [
+        "8bit",
+        "claw-machine",
+        "game",
+        "nextjs",
+        "pixel-art",
+        "quotes"
+      ],
+      "visual": "default",
+      "curated_index": 7,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
+    {
+      "id": "jindx1020-crypto/qingzhu-sword-array",
+      "full_name": "jindx1020-crypto/qingzhu-sword-array",
+      "owner": "jindx1020-crypto",
+      "name": "qingzhu-sword-array",
+      "html_url": "https://github.com/jindx1020-crypto/qingzhu-sword-array",
+      "cover": "https://opengraph.githubassets.com/1/jindx1020-crypto/qingzhu-sword-array",
+      "description": "青竹剑阵 · 虚天殿篇：无需安装、浏览器离线游玩的像素御剑同人游戏。原创代码 GPL-3.0-only。",
+      "editor_note": "",
+      "stars": 24,
+      "language": "JavaScript",
+      "license": "GPL-3.0",
+      "updated_at": "2026-10-12T11:06:18Z",
+      "category": "编辑器",
+      "tags": [
+        "browser game",
+        "fan game",
+        "game"
+      ],
+      "topics": [
+        "browser-game",
+        "fan-game",
+        "game",
+        "javascript",
+        "offline",
+        "pixel-art"
+      ],
+      "visual": "default",
+      "curated_index": 8,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
+    {
+      "id": "xaskasdf/biw_engine",
+      "full_name": "xaskasdf/biw_engine",
+      "owner": "xaskasdf",
+      "name": "biw_engine",
+      "html_url": "https://github.com/xaskasdf/biw_engine",
+      "cover": "https://opengraph.githubassets.com/1/xaskasdf/biw_engine",
+      "description": "PS2 Game Engine built for new games using new modern formats on classic hardware",
+      "editor_note": "",
+      "stars": 0,
+      "language": "C",
+      "license": "NOASSERTION",
+      "updated_at": "2026-07-31T16:06:25Z",
+      "category": "游戏",
+      "tags": [
+        "game dev",
+        "game development",
+        "game engine"
+      ],
+      "topics": [
+        "game-dev",
+        "game-development",
+        "game-engine",
+        "ps2",
+        "retro-gaming",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 4,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
+    {
+      "id": "vitorfranklin/retrohost",
+      "full_name": "vitorfranklin/retrohost",
+      "owner": "vitorfranklin",
+      "name": "retrohost",
+      "html_url": "https://github.com/vitorfranklin/retrohost",
+      "cover": "https://opengraph.githubassets.com/1/vitorfranklin/retrohost",
+      "description": "Stream RetroArch to any browser with WebRTC",
+      "editor_note": "",
+      "stars": 1,
+      "language": "Python",
+      "license": "MIT",
+      "updated_at": "2026-07-25T20:35:13Z",
+      "category": "模拟器",
+      "tags": [
+        "docker",
+        "fastapi",
+        "ffmpeg"
+      ],
+      "topics": [
+        "docker",
+        "fastapi",
+        "ffmpeg",
+        "mediamtx",
+        "raspberry-pi",
+        "retroarch",
+        "retrogaming",
+        "streaming",
+        "webrtc"
+      ],
+      "visual": "default",
+      "curated_index": 1,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
+    {
+      "id": "8bitfred/retro-fred-scratch",
+      "full_name": "8bitfred/retro-fred-scratch",
+      "owner": "8bitfred",
+      "name": "retro-fred-scratch",
+      "html_url": "https://github.com/8bitfred/retro-fred-scratch",
+      "cover": "https://opengraph.githubassets.com/1/8bitfred/retro-fred-scratch",
+      "description": "Scratch port of Fred, the classic videogame for ZX Spectrum",
+      "editor_note": "",
+      "stars": 0,
+      "language": "多语言",
+      "license": "NOASSERTION",
+      "updated_at": "2026-07-06T17:30:42Z",
+      "category": "游戏",
+      "tags": [
+        "retrogaming",
+        "scratch",
+        "video game"
+      ],
+      "topics": [
+        "retrogaming",
+        "scratch",
+        "video-game",
+        "zx-spectrum"
+      ],
+      "visual": "default",
+      "curated_index": 5,
+      "first_seen_at": "2026-11-20T21:03:48Z"
+    },
     {
       "id": "blackmoon87/canvas-sprite-skeletal-animation-js",
       "full_name": "blackmoon87/canvas-sprite-skeletal-animation-js",
@@ -3581,6 +3894,34 @@
       "first_seen_at": "2026-11-15T19:21:30Z"
     },
     {
+      "id": "scpedicini/agi-stylist",
+      "full_name": "scpedicini/agi-stylist",
+      "owner": "scpedicini",
+      "name": "agi-stylist",
+      "html_url": "https://github.com/scpedicini/agi-stylist",
+      "cover": "https://opengraph.githubassets.com/1/scpedicini/agi-stylist",
+      "description": "Custom LLM skills to generate early AGI point-and-click adventure game graphic scenes",
+      "editor_note": "",
+      "stars": 36,
+      "language": "TypeScript",
+      "license": "MIT",
+      "updated_at": "2026-11-17T00:24:09Z",
+      "category": "游戏",
+      "tags": [
+        "adventure game",
+        "agi",
+        "retro"
+      ],
+      "topics": [
+        "adventure-game",
+        "agi",
+        "retro"
+      ],
+      "visual": "default",
+      "curated_index": 0,
+      "first_seen_at": "2026-11-15T07:49:52Z"
+    },
+    {
       "id": "airilakio29/portfolio-website",
       "full_name": "airilakio29/portfolio-website",
       "owner": "airilakio29",
@@ -3611,34 +3952,6 @@
       ],
       "visual": "default",
       "curated_index": 3,
-      "first_seen_at": "2026-11-15T07:49:52Z"
-    },
-    {
-      "id": "scpedicini/agi-stylist",
-      "full_name": "scpedicini/agi-stylist",
-      "owner": "scpedicini",
-      "name": "agi-stylist",
-      "html_url": "https://github.com/scpedicini/agi-stylist",
-      "cover": "https://opengraph.githubassets.com/1/scpedicini/agi-stylist",
-      "description": "Custom LLM skills to generate early AGI point-and-click adventure game graphic scenes",
-      "editor_note": "",
-      "stars": 35,
-      "language": "TypeScript",
-      "license": "MIT",
-      "updated_at": "2026-11-10T20:55:29Z",
-      "category": "游戏",
-      "tags": [
-        "adventure game",
-        "agi",
-        "retro"
-      ],
-      "topics": [
-        "adventure-game",
-        "agi",
-        "retro"
-      ],
-      "visual": "default",
-      "curated_index": 0,
       "first_seen_at": "2026-11-15T07:49:52Z"
     },
     {
@@ -6746,6 +7059,35 @@
       "first_seen_at": "2026-11-11T20:11:00Z"
     },
     {
+      "id": "hlfredoutrodot/hd-remaster",
+      "full_name": "hlfredoutrodot/hd-remaster",
+      "owner": "hlfredoutrodot",
+      "name": "hd-remaster",
+      "html_url": "https://github.com/hlfredoutrodot/hd-remaster",
+      "cover": "https://opengraph.githubassets.com/1/hlfredoutrodot/hd-remaster",
+      "description": "A remaster of Hidden and Dangerous using the Insanity 2 engine but with a lot of improvements based on the modern hardware support and the assets of the first opus.",
+      "editor_note": "",
+      "stars": 5,
+      "language": "多语言",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-17T08:04:35Z",
+      "category": "游戏",
+      "tags": [
+        "english",
+        "game",
+        "remaster"
+      ],
+      "topics": [
+        "english",
+        "game",
+        "remaster",
+        "retrogaming"
+      ],
+      "visual": "default",
+      "curated_index": 0,
+      "first_seen_at": "2026-11-11T07:44:09Z"
+    },
+    {
       "id": "iliyahaddad/Creative-QuickCD",
       "full_name": "iliyahaddad/Creative-QuickCD",
       "owner": "iliyahaddad",
@@ -6877,35 +7219,6 @@
       ],
       "visual": "default",
       "curated_index": 1,
-      "first_seen_at": "2026-11-11T07:44:09Z"
-    },
-    {
-      "id": "hlfredoutrodot/hd-remaster",
-      "full_name": "hlfredoutrodot/hd-remaster",
-      "owner": "hlfredoutrodot",
-      "name": "hd-remaster",
-      "html_url": "https://github.com/hlfredoutrodot/hd-remaster",
-      "cover": "https://opengraph.githubassets.com/1/hlfredoutrodot/hd-remaster",
-      "description": "A remaster of Hidden and Dangerous using the Insanity 2 engine but with a lot of improvements based on the modern hardware support and the assets of the first opus.",
-      "editor_note": "",
-      "stars": 5,
-      "language": "多语言",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-25T22:53:48Z",
-      "category": "游戏",
-      "tags": [
-        "english",
-        "game",
-        "remaster"
-      ],
-      "topics": [
-        "english",
-        "game",
-        "remaster",
-        "retrogaming"
-      ],
-      "visual": "default",
-      "curated_index": 0,
       "first_seen_at": "2026-11-11T07:44:09Z"
     },
     {
@@ -15597,6 +15910,47 @@
       "first_seen_at": "2026-10-31T13:37:54Z"
     },
     {
+      "id": "RealBitdancer/opal-rust",
+      "full_name": "RealBitdancer/opal-rust",
+      "owner": "RealBitdancer",
+      "name": "opal-rust",
+      "html_url": "https://github.com/RealBitdancer/opal-rust",
+      "cover": "https://opengraph.githubassets.com/1/RealBitdancer/opal-rust",
+      "description": "Rust binding for opal, the OPL2/OPL3 (YMF262) FM synthesis emulator. Compiles the C11 core with Cargo and exposes it as a native crate.",
+      "editor_note": "",
+      "stars": 1,
+      "language": "Rust",
+      "license": "MIT",
+      "updated_at": "2026-11-20T15:52:25Z",
+      "category": "模拟器",
+      "tags": [
+        "adlib",
+        "audio library",
+        "bindings"
+      ],
+      "topics": [
+        "adlib",
+        "audio-library",
+        "bindings",
+        "chiptune",
+        "dos",
+        "emulator",
+        "fm-synthesis",
+        "game-audio",
+        "opl2",
+        "opl3",
+        "retro",
+        "rust",
+        "rust-bindings",
+        "rust-crate",
+        "sound-blaster",
+        "ymf262"
+      ],
+      "visual": "default",
+      "curated_index": 4,
+      "first_seen_at": "2026-10-31T06:58:27Z"
+    },
+    {
       "id": "mitchivin/mitchIvin-xp",
       "full_name": "mitchivin/mitchIvin-xp",
       "owner": "mitchivin",
@@ -15605,10 +15959,10 @@
       "cover": "https://opengraph.githubassets.com/1/mitchivin/mitchIvin-xp",
       "description": "My portfolio as a working Windows XP desktop in the browser. Boot the machine, log in to the Luna shell, and move through a real window manager with Start menu, taskbar, tray, and XP window chrome. Portfolio pages and interactive apps open like programs, including handheld demos and other pieces from my design and UI work.",
       "editor_note": "",
-      "stars": 181,
+      "stars": 183,
       "language": "多语言",
       "license": "NOASSERTION",
-      "updated_at": "2026-11-10T20:07:27Z",
+      "updated_at": "2026-11-20T02:08:46Z",
       "category": "工具",
       "tags": [
         "html5",
@@ -15738,47 +16092,6 @@
       ],
       "visual": "default",
       "curated_index": 1,
-      "first_seen_at": "2026-10-31T06:58:27Z"
-    },
-    {
-      "id": "RealBitdancer/opal-rust",
-      "full_name": "RealBitdancer/opal-rust",
-      "owner": "RealBitdancer",
-      "name": "opal-rust",
-      "html_url": "https://github.com/RealBitdancer/opal-rust",
-      "cover": "https://opengraph.githubassets.com/1/RealBitdancer/opal-rust",
-      "description": "Rust binding for opal, the OPL2/OPL3 (YMF262) FM synthesis emulator. Compiles the C11 core with Cargo and exposes it as a native crate.",
-      "editor_note": "",
-      "stars": 0,
-      "language": "Rust",
-      "license": "MIT",
-      "updated_at": "2026-10-24T23:18:17Z",
-      "category": "模拟器",
-      "tags": [
-        "adlib",
-        "audio library",
-        "bindings"
-      ],
-      "topics": [
-        "adlib",
-        "audio-library",
-        "bindings",
-        "chiptune",
-        "dos",
-        "emulator",
-        "fm-synthesis",
-        "game-audio",
-        "opl2",
-        "opl3",
-        "retro",
-        "rust",
-        "rust-bindings",
-        "rust-crate",
-        "sound-blaster",
-        "ymf262"
-      ],
-      "visual": "default",
-      "curated_index": 4,
       "first_seen_at": "2026-10-31T06:58:27Z"
     },
     {
@@ -17722,7 +18035,7 @@
       "stars": 10,
       "language": "C",
       "license": "NOASSERTION",
-      "updated_at": "2026-11-15T05:01:19Z",
+      "updated_at": "2026-11-16T19:25:08Z",
       "category": "游戏",
       "tags": [
         "chaos",
@@ -19482,6 +19795,40 @@
       "first_seen_at": "2026-10-27T18:40:55Z"
     },
     {
+      "id": "Typongtv/CRT-Screen-Off-Animation",
+      "full_name": "Typongtv/CRT-Screen-Off-Animation",
+      "owner": "Typongtv",
+      "name": "CRT-Screen-Off-Animation",
+      "html_url": "https://github.com/Typongtv/CRT-Screen-Off-Animation",
+      "cover": "https://opengraph.githubassets.com/1/Typongtv/CRT-Screen-Off-Animation",
+      "description": "Early Android inspired CRT electron-beam screen-off sleep animation for Android 13–16+. Rootless, 120Hz AGSL GPU hardware-accelerated.",
+      "editor_note": "",
+      "stars": 27,
+      "language": "Kotlin",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-17T19:08:54Z",
+      "category": "工具",
+      "tags": [
+        "accessibility service",
+        "agsl",
+        "android"
+      ],
+      "topics": [
+        "accessibility-service",
+        "agsl",
+        "android",
+        "crt",
+        "customization",
+        "cyanogenmod",
+        "jetpack-compose",
+        "retro",
+        "screen-off"
+      ],
+      "visual": "default",
+      "curated_index": 5,
+      "first_seen_at": "2026-10-27T18:40:55Z"
+    },
+    {
       "id": "etroimcasso/Kirpich",
       "full_name": "etroimcasso/Kirpich",
       "owner": "etroimcasso",
@@ -19548,40 +19895,6 @@
       ],
       "visual": "default",
       "curated_index": 9,
-      "first_seen_at": "2026-10-27T18:40:55Z"
-    },
-    {
-      "id": "Typongtv/CRT-Screen-Off-Animation",
-      "full_name": "Typongtv/CRT-Screen-Off-Animation",
-      "owner": "Typongtv",
-      "name": "CRT-Screen-Off-Animation",
-      "html_url": "https://github.com/Typongtv/CRT-Screen-Off-Animation",
-      "cover": "https://opengraph.githubassets.com/1/Typongtv/CRT-Screen-Off-Animation",
-      "description": "Early Android inspired CRT electron-beam screen-off sleep animation for Android 13–16+. Rootless, 120Hz AGSL GPU hardware-accelerated.",
-      "editor_note": "",
-      "stars": 26,
-      "language": "Kotlin",
-      "license": "NOASSERTION",
-      "updated_at": "2026-10-27T11:49:44Z",
-      "category": "工具",
-      "tags": [
-        "accessibility service",
-        "agsl",
-        "android"
-      ],
-      "topics": [
-        "accessibility-service",
-        "agsl",
-        "android",
-        "crt",
-        "customization",
-        "cyanogenmod",
-        "jetpack-compose",
-        "retro",
-        "screen-off"
-      ],
-      "visual": "default",
-      "curated_index": 5,
       "first_seen_at": "2026-10-27T18:40:55Z"
     },
     {
@@ -25761,6 +26074,32 @@
       "first_seen_at": "2026-10-23T06:01:40Z"
     },
     {
+      "id": "jotego/jtbin",
+      "full_name": "jotego/jtbin",
+      "owner": "jotego",
+      "name": "jtbin",
+      "html_url": "https://github.com/jotego/jtbin",
+      "cover": "https://opengraph.githubassets.com/1/jotego/jtbin",
+      "description": "Binary files for MiSTerFPGA, Pocket and other platforms",
+      "editor_note": "",
+      "stars": 308,
+      "language": "Arc",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-19T02:40:05Z",
+      "category": "工具",
+      "tags": [
+        "fpga",
+        "retro"
+      ],
+      "topics": [
+        "fpga",
+        "retro"
+      ],
+      "visual": "default",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-22T22:17:48Z"
+    },
+    {
       "id": "fj123u/EmuWorld",
       "full_name": "fj123u/EmuWorld",
       "owner": "fj123u",
@@ -25833,32 +26172,6 @@
       ],
       "visual": "default",
       "curated_index": 0,
-      "first_seen_at": "2026-10-22T22:17:48Z"
-    },
-    {
-      "id": "jotego/jtbin",
-      "full_name": "jotego/jtbin",
-      "owner": "jotego",
-      "name": "jtbin",
-      "html_url": "https://github.com/jotego/jtbin",
-      "cover": "https://opengraph.githubassets.com/1/jotego/jtbin",
-      "description": "Binary files for MiSTerFPGA, Pocket and other platforms",
-      "editor_note": "",
-      "stars": 307,
-      "language": "Arc",
-      "license": "NOASSERTION",
-      "updated_at": "2026-11-10T17:46:09Z",
-      "category": "工具",
-      "tags": [
-        "fpga",
-        "retro"
-      ],
-      "topics": [
-        "fpga",
-        "retro"
-      ],
-      "visual": "default",
-      "curated_index": 3,
       "first_seen_at": "2026-10-22T22:17:48Z"
     },
     {
@@ -38487,10 +38800,10 @@
       "cover": "https://opengraph.githubassets.com/1/dsoft20/psx_retroshader",
       "description": "Shader that \"emulates\" the rendering style of ps1",
       "editor_note": "",
-      "stars": 1241,
+      "stars": 1244,
       "language": "GLSL",
       "license": "MIT",
-      "updated_at": "2026-11-15T17:58:24Z",
+      "updated_at": "2026-11-19T22:56:43Z",
       "category": "工具",
       "tags": [],
       "topics": [],
@@ -41319,6 +41632,34 @@
       "first_seen_at": "2026-10-10T13:38:17Z"
     },
     {
+      "id": "CytopiaTeam/Cytopia",
+      "full_name": "CytopiaTeam/Cytopia",
+      "owner": "CytopiaTeam",
+      "name": "Cytopia",
+      "html_url": "https://github.com/CytopiaTeam/Cytopia",
+      "cover": "https://opengraph.githubassets.com/1/CytopiaTeam/Cytopia",
+      "description": ":deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game",
+      "editor_note": "",
+      "stars": 2185,
+      "language": "C++",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-20T02:16:27Z",
+      "category": "编辑器",
+      "tags": [
+        "city builder",
+        "pixel art",
+        "sdl"
+      ],
+      "topics": [
+        "city-builder",
+        "pixel-art",
+        "sdl"
+      ],
+      "visual": "default",
+      "curated_index": 2,
+      "first_seen_at": "2026-10-10T07:03:36Z"
+    },
+    {
       "id": "jojodogm-ctrl/emufii",
       "full_name": "jojodogm-ctrl/emufii",
       "owner": "jojodogm-ctrl",
@@ -41428,34 +41769,6 @@
       ],
       "visual": "default",
       "curated_index": 4,
-      "first_seen_at": "2026-10-10T07:03:36Z"
-    },
-    {
-      "id": "CytopiaTeam/Cytopia",
-      "full_name": "CytopiaTeam/Cytopia",
-      "owner": "CytopiaTeam",
-      "name": "Cytopia",
-      "html_url": "https://github.com/CytopiaTeam/Cytopia",
-      "cover": "https://opengraph.githubassets.com/1/CytopiaTeam/Cytopia",
-      "description": ":deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game",
-      "editor_note": "",
-      "stars": 2181,
-      "language": "C++",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-13T17:31:28Z",
-      "category": "编辑器",
-      "tags": [
-        "city builder",
-        "pixel art",
-        "sdl"
-      ],
-      "topics": [
-        "city-builder",
-        "pixel-art",
-        "sdl"
-      ],
-      "visual": "default",
-      "curated_index": 2,
       "first_seen_at": "2026-10-10T07:03:36Z"
     },
     {
@@ -48748,10 +49061,10 @@
       "cover": "https://opengraph.githubassets.com/1/OpenMW/openmw",
       "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/",
       "editor_note": "让一块经典 RPG 开放世界在现代硬件上继续生长，保留探索感与手工地图的尺度。",
-      "stars": 6768,
+      "stars": 6769,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-11-20T03:11:10Z",
+      "updated_at": "2026-11-20T15:00:55Z",
       "category": "游戏",
       "tags": [
         "RPG",
@@ -48769,6 +49082,45 @@
       ],
       "visual": "rpg",
       "curated_index": 0,
+      "first_seen_at": "2026-10-04T02:50:58Z"
+    },
+    {
+      "id": "mapeditor/tiled",
+      "full_name": "mapeditor/tiled",
+      "owner": "mapeditor",
+      "name": "tiled",
+      "html_url": "https://github.com/mapeditor/tiled",
+      "cover": "https://opengraph.githubassets.com/1/mapeditor/tiled",
+      "description": "Flexible level editor",
+      "editor_note": "把地图、碰撞和关卡逻辑铺在一张熟悉的瓦片纸上，适合认真做一款 2D 游戏。",
+      "stars": 13080,
+      "language": "C++",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-20T15:00:08Z",
+      "category": "编辑器",
+      "tags": [
+        "地图编辑",
+        "瓦片",
+        "关卡设计"
+      ],
+      "topics": [
+        "c-plus-plus",
+        "editor",
+        "game",
+        "game-development",
+        "hacktoberfest",
+        "java",
+        "level",
+        "level-editor",
+        "map-editor",
+        "qbs",
+        "qt",
+        "qt-framework",
+        "tile",
+        "tilesets"
+      ],
+      "visual": "transport",
+      "curated_index": 2,
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
@@ -48806,45 +49158,6 @@
       ],
       "visual": "xcom",
       "curated_index": 6,
-      "first_seen_at": "2026-10-04T02:50:58Z"
-    },
-    {
-      "id": "mapeditor/tiled",
-      "full_name": "mapeditor/tiled",
-      "owner": "mapeditor",
-      "name": "tiled",
-      "html_url": "https://github.com/mapeditor/tiled",
-      "cover": "https://opengraph.githubassets.com/1/mapeditor/tiled",
-      "description": "Flexible level editor",
-      "editor_note": "把地图、碰撞和关卡逻辑铺在一张熟悉的瓦片纸上，适合认真做一款 2D 游戏。",
-      "stars": 13081,
-      "language": "C++",
-      "license": "NOASSERTION",
-      "updated_at": "2026-11-20T01:15:07Z",
-      "category": "编辑器",
-      "tags": [
-        "地图编辑",
-        "瓦片",
-        "关卡设计"
-      ],
-      "topics": [
-        "c-plus-plus",
-        "editor",
-        "game",
-        "game-development",
-        "hacktoberfest",
-        "java",
-        "level",
-        "level-editor",
-        "map-editor",
-        "qbs",
-        "qt",
-        "qt-framework",
-        "tile",
-        "tilesets"
-      ],
-      "visual": "transport",
-      "curated_index": 2,
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
@@ -49099,95 +49412,6 @@
       "first_seen_at": "2026-10-04T02:50:58Z"
     },
     {
-      "id": "libretro/RetroArch",
-      "full_name": "libretro/RetroArch",
-      "owner": "libretro",
-      "name": "RetroArch",
-      "html_url": "https://github.com/libretro/RetroArch",
-      "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
-      "stars": 14658,
-      "language": "C",
-      "license": "GPL-3.0",
-      "updated_at": "2026-11-20T07:39:17Z",
-      "category": "模拟器",
-      "tags": [
-        "多平台",
-        "模拟核心",
-        "手柄"
-      ],
-      "topics": [
-        "c",
-        "libretro",
-        "retroarch"
-      ],
-      "visual": "pc",
-      "curated_index": 8,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "OpenTTD/OpenTTD",
-      "full_name": "OpenTTD/OpenTTD",
-      "owner": "OpenTTD",
-      "name": "OpenTTD",
-      "html_url": "https://github.com/OpenTTD/OpenTTD",
-      "cover": "https://opengraph.githubassets.com/1/OpenTTD/OpenTTD",
-      "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
-      "editor_note": "铁路、公路、港口和那种一开局就停不下来的运输帝国。复古等距视角依旧很有魔力。",
-      "stars": 8520,
-      "language": "C++",
-      "license": "NOASSERTION",
-      "updated_at": "2026-11-20T07:08:12Z",
-      "category": "游戏",
-      "tags": [
-        "运输模拟",
-        "等距视角",
-        "沙盒"
-      ],
-      "topics": [
-        "game",
-        "isometric",
-        "openttd",
-        "sandbox",
-        "simulation"
-      ],
-      "visual": "transport",
-      "curated_index": 9,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
-      "id": "Swordfish90/cool-retro-term",
-      "full_name": "Swordfish90/cool-retro-term",
-      "owner": "Swordfish90",
-      "name": "cool-retro-term",
-      "html_url": "https://github.com/Swordfish90/cool-retro-term",
-      "cover": "https://opengraph.githubassets.com/1/Swordfish90/cool-retro-term",
-      "description": "A good looking terminal emulator which mimics the old cathode display...",
-      "editor_note": "把终端变成一台会发光的老电视：扫描线、磷光和 CRT 噪点都可以调到你喜欢的程度。",
-      "stars": 26577,
-      "language": "QML",
-      "license": "NOASSERTION",
-      "updated_at": "2026-11-20T06:39:39Z",
-      "category": "工具",
-      "tags": [
-        "CRT",
-        "终端",
-        "复古计算"
-      ],
-      "topics": [
-        "linux",
-        "macos",
-        "qml",
-        "qt",
-        "retro",
-        "terminal"
-      ],
-      "visual": "terminal",
-      "curated_index": 3,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
       "id": "Orama-Interactive/Pixelorama",
       "full_name": "Orama-Interactive/Pixelorama",
       "owner": "Orama-Interactive",
@@ -49196,10 +49420,10 @@
       "cover": "https://opengraph.githubassets.com/1/Orama-Interactive/Pixelorama",
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "editor_note": "像素画、精灵、瓦片和动画，一把把旧游戏的视觉零件重新拼起来。",
-      "stars": 11156,
+      "stars": 11159,
       "language": "GDScript",
       "license": "MIT",
-      "updated_at": "2026-11-20T06:20:52Z",
+      "updated_at": "2026-11-20T20:52:03Z",
       "category": "编辑器",
       "tags": [
         "像素绘画",
@@ -49241,10 +49465,10 @@
       "cover": "https://opengraph.githubassets.com/1/LibreSprite/LibreSprite",
       "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
       "editor_note": "一款坚持像素边缘的精灵编辑器，适合给下一款小小的 2D 游戏准备主角。",
-      "stars": 8825,
+      "stars": 8828,
       "language": "C++",
       "license": "GPL-2.0",
-      "updated_at": "2026-11-20T04:26:20Z",
+      "updated_at": "2026-11-20T20:52:01Z",
       "category": "编辑器",
       "tags": [
         "Sprite",
@@ -49266,6 +49490,94 @@
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
+      "id": "libretro/RetroArch",
+      "full_name": "libretro/RetroArch",
+      "owner": "libretro",
+      "name": "RetroArch",
+      "html_url": "https://github.com/libretro/RetroArch",
+      "cover": "https://opengraph.githubassets.com/1/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "editor_note": "一套把不同主机模拟核心收进同一个前端的复古游戏工作台。",
+      "stars": 14662,
+      "language": "C",
+      "license": "GPL-3.0",
+      "updated_at": "2026-11-20T19:34:53Z",
+      "category": "模拟器",
+      "tags": [
+        "多平台",
+        "模拟核心",
+        "手柄"
+      ],
+      "topics": [
+        "c",
+        "libretro",
+        "retroarch"
+      ],
+      "visual": "pc",
+      "curated_index": 8,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "Swordfish90/cool-retro-term",
+      "full_name": "Swordfish90/cool-retro-term",
+      "owner": "Swordfish90",
+      "name": "cool-retro-term",
+      "html_url": "https://github.com/Swordfish90/cool-retro-term",
+      "cover": "https://opengraph.githubassets.com/1/Swordfish90/cool-retro-term",
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "editor_note": "把终端变成一台会发光的老电视：扫描线、磷光和 CRT 噪点都可以调到你喜欢的程度。",
+      "stars": 26581,
+      "language": "QML",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-20T18:56:06Z",
+      "category": "工具",
+      "tags": [
+        "CRT",
+        "终端",
+        "复古计算"
+      ],
+      "topics": [
+        "linux",
+        "macos",
+        "qml",
+        "qt",
+        "retro",
+        "terminal"
+      ],
+      "visual": "terminal",
+      "curated_index": 3,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "copy/v86",
+      "full_name": "copy/v86",
+      "owner": "copy",
+      "name": "v86",
+      "html_url": "https://github.com/copy/v86",
+      "cover": "https://opengraph.githubassets.com/1/copy/v86",
+      "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
+      "editor_note": "直接在浏览器里启动一台 x86 电脑。像把整台旧 PC 折成一张网页，再塞进书签。",
+      "stars": 23718,
+      "language": "JavaScript",
+      "license": "BSD-2-Clause",
+      "updated_at": "2026-11-20T18:54:58Z",
+      "category": "模拟器",
+      "tags": [
+        "浏览器",
+        "x86",
+        "WebAssembly"
+      ],
+      "topics": [
+        "emulator",
+        "virtualization",
+        "wasm",
+        "x86"
+      ],
+      "visual": "pc",
+      "curated_index": 4,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
       "id": "OpenRCT2/OpenRCT2",
       "full_name": "OpenRCT2/OpenRCT2",
       "owner": "OpenRCT2",
@@ -49274,10 +49586,10 @@
       "cover": "https://opengraph.githubassets.com/1/OpenRCT2/OpenRCT2",
       "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
       "editor_note": "把主题公园经营搬回 CRT 屏幕：过山车、像素游客和一整套不肯退休的模拟经营系统。",
-      "stars": 16594,
+      "stars": 16597,
       "language": "C++",
       "license": "GPL-3.0",
-      "updated_at": "2026-11-20T01:52:17Z",
+      "updated_at": "2026-11-20T18:21:45Z",
       "category": "游戏",
       "tags": [
         "模拟经营",
@@ -49309,35 +49621,6 @@
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
-      "id": "copy/v86",
-      "full_name": "copy/v86",
-      "owner": "copy",
-      "name": "v86",
-      "html_url": "https://github.com/copy/v86",
-      "cover": "https://opengraph.githubassets.com/1/copy/v86",
-      "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
-      "editor_note": "直接在浏览器里启动一台 x86 电脑。像把整台旧 PC 折成一张网页，再塞进书签。",
-      "stars": 23715,
-      "language": "JavaScript",
-      "license": "BSD-2-Clause",
-      "updated_at": "2026-11-20T01:43:44Z",
-      "category": "模拟器",
-      "tags": [
-        "浏览器",
-        "x86",
-        "WebAssembly"
-      ],
-      "topics": [
-        "emulator",
-        "virtualization",
-        "wasm",
-        "x86"
-      ],
-      "visual": "pc",
-      "curated_index": 4,
-      "first_seen_at": "2026-10-03T20:17:43Z"
-    },
-    {
       "id": "dosbox-staging/dosbox-staging",
       "full_name": "dosbox-staging/dosbox-staging",
       "owner": "dosbox-staging",
@@ -49346,10 +49629,10 @@
       "cover": "https://opengraph.githubassets.com/1/dosbox-staging/dosbox-staging",
       "description": "DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.",
       "editor_note": "给 MS-DOS 游戏准备的一间现代化放映室：兼容性更好，但仍然保留那行闪烁的命令提示符。",
-      "stars": 1841,
+      "stars": 1842,
       "language": "C++",
       "license": "NOASSERTION",
-      "updated_at": "2026-11-19T21:32:08Z",
+      "updated_at": "2026-11-20T16:47:21Z",
       "category": "模拟器",
       "tags": [
         "MS-DOS",
@@ -49386,10 +49669,10 @@
       "cover": "https://opengraph.githubassets.com/1/chocolate-doom/chocolate-doom",
       "description": "Chocolate Doom is a Doom source port that is minimalist and historically accurate.",
       "editor_note": "不加滤镜、不追求花哨，只让经典 FPS 按照记忆里的速度和噪声再次启动。",
-      "stars": 2457,
+      "stars": 2458,
       "language": "C",
       "license": "GPL-2.0",
-      "updated_at": "2026-11-19T18:31:04Z",
+      "updated_at": "2026-11-20T08:56:10Z",
       "category": "游戏",
       "tags": [
         "FPS",
@@ -49413,6 +49696,36 @@
       ],
       "visual": "doom",
       "curated_index": 0,
+      "first_seen_at": "2026-10-03T20:17:43Z"
+    },
+    {
+      "id": "OpenTTD/OpenTTD",
+      "full_name": "OpenTTD/OpenTTD",
+      "owner": "OpenTTD",
+      "name": "OpenTTD",
+      "html_url": "https://github.com/OpenTTD/OpenTTD",
+      "cover": "https://opengraph.githubassets.com/1/OpenTTD/OpenTTD",
+      "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
+      "editor_note": "铁路、公路、港口和那种一开局就停不下来的运输帝国。复古等距视角依旧很有魔力。",
+      "stars": 8520,
+      "language": "C++",
+      "license": "NOASSERTION",
+      "updated_at": "2026-11-20T07:08:12Z",
+      "category": "游戏",
+      "tags": [
+        "运输模拟",
+        "等距视角",
+        "沙盒"
+      ],
+      "topics": [
+        "game",
+        "isometric",
+        "openttd",
+        "sandbox",
+        "simulation"
+      ],
+      "visual": "transport",
+      "curated_index": 9,
       "first_seen_at": "2026-10-03T20:17:43Z"
     },
     {
